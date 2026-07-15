@@ -1,0 +1,83 @@
+{
+    "user_key": "gh-dimitrioslisenko",
+    "display_name": "DimitriosLisenko",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6618354?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=DimitriosLisenko",
+    "github_login": "DimitriosLisenko",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 280,
+    "points_github": 280,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 3,
+    "prs_created": 4,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "No way to enable compression for backups via xtrabackup sidecar",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2350",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-01-23",
+            "state": "closed"
+        },
+        {
+            "title": "Running backups causes the PITR container to crash",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2312",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-12-11",
+            "state": "open"
+        },
+        {
+            "title": "Using HeadBucket for backups is dangerous in multi-tenant S3 buckets",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2251",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-11-17",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPXC-1873: Optionally don't run HeadBucket check when initializing the storage client",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2444",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-04-24",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPXC-1851: Fix potential nil pointer dereference in pkg\/pxc\/backup\/restore.go",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2423",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-04-02",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Using HeadBucket for backups is dangerous in multi-tenant S3 buckets",
+            "url": "https:\/\/github.com\/percona\/percona-xtrabackup\/pull\/1717",
+            "repo": "percona\/percona-xtrabackup",
+            "date": "2025-12-19",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Don't run HeadBucket check when initializing the storage client",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2326",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-12-19",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

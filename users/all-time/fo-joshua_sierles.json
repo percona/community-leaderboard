@@ -1,0 +1,94 @@
+{
+    "user_key": "fo-joshua_sierles",
+    "display_name": "Joshua Sierles",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/joshua_sierles\/120\/13225_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Joshua_Sierles",
+    "github_login": null,
+    "forum_username": "Joshua_Sierles",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 65,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 65,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 13,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Does Everest support MySQL failover?",
+            "url": "https:\/\/forums.percona.com\/t\/does-everest-support-mysql-failover",
+            "date": "2024-06-22"
+        },
+        {
+            "title": "Crash loop booting second MySQL instance on Docker Desktop for Mac",
+            "url": "https:\/\/forums.percona.com\/t\/crash-loop-booting-second-mysql-instance-on-docker-desktop-for-mac",
+            "date": "2024-06-23"
+        },
+        {
+            "title": "Accessing the Everest API",
+            "url": "https:\/\/forums.percona.com\/t\/accessing-the-everest-api",
+            "date": "2024-06-23"
+        },
+        {
+            "title": "Everest event notifications\/webhooks",
+            "url": "https:\/\/forums.percona.com\/t\/everest-event-notifications-webhooks",
+            "date": "2024-06-24"
+        },
+        {
+            "title": "Pxc_strict_mode = ENFORCING on single node install",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-strict-mode-enforcing-on-single-node-install",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "2 node Mysql with an arbitrator",
+            "url": "https:\/\/forums.percona.com\/t\/2-node-mysql-with-an-arbitrator",
+            "date": "2024-06-28"
+        },
+        {
+            "title": "MySQL Operator in Everest",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-operator-in-everest",
+            "date": "2024-07-02"
+        },
+        {
+            "title": "Building base images for the MySQL operator",
+            "url": "https:\/\/forums.percona.com\/t\/building-base-images-for-the-mysql-operator",
+            "date": "2024-07-04"
+        },
+        {
+            "title": "Percona XtraDB operator with single node detects itself as peer",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-operator-with-single-node-detects-itself-as-peer",
+            "date": "2024-07-11"
+        },
+        {
+            "title": "Primary\/replica labels on pods",
+            "url": "https:\/\/forums.percona.com\/t\/primary-replica-labels-on-pods",
+            "date": "2024-08-08"
+        },
+        {
+            "title": "Operator leader election hangs often",
+            "url": "https:\/\/forums.percona.com\/t\/operator-leader-election-hangs-often",
+            "date": "2024-08-11"
+        },
+        {
+            "title": "Running Percona operator",
+            "url": "https:\/\/forums.percona.com\/t\/running-percona-operator",
+            "date": "2024-11-04"
+        },
+        {
+            "title": "DCS failsafe mode for PG operator",
+            "url": "https:\/\/forums.percona.com\/t\/dcs-failsafe-mode-for-pg-operator",
+            "date": "2025-02-04"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

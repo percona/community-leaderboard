@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-jruffer",
+    "display_name": "Jeremy Ruffer",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jruffer\/120\/16566_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jruffer",
+    "github_login": null,
+    "forum_username": "jruffer",
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "ERROR: permission denied for table <tablename>",
+            "url": "https:\/\/forums.percona.com\/t\/error-permission-denied-for-table-tablename",
+            "date": "2026-04-20"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

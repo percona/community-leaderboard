@@ -1,0 +1,60 @@
+{
+    "user_key": "gh-devrimgunduz",
+    "display_name": "Devrim Gündüz",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/334065?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=devrimgunduz",
+    "github_login": "devrimgunduz",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 220,
+    "points_github": 220,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 2,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PostgreSQL 19 support",
+            "url": "https:\/\/github.com\/percona\/pg_stat_monitor\/issues\/773",
+            "repo": "percona\/pg_stat_monitor",
+            "date": "2026-07-09",
+            "state": "open"
+        },
+        {
+            "title": "PostgreSQL 17 support",
+            "url": "https:\/\/github.com\/percona\/pg_stat_monitor\/issues\/474",
+            "repo": "percona\/pg_stat_monitor",
+            "date": "2024-07-16",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix build failures on GCC 11 \/ libstdc++ 11 (RHEL 9)",
+            "url": "https:\/\/github.com\/percona\/pg_oidc_validator\/pull\/41",
+            "repo": "percona\/pg_oidc_validator",
+            "date": "2026-06-29",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Fix PG 18 LTO build warnings: picojson _storage ODR violation",
+            "url": "https:\/\/github.com\/percona\/pg_oidc_validator\/pull\/40",
+            "repo": "percona\/pg_oidc_validator",
+            "date": "2026-06-29",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

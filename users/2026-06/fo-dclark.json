@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-dclark",
+    "display_name": "dclark",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/b782af\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dclark",
+    "github_login": null,
+    "forum_username": "dclark",
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM Client Upgrade Issues 2.x to 3.x",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-client-upgrade-issues-2-x-to-3-x",
+            "date": "2026-06-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,64 @@
+{
+    "user_key": "fo-huangsijun17",
+    "display_name": "huangsijun17",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/h\/9fc29f\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=huangsijun17",
+    "github_login": null,
+    "forum_username": "huangsijun17",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 35,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 35,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "About pmm3-client",
+            "url": "https:\/\/forums.percona.com\/t\/about-pmm3-client",
+            "date": "2025-01-09"
+        },
+        {
+            "title": "How to Properly Add MySQL Router to PMM v3 Monitoring?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-properly-add-mysql-router-to-pmm-v3-monitoring",
+            "date": "2025-03-28"
+        },
+        {
+            "title": "Percona Backup for MongoDB + MongoDB Community 7.0?",
+            "url": "https:\/\/forums.percona.com\/t\/percona-backup-for-mongodb-mongodb-community-7-0",
+            "date": "2025-06-01"
+        },
+        {
+            "title": "How to configure the behavior after a successful backup?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-configure-the-behavior-after-a-successful-backup",
+            "date": "2025-06-10"
+        },
+        {
+            "title": "The pbm cleanup command cannot output standard json",
+            "url": "https:\/\/forums.percona.com\/t\/the-pbm-cleanup-command-cannot-output-standard-json",
+            "date": "2025-07-18"
+        },
+        {
+            "title": "Pbm backup -w did not handle correctly when pbm-agent crashed",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-backup-w-did-not-handle-correctly-when-pbm-agent-crashed",
+            "date": "2025-07-22"
+        },
+        {
+            "title": "Are there any recommendations for MongoDB proxies?",
+            "url": "https:\/\/forums.percona.com\/t\/are-there-any-recommendations-for-mongodb-proxies",
+            "date": "2025-12-15"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

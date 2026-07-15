@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-yoav-katz",
+    "display_name": "yoav-katz",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
+    "github_login": "yoav-katz",
+    "forum_username": null,
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 50,
+    "points_github": 50,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "K8SPG-1057: Allow using etcd as patroni DCS",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/875",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-06-20",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "K8SPG-1057: Allow using etcd as patroni DCS",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1647",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-06-18",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-koleo",
+    "display_name": "Nicolas PAYART",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5774206?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=koleo",
+    "github_login": "koleo",
+    "forum_username": null,
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 225,
+    "points_github": 225,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 3,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Fix indentation in backup tutorial commands",
+            "url": "https:\/\/github.com\/percona\/k8sps-docs\/pull\/207",
+            "repo": "percona\/k8sps-docs",
+            "date": "2026-06-23",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Update apiVersion in backup tutorial",
+            "url": "https:\/\/github.com\/percona\/k8sps-docs\/pull\/205",
+            "repo": "percona\/k8sps-docs",
+            "date": "2026-06-23",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Fix formatting of kubectl command in backup tutorial",
+            "url": "https:\/\/github.com\/percona\/k8sps-docs\/pull\/204",
+            "repo": "percona\/k8sps-docs",
+            "date": "2026-06-23",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

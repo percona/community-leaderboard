@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-moro15011",
+    "display_name": "moro15011",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/0ea827\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=moro15011",
+    "github_login": null,
+    "forum_username": "moro15011",
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Mysql_config_editor - missing from latest pxc-84-lts",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-config-editor-missing-from-latest-pxc-84-lts",
+            "date": "2026-04-21"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Missing mysql_config_editor from Percona Server for MySQL 8.4.8-8",
+            "url": "https:\/\/forums.percona.com\/t\/missing-mysql-config-editor-from-percona-server-for-mysql-8-4-8-8\/4",
+            "date": "2026-04-20"
+        }
+    ],
+    "forum_solutions": []
+}

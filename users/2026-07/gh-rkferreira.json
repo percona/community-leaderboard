@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-rkferreira",
+    "display_name": "Rodrigo Kellermann",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5951935?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=rkferreira",
+    "github_login": "rkferreira",
+    "forum_username": null,
+    "period": "2026-07",
+    "period_label": "July 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "helm: Missing support for gateway api",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/902",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-07-13",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "feature(helm): add gateway api support",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/903",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-07-13",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

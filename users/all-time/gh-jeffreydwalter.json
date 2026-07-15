@@ -1,0 +1,74 @@
+{
+    "user_key": "gh-jeffreydwalter",
+    "display_name": "Jeffrey Walter",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/567047?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jeffreydwalter",
+    "github_login": "jeffreydwalter",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 240,
+    "points_github": 240,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 4,
+    "prs_created": 2,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Access method registered as pg_tde_basic instead of pg_tde.",
+            "url": "https:\/\/github.com\/Percona-Lab\/pg_tde\/issues\/244",
+            "repo": "Percona-Lab\/pg_tde",
+            "date": "2024-07-17",
+            "state": "closed"
+        },
+        {
+            "title": "Access method registered as pg_tde_basic instead of pg_tde.",
+            "url": "https:\/\/github.com\/percona\/pg_tde\/issues\/244",
+            "repo": "percona\/pg_tde",
+            "date": "2024-07-17",
+            "state": "closed"
+        },
+        {
+            "title": "Typo in pgtde_is_encrypted() function name",
+            "url": "https:\/\/github.com\/Percona-Lab\/pg_tde\/issues\/243",
+            "repo": "Percona-Lab\/pg_tde",
+            "date": "2024-07-17",
+            "state": "closed"
+        },
+        {
+            "title": "Typo in pgtde_is_encrypted() function name",
+            "url": "https:\/\/github.com\/percona\/pg_tde\/issues\/243",
+            "repo": "percona\/pg_tde",
+            "date": "2024-07-17",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "#243: Rename pgtde_is_encrypted() to pg_tde_is_encrypted()",
+            "url": "https:\/\/github.com\/Percona-Lab\/pg_tde\/pull\/242",
+            "repo": "Percona-Lab\/pg_tde",
+            "date": "2024-07-17",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "#243: Rename pgtde_is_encrypted() to pg_tde_is_encrypted()",
+            "url": "https:\/\/github.com\/percona\/pg_tde\/pull\/242",
+            "repo": "percona\/pg_tde",
+            "date": "2024-07-17",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

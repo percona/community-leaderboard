@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-say-5",
+    "display_name": "Sai Asish Y",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/240962040?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=SAY-5",
+    "github_login": "SAY-5",
+    "forum_username": null,
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "exporter: rename scrapeall instance label",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1286",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2026-05-15",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

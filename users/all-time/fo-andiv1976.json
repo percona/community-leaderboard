@@ -1,0 +1,69 @@
+{
+    "user_key": "fo-andiv1976",
+    "display_name": "ANDiv1976 ",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/andiv1976\/120\/20170_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ANDiv1976",
+    "github_login": null,
+    "forum_username": "ANDiv1976",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 8,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Error in percona logs - pg_stat_monitor: pg: out of memory",
+            "url": "https:\/\/forums.percona.com\/t\/error-in-percona-logs-pg-stat-monitor-pg-out-of-memory",
+            "date": "2025-08-12"
+        },
+        {
+            "title": "Errors in collecting metrics under high database load",
+            "url": "https:\/\/forums.percona.com\/t\/errors-in-collecting-metrics-under-high-database-load",
+            "date": "2025-11-05"
+        },
+        {
+            "title": "Query information is missing",
+            "url": "https:\/\/forums.percona.com\/t\/query-information-is-missing",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "Disable sending messages to the client side",
+            "url": "https:\/\/forums.percona.com\/t\/disable-sending-messages-to-the-client-side",
+            "date": "2025-11-07"
+        },
+        {
+            "title": "Pg_stat_monitor 2.2 - Collapsing similar queries",
+            "url": "https:\/\/forums.percona.com\/t\/pg-stat-monitor-2-2-collapsing-similar-queries",
+            "date": "2025-11-20"
+        },
+        {
+            "title": "Why was the query not captured in PMM?",
+            "url": "https:\/\/forums.percona.com\/t\/why-was-the-query-not-captured-in-pmm",
+            "date": "2025-12-19"
+        },
+        {
+            "title": "Why does pg_stat_monitor trigger a PostgreSQL restart?",
+            "url": "https:\/\/forums.percona.com\/t\/why-does-pg-stat-monitor-trigger-a-postgresql-restart",
+            "date": "2025-12-26"
+        },
+        {
+            "title": "How to set the default interval to 15 minutes for all users and switch to manual metrics refresh in Grafana PMM?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-set-the-default-interval-to-15-minutes-for-all-users-and-switch-to-manual-metrics-refresh-in-grafana-pmm",
+            "date": "2026-02-10"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

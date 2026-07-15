@@ -1,0 +1,85 @@
+{
+    "user_key": "gh-ono-max",
+    "display_name": "Naoto Ono",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/59436572?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=ono-max",
+    "github_login": "ono-max",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 625,
+    "points_github": 625,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 7,
+    "prs_merged": 6,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Increase git clone depth to 100 for submodules to improve the PTS accuracy",
+            "url": "https:\/\/github.com\/Percona-Lab\/pmm-submodules\/pull\/4430",
+            "repo": "Percona-Lab\/pmm-submodules",
+            "date": "2026-06-25",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Launchable: decrease confidence percentage to 98%",
+            "url": "https:\/\/github.com\/Percona-Lab\/pmm-submodules\/pull\/4336",
+            "repo": "Percona-Lab\/pmm-submodules",
+            "date": "2026-05-01",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Increase fetch depth to 10 for branch switching so that Launchable ca…",
+            "url": "https:\/\/github.com\/Percona-Lab\/pmm-submodules\/pull\/4323",
+            "repo": "Percona-Lab\/pmm-submodules",
+            "date": "2026-04-27",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "[Launchable] Skip running all tests if subset file is empty (take 2)",
+            "url": "https:\/\/github.com\/percona\/pmm-qa\/pull\/903",
+            "repo": "percona\/pmm-qa",
+            "date": "2026-03-25",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "[Launchable] Skip running all tests if subset file is empty",
+            "url": "https:\/\/github.com\/percona\/pmm-qa\/pull\/900",
+            "repo": "percona\/pmm-qa",
+            "date": "2026-03-25",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Specify `fetch-depth` to allow Launchable to collect more commits",
+            "url": "https:\/\/github.com\/percona\/pmm-qa\/pull\/827",
+            "repo": "percona\/pmm-qa",
+            "date": "2025-11-07",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Launchable: Update the `subset` command to improve PTS accuracy",
+            "url": "https:\/\/github.com\/percona\/pmm-qa\/pull\/825",
+            "repo": "percona\/pmm-qa",
+            "date": "2025-11-04",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

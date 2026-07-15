@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-sourcream_suicide",
+    "display_name": "Sourcream suicide",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sourcream_suicide\/120\/22699_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Sourcream_suicide",
+    "github_login": null,
+    "forum_username": "Sourcream_suicide",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to properly upgrade pg_tde from 2.1.1 to 2.1.2 on Patroni cluster with pgbackrest and WAL encryption?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-properly-upgrade-pg-tde-from-2-1-1-to-2-1-2-on-patroni-cluster-with-pgbackrest-and-wal-encryption",
+            "date": "2026-03-30"
+        },
+        {
+            "title": "Update etcd to 3.5.28\/3.5.29 for Percona Distribution for PostgreSQL (CVE-2026-XXXX)",
+            "url": "https:\/\/forums.percona.com\/t\/update-etcd-to-3-5-28-3-5-29-for-percona-distribution-for-postgresql-cve-2026-xxxx",
+            "date": "2026-04-09"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

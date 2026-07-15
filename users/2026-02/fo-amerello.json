@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-amerello",
+    "display_name": "Alejandro Merello",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/amerello\/120\/21244_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=amerello",
+    "github_login": null,
+    "forum_username": "amerello",
+    "period": "2026-02",
+    "period_label": "February 2026",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "readOnlyRootFilesystem option for psmdb-db on kubernetes managed by operator doesnt works",
+            "url": "https:\/\/forums.percona.com\/t\/readonlyrootfilesystem-option-for-psmdb-db-on-kubernetes-managed-by-operator-doesnt-works\/3",
+            "date": "2026-02-03"
+        }
+    ],
+    "forum_solutions": []
+}

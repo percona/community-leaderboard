@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-rohit_khurana",
+    "display_name": "ROHIT KHURANA",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/rohit_khurana\/120\/2760_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ROHIT_KHURANA",
+    "github_login": null,
+    "forum_username": "ROHIT_KHURANA",
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "After upgrading MongoDB from version 4.x to 7.x with feature compatibility set to 6.0 write ops slow",
+            "url": "https:\/\/forums.percona.com\/t\/after-upgrading-mongodb-from-version-4-x-to-7-x-with-feature-compatibility-set-to-6-0-write-ops-slow\/4",
+            "date": "2026-06-03"
+        }
+    ],
+    "forum_solutions": []
+}

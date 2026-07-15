@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-shirisha",
+    "display_name": "shirisha",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/shirisha\/120\/17995_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=shirisha",
+    "github_login": null,
+    "forum_username": "shirisha",
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PXC with 5 nodes in production across WAN",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-with-5-nodes-in-production-across-wan",
+            "date": "2026-04-17"
+        },
+        {
+            "title": "Can PXC over WAN be implemented in production",
+            "url": "https:\/\/forums.percona.com\/t\/can-pxc-over-wan-be-implemented-in-production",
+            "date": "2026-04-20"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

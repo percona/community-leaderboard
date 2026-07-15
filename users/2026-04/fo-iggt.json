@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-iggt",
+    "display_name": "IGGt",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/i\/67e7ee\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=IGGt",
+    "github_login": null,
+    "forum_username": "IGGt",
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Audit Log Filter Doesn't accept user@%",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-doesnt-accept-user",
+            "date": "2026-04-10"
+        },
+        {
+            "title": "Audit_log_filter, Bug or no Bug?",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-bug-or-no-bug",
+            "date": "2026-04-14"
+        },
+        {
+            "title": "Audit_log_filter not working with new version of MySQL",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-not-working-with-new-version-of-mysql",
+            "date": "2026-04-24"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

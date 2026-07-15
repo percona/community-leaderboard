@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-yash_daga",
+    "display_name": "Yash Daga",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/yash_daga\/120\/22569_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Yash_Daga",
+    "github_login": null,
+    "forum_username": "Yash_Daga",
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Sst-idle-timeout killing sst after the donor has transferred all the data",
+            "url": "https:\/\/forums.percona.com\/t\/sst-idle-timeout-killing-sst-after-the-donor-has-transferred-all-the-data",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "Pitr container not exiting after hitting failure",
+            "url": "https:\/\/forums.percona.com\/t\/pitr-container-not-exiting-after-hitting-failure",
+            "date": "2026-04-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

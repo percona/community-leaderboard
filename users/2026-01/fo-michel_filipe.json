@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-michel_filipe",
+    "display_name": "Michel Filipe",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/michel_filipe\/120\/11796_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Michel_Filipe",
+    "github_login": null,
+    "forum_username": "Michel_Filipe",
+    "period": "2026-01",
+    "period_label": "January 2026",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Any easy way to update the password of _crunchypgbouncer?",
+            "url": "https:\/\/forums.percona.com\/t\/any-easy-way-to-update-the-password-of-crunchypgbouncer",
+            "date": "2026-01-26"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

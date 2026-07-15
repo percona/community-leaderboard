@@ -1,0 +1,114 @@
+{
+    "user_key": "gh-drfaust92",
+    "display_name": "Ilia Lazebnik",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/33663870?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=DrFaust92",
+    "github_login": "DrFaust92",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 590,
+    "points_github": 590,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 4,
+    "prs_created": 7,
+    "prs_merged": 5,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "[psmdb-operator] expose missing operator config options (leader-elect, bind addresses, telemetry schedule, VS fallback) + drop inert env vars",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/885",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-06-28",
+            "state": "open"
+        },
+        {
+            "title": "Allow excluding the arbiter from the per-pod LoadBalancer\/external Service when a replset is exposed",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2414",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-06-24",
+            "state": "open"
+        },
+        {
+            "title": "psmdb - add tpl support for replsets",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/732",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-12-12",
+            "state": "closed"
+        },
+        {
+            "title": "Support OCI artifact releases for charts",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/721",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-12-05",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1633 - protect CRDs from deletion via preserveCrds",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/901",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-07-10",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "K8SPSMDB-1711: probe \/healthz and \/readyz on the health-probe port",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2419",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-06-29",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "[psmdb-operator] make liveness\/readiness probes configurable",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/884",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-06-28",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPSMDB-1742 Publish charts as OCI artifacts to GHCR",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/843",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-04-25",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "[psmdb-db]: pass pmm.mongodParams and mongosParams through tpl function",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/842",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-04-17",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "PSMDB operator - support revisionhistorylimit",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/604",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-08-06",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPSMDB-1207 - add missing mongo pmm params",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/406",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2024-10-31",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

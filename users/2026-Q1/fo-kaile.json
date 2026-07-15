@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-kaile",
+    "display_name": "Mark Tomandl",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/kaile\/120\/9229_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Kaile",
+    "github_login": null,
+    "forum_username": "Kaile",
+    "period": "2026-Q1",
+    "period_label": "Q1 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Percona Live 2026 — May 27–29, Bay Area",
+            "url": "https:\/\/forums.percona.com\/t\/percona-live-2026-may-27-29-bay-area\/2",
+            "date": "2026-03-20"
+        },
+        {
+            "topic_title": "Percona Live 2026 — May 27–29, Bay Area",
+            "url": "https:\/\/forums.percona.com\/t\/percona-live-2026-may-27-29-bay-area\/4",
+            "date": "2026-03-23"
+        },
+        {
+            "topic_title": "Percona Live 2026 — May 27–29, Bay Area",
+            "url": "https:\/\/forums.percona.com\/t\/percona-live-2026-may-27-29-bay-area\/6",
+            "date": "2026-03-25"
+        },
+        {
+            "topic_title": "Percona Live 2026 — May 27–29, Bay Area",
+            "url": "https:\/\/forums.percona.com\/t\/percona-live-2026-may-27-29-bay-area\/7",
+            "date": "2026-03-27"
+        }
+    ],
+    "forum_solutions": []
+}

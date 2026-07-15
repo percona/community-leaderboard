@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-ddkozyreva",
+    "display_name": "Дарья Козырева",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/ddkozyreva\/120\/20219_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ddkozyreva",
+    "github_login": null,
+    "forum_username": "ddkozyreva",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Conditions for ExternalVM are skipped when HA_mode is true",
+            "url": "https:\/\/forums.percona.com\/t\/conditions-for-externalvm-are-skipped-when-ha-mode-is-true",
+            "date": "2026-03-17"
+        },
+        {
+            "title": "Possible HA issue with \/srv\/pmm-encryption.key not being shared between nodes",
+            "url": "https:\/\/forums.percona.com\/t\/possible-ha-issue-with-srv-pmm-encryption-key-not-being-shared-between-nodes",
+            "date": "2026-04-08"
+        },
+        {
+            "title": "Documentation gap: PMM_CLICKHOUSE_IS_CLUSTER \/ PMM_CLICKHOUSE_CLUSTER_NAME for HA + external ClickHouse",
+            "url": "https:\/\/forums.percona.com\/t\/documentation-gap-pmm-clickhouse-is-cluster-pmm-clickhouse-cluster-name-for-ha-external-clickhouse",
+            "date": "2026-04-09"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

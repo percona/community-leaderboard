@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-rajaie7",
+    "display_name": "Rajaie Alkorani",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/160751516?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=rajaie7",
+    "github_login": "rajaie7",
+    "forum_username": null,
+    "period": "2026-Q2",
+    "period_label": "Q2 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 110,
+    "points_github": 110,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Missing page from website",
+            "url": "https:\/\/github.com\/percona\/pbm-docs\/issues\/388",
+            "repo": "percona\/pbm-docs",
+            "date": "2026-06-22",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix typo in backup-tutorial.md",
+            "url": "https:\/\/github.com\/percona\/k8spsmdb-docs\/pull\/346",
+            "repo": "percona\/k8spsmdb-docs",
+            "date": "2026-06-22",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

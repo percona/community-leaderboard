@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-cmj_cmj",
+    "display_name": "cmj cmj",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/cmj_cmj\/120\/23616_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=cmj_cmj",
+    "github_login": null,
+    "forum_username": "cmj_cmj",
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pmm-agent and pmm server in different network, how to set up firewall rules",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-agent-and-pmm-server-in-different-network-how-to-set-up-firewall-rules",
+            "date": "2026-05-25"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

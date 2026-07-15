@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-tableworker",
+    "display_name": "TableWorker",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/t\/53a042\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=TableWorker",
+    "github_login": null,
+    "forum_username": "TableWorker",
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Galera\/PXC Cluster Permanent Stall: Failed DDL Voting Storm + Pending TOI Deadlock",
+            "url": "https:\/\/forums.percona.com\/t\/galera-pxc-cluster-permanent-stall-failed-ddl-voting-storm-pending-toi-deadlock\/5",
+            "date": "2026-05-21"
+        }
+    ],
+    "forum_solutions": []
+}

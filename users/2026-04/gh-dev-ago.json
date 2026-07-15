@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-dev-ago",
+    "display_name": "Antony Goetzschel",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50506249?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=dev-ago",
+    "github_login": "dev-ago",
+    "forum_username": null,
+    "period": "2026-04",
+    "period_label": "April 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Add `spec.trafficDistribution` support to `ServiceExpose` for HAProxy and PXC Services",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2417",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-04-01",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

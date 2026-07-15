@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-hancheo",
+    "display_name": "Moby",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38929712?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=HanCheo",
+    "github_login": "HanCheo",
+    "forum_username": null,
+    "period": "2026-Q2",
+    "period_label": "Q2 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 75,
+    "points_github": 75,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 3,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PMM-13045 RDS assume role feature build",
+            "url": "https:\/\/github.com\/Percona-Lab\/pmm-submodules\/pull\/4357",
+            "repo": "Percona-Lab\/pmm-submodules",
+            "date": "2026-05-15",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PMM-13045 Add RDS assume role field",
+            "url": "https:\/\/github.com\/percona\/grafana\/pull\/901",
+            "repo": "percona\/grafana",
+            "date": "2026-05-15",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PMM-13045 Add RDS assume role support",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/5371",
+            "repo": "percona\/pmm",
+            "date": "2026-05-15",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

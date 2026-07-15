@@ -1,0 +1,64 @@
+{
+    "user_key": "fo-jimmy_chen",
+    "display_name": "Jimmy Chen",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jimmy_chen\/120\/15189_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Jimmy_Chen",
+    "github_login": null,
+    "forum_username": "Jimmy_Chen",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 35,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 35,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Metrics from mongodb_exporter do not work with grafana-dashboards",
+            "url": "https:\/\/forums.percona.com\/t\/metrics-from-mongodb-exporter-do-not-work-with-grafana-dashboards",
+            "date": "2024-02-16"
+        },
+        {
+            "title": "Staged Upgrade for PMM2",
+            "url": "https:\/\/forums.percona.com\/t\/staged-upgrade-for-pmm2",
+            "date": "2024-02-21"
+        },
+        {
+            "title": "MongoDB 7.0.5 no metrics in dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-7-0-5-no-metrics-in-dashboard",
+            "date": "2024-02-23"
+        },
+        {
+            "title": "XtraDB Clusters with Automatic Asynchronous Replication Connection Failover",
+            "url": "https:\/\/forums.percona.com\/t\/xtradb-clusters-with-automatic-asynchronous-replication-connection-failover",
+            "date": "2025-01-30"
+        },
+        {
+            "title": "Recover XtraDB cluster nodes that cannot start",
+            "url": "https:\/\/forums.percona.com\/t\/recover-xtradb-cluster-nodes-that-cannot-start",
+            "date": "2025-02-04"
+        },
+        {
+            "title": "Simple LDAP authentication with role mapping issues",
+            "url": "https:\/\/forums.percona.com\/t\/simple-ldap-authentication-with-role-mapping-issues",
+            "date": "2025-10-23"
+        },
+        {
+            "title": "Get-pmm.sh Script PMM2 to 3 upgrade not working",
+            "url": "https:\/\/forums.percona.com\/t\/get-pmm-sh-script-pmm2-to-3-upgrade-not-working",
+            "date": "2026-01-28"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

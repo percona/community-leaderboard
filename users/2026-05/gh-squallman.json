@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-squallman",
+    "display_name": "Serhii Shepel",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12197661?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Squallman",
+    "github_login": "Squallman",
+    "forum_username": null,
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Replset initialization can loop after userAdmin is created if system user creation fails before initialized status is saved",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2364",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-05-28",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1456 Fix replset init retry after userAdmin creation",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2365",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-05-30",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

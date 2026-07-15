@@ -1,0 +1,64 @@
+{
+    "user_key": "fo-neil_billett",
+    "display_name": "Neil Billett",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/neil_billett\/120\/11626_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Neil_Billett",
+    "github_login": null,
+    "forum_username": "Neil_Billett",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-04-02T12:54:14+00:00",
+    "points_total": 35,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 35,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PXC8 tarball glibc version suitable for RHEL8?",
+            "url": "https:\/\/forums.percona.com\/t\/pxc8-tarball-glibc-version-suitable-for-rhel8",
+            "date": "2024-01-25"
+        },
+        {
+            "title": "XtraBackup 8 tarball glibc version suitable for RHEL8?",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-8-tarball-glibc-version-suitable-for-rhel8",
+            "date": "2024-02-01"
+        },
+        {
+            "title": "How to setup pxc-84-lts yum repo via percona-release tool?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-setup-pxc-84-lts-yum-repo-via-percona-release-tool",
+            "date": "2024-12-16"
+        },
+        {
+            "title": "PXC8.4.3 initial memory usage of mysqld process very high compared to PXC8.0.x",
+            "url": "https:\/\/forums.percona.com\/t\/pxc8-4-3-initial-memory-usage-of-mysqld-process-very-high-compared-to-pxc8-0-x",
+            "date": "2025-02-14"
+        },
+        {
+            "title": "PXC 8.0.32 JOINER node unable to SST \"\/usr\/bin\/ls: Operation not permitted\"",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-8-0-32-joiner-node-unable-to-sst-usr-bin-ls-operation-not-permitted",
+            "date": "2025-02-26"
+        },
+        {
+            "title": "PXC8.4.3 nodes crashing intermittently with signal 11",
+            "url": "https:\/\/forums.percona.com\/t\/pxc8-4-3-nodes-crashing-intermittently-with-signal-11",
+            "date": "2025-04-22"
+        },
+        {
+            "title": "Best Practices for Handling Prepared Statements in a Proxied Percona XtraDB Cluster Setup",
+            "url": "https:\/\/forums.percona.com\/t\/best-practices-for-handling-prepared-statements-in-a-proxied-percona-xtradb-cluster-setup",
+            "date": "2025-10-15"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

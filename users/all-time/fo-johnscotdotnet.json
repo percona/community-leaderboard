@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-johnscotdotnet",
+    "display_name": "John Scott",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/278dde\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=johnscotdotnet",
+    "github_login": null,
+    "forum_username": "johnscotdotnet",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 54,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 54,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 2,
+    "solutions": 1,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Arbitrary disruption of replication Percona Server for MySQL 8.0.32",
+            "url": "https:\/\/forums.percona.com\/t\/arbitrary-disruption-of-replication-percona-server-for-mysql-8-0-32\/5",
+            "date": "2024-01-19"
+        },
+        {
+            "topic_title": "So many queries to get the name of procedure from mysql.proc",
+            "url": "https:\/\/forums.percona.com\/t\/so-many-queries-to-get-the-name-of-procedure-from-mysql-proc\/9",
+            "date": "2024-04-16"
+        }
+    ],
+    "forum_solutions": [
+        {
+            "topic_title": "So many queries to get the name of procedure from mysql.proc",
+            "url": "https:\/\/forums.percona.com\/t\/so-many-queries-to-get-the-name-of-procedure-from-mysql-proc\/9",
+            "date": "2024-04-16"
+        }
+    ]
+}

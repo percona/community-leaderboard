@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-marno-krahmer",
+    "display_name": "Marno",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/a8b319\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=marno.krahmer",
+    "github_login": null,
+    "forum_username": "marno.krahmer",
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Forced reboot a node and doesn't start automatically",
+            "url": "https:\/\/forums.percona.com\/t\/forced-reboot-a-node-and-doesnt-start-automatically\/7",
+            "date": "2026-05-13"
+        }
+    ],
+    "forum_solutions": []
+}

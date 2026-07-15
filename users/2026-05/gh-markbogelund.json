@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-markbogelund",
+    "display_name": "Mark Myrtoft Bøgelund",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14906158?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=MarkBogelund",
+    "github_login": "MarkBogelund",
+    "forum_username": null,
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Add support for discovery URL override",
+            "url": "https:\/\/github.com\/percona\/pg_oidc_validator\/pull\/38",
+            "repo": "percona\/pg_oidc_validator",
+            "date": "2026-05-11",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

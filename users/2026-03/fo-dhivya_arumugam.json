@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-dhivya_arumugam",
+    "display_name": "Dhivya Arumugam",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dhivya_arumugam\/120\/21210_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Dhivya_Arumugam",
+    "github_login": null,
+    "forum_username": "Dhivya_Arumugam",
+    "period": "2026-03",
+    "period_label": "March 2026",
+    "generated_at": "2026-07-15T08:03:15+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Issue with audit_log_filter component on Replica Nodes in 3-Node MySQL InnoDB Cluster (Percona MySQL 8.4.7)",
+            "url": "https:\/\/forums.percona.com\/t\/issue-with-audit-log-filter-component-on-replica-nodes-in-3-node-mysql-innodb-cluster-percona-mysql-8-4-7",
+            "date": "2026-03-27"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Percona audit_log_filter component does not work on the slave server 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/percona-audit-log-filter-component-does-not-work-on-the-slave-server-8-4\/5",
+            "date": "2026-03-27"
+        },
+        {
+            "topic_title": "Percona audit_log_filter component does not work on the slave server 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/percona-audit-log-filter-component-does-not-work-on-the-slave-server-8-4\/7",
+            "date": "2026-03-28"
+        }
+    ],
+    "forum_solutions": []
+}

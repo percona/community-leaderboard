@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-adeshthack",
+    "display_name": "adeshthack",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/284795293?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=adeshthack",
+    "github_login": "adeshthack",
+    "forum_username": null,
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Add PostgreSQL 19 compatibility",
+            "url": "https:\/\/github.com\/percona\/pg_stat_monitor\/issues\/655",
+            "repo": "percona\/pg_stat_monitor",
+            "date": "2026-05-14",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Add PostgreSQL 19 compatibility",
+            "url": "https:\/\/github.com\/percona\/pg_stat_monitor\/pull\/654",
+            "repo": "percona\/pg_stat_monitor",
+            "date": "2026-05-14",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

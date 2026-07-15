@@ -1,0 +1,80 @@
+{
+    "user_key": "fo-javapope",
+    "display_name": "pope",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/javapope\/120\/16986_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=javaPope",
+    "github_login": null,
+    "forum_username": "javaPope",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 47,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 47,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 9,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "This is a bug? the cfg file of export causes mysql to go down",
+            "url": "https:\/\/forums.percona.com\/t\/this-is-a-bug-the-cfg-file-of-export-causes-mysql-to-go-down",
+            "date": "2024-06-21"
+        },
+        {
+            "title": "Hello, how can I download the latest software version of xtrabackup that is lower than 8.0.20",
+            "url": "https:\/\/forums.percona.com\/t\/hello-how-can-i-download-the-latest-software-version-of-xtrabackup-that-is-lower-than-8-0-20",
+            "date": "2024-06-24"
+        },
+        {
+            "title": "Is there a version of xtrabackup that supports MySQL 8.0.35?",
+            "url": "https:\/\/forums.percona.com\/t\/is-there-a-version-of-xtrabackup-that-supports-mysql-8-0-35",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "Run xtrabackup image in docker fail",
+            "url": "https:\/\/forums.percona.com\/t\/run-xtrabackup-image-in-docker-fail",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "Prepare fail, Is it mysql slave? Waiting for change buffer merge to complete number of bytes of change buffer",
+            "url": "https:\/\/forums.percona.com\/t\/prepare-fail-is-it-mysql-slave-waiting-for-change-buffer-merge-to-complete-number-of-bytes-of-change-buffer",
+            "date": "2024-07-30"
+        },
+        {
+            "title": "Who can help me? When using xtrabackup --prepare --export --apply-log-only, it keeps showing \"Waiting for master to exit\"",
+            "url": "https:\/\/forums.percona.com\/t\/who-can-help-me-when-using-xtrabackup-prepare-export-apply-log-only-it-keeps-showing-waiting-for-master-to-exit",
+            "date": "2024-08-01"
+        },
+        {
+            "title": "Waiting for change buffer merge",
+            "url": "https:\/\/forums.percona.com\/t\/waiting-for-change-buffer-merge",
+            "date": "2024-08-20"
+        },
+        {
+            "title": "Waiting for change buffer merge to complete number of bytes of change buffer",
+            "url": "https:\/\/forums.percona.com\/t\/waiting-for-change-buffer-merge-to-complete-number-of-bytes-of-change-buffer",
+            "date": "2024-08-20"
+        },
+        {
+            "title": "Xtrabackup prepare show Waiting for change buffer merge to complete",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-prepare-show-waiting-for-change-buffer-merge-to-complete",
+            "date": "2024-08-23"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Xtrabackup in Docker FROM percona\/percona-xtrabackup:8.0 for MySQL 8.33 on docker fails with \"[ERROR] [MY-012592] [InnoDB] Operating system error number 13 in a file operation.\"",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-in-docker-from-percona-percona-xtrabackup-8-0-for-mysql-8-33-on-docker-fails-with-error-my-012592-innodb-operating-system-error-number-13-in-a-file-operation\/6",
+            "date": "2024-06-25"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-ly_kimmeng",
+    "display_name": "Ly Kimmeng",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/ly_kimmeng\/120\/23228_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Ly_Kimmeng",
+    "github_login": null,
+    "forum_username": "Ly_Kimmeng",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-07-15T10:02:13+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM2: Admin password change – any impact on already-registered agents?",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-admin-password-change-any-impact-on-already-registered-agents",
+            "date": "2026-05-08"
+        },
+        {
+            "title": "How to Reclaim Disk Space on PMM 2 Docker Deployment (RHEL)",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-reclaim-disk-space-on-pmm-2-docker-deployment-rhel",
+            "date": "2026-05-21"
+        },
+        {
+            "title": "Need Advice on Disk Space Cleanup for PMM Server 2.x (Docker)",
+            "url": "https:\/\/forums.percona.com\/t\/need-advice-on-disk-space-cleanup-for-pmm-server-2-x-docker",
+            "date": "2026-06-05"
+        },
+        {
+            "title": "PMM Query Analytics Support for EDB Postgres Advanced Server (EPAS) 17\/18",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-query-analytics-support-for-edb-postgres-advanced-server-epas-17-18",
+            "date": "2026-06-11"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
