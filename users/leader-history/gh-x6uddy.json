@@ -1,0 +1,18 @@
+{
+    "user_key": "gh-x6uddy",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "all-time",
+            "period_label": "All Time",
+            "period_type": "all-time",
+            "rank": 7
+        },
+        {
+            "period_key": "2024",
+            "period_label": "2024",
+            "period_type": "year",
+            "rank": 1
+        }
+    ]
+}

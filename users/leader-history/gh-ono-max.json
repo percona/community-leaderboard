@@ -1,0 +1,66 @@
+{
+    "user_key": "gh-ono-max",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "all-time",
+            "period_label": "All Time",
+            "period_type": "all-time",
+            "rank": 4
+        },
+        {
+            "period_key": "2026",
+            "period_label": "2026",
+            "period_type": "year",
+            "rank": 1
+        },
+        {
+            "period_key": "2026-Q2",
+            "period_label": "Q2 2026",
+            "period_type": "quarter",
+            "rank": 1
+        },
+        {
+            "period_key": "2026-Q1",
+            "period_label": "Q1 2026",
+            "period_type": "quarter",
+            "rank": 4
+        },
+        {
+            "period_key": "2025-Q4",
+            "period_label": "Q4 2025",
+            "period_type": "quarter",
+            "rank": 5
+        },
+        {
+            "period_key": "2026-06",
+            "period_label": "June 2026",
+            "period_type": "month",
+            "rank": 8
+        },
+        {
+            "period_key": "2026-05",
+            "period_label": "May 2026",
+            "period_type": "month",
+            "rank": 5
+        },
+        {
+            "period_key": "2026-04",
+            "period_label": "April 2026",
+            "period_type": "month",
+            "rank": 1
+        },
+        {
+            "period_key": "2026-03",
+            "period_label": "March 2026",
+            "period_type": "month",
+            "rank": 1
+        },
+        {
+            "period_key": "2025-11",
+            "period_label": "November 2025",
+            "period_type": "month",
+            "rank": 2
+        }
+    ]
+}

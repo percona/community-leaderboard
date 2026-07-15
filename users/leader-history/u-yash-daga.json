@@ -1,0 +1,18 @@
+{
+    "user_key": "u-yash-daga",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2026-Q1",
+            "period_label": "Q1 2026",
+            "period_type": "quarter",
+            "rank": 7
+        },
+        {
+            "period_key": "2026-02",
+            "period_label": "February 2026",
+            "period_type": "month",
+            "rank": 3
+        }
+    ]
+}

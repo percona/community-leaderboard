@@ -1,0 +1,18 @@
+{
+    "user_key": "gh-insensiblee",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025-Q2",
+            "period_label": "Q2 2025",
+            "period_type": "quarter",
+            "rank": 8
+        },
+        {
+            "period_key": "2025-06",
+            "period_label": "June 2025",
+            "period_type": "month",
+            "rank": 2
+        }
+    ]
+}

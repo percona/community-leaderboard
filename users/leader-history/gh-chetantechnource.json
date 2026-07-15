@@ -1,0 +1,18 @@
+{
+    "user_key": "gh-chetantechnource",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2024-12",
+            "period_label": "December 2024",
+            "period_type": "month",
+            "rank": 5
+        },
+        {
+            "period_key": "2024-11",
+            "period_label": "November 2024",
+            "period_type": "month",
+            "rank": 2
+        }
+    ]
+}

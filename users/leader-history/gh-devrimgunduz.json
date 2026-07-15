@@ -1,0 +1,24 @@
+{
+    "user_key": "gh-devrimgunduz",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2026",
+            "period_label": "2026",
+            "period_type": "year",
+            "rank": 7
+        },
+        {
+            "period_key": "2026-Q2",
+            "period_label": "Q2 2026",
+            "period_type": "quarter",
+            "rank": 5
+        },
+        {
+            "period_key": "2026-06",
+            "period_label": "June 2026",
+            "period_type": "month",
+            "rank": 3
+        }
+    ]
+}

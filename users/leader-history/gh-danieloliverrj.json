@@ -1,0 +1,18 @@
+{
+    "user_key": "gh-danieloliverrj",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025-10",
+            "period_label": "October 2025",
+            "period_type": "month",
+            "rank": 3
+        },
+        {
+            "period_key": "2024-08",
+            "period_label": "August 2024",
+            "period_type": "month",
+            "rank": 7
+        }
+    ]
+}

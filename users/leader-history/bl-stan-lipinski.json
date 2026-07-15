@@ -1,0 +1,12 @@
+{
+    "user_key": "bl-stan-lipinski",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2026-01",
+            "period_label": "January 2026",
+            "period_type": "month",
+            "rank": 2
+        }
+    ]
+}

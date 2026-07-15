@@ -1,0 +1,51 @@
+{
+    "period": "2026-Q1",
+    "period_type": "quarter",
+    "period_label": "Q1 2026",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "category": "content",
+    "top30": [
+        {
+            "rank": 1,
+            "user_key": "bl-stan-lipinski",
+            "name": "Stan Lipinski",
+            "display_name": "Stan Lipinski",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Stan+Lipinski",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "bl-mysql-admin-scripts",
+            "name": "MySQL Admin Scripts",
+            "display_name": "MySQL Admin Scripts",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=MySQL+Admin+Scripts",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 50,
+            "points_github": 0,
+            "points_content": 50,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        }
+    ]
+}

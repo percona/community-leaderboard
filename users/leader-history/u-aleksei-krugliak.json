@@ -1,0 +1,18 @@
+{
+    "user_key": "u-aleksei-krugliak",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025-09",
+            "period_label": "September 2025",
+            "period_type": "month",
+            "rank": 5
+        },
+        {
+            "period_key": "2025-04",
+            "period_label": "April 2025",
+            "period_type": "month",
+            "rank": 10
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "user_key": "gh-bastiaanb",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025-Q3",
+            "period_label": "Q3 2025",
+            "period_type": "quarter",
+            "rank": 10
+        },
+        {
+            "period_key": "2025-07",
+            "period_label": "July 2025",
+            "period_type": "month",
+            "rank": 2
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "user_key": "u-chi-fujii",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025",
+            "period_label": "2025",
+            "period_type": "year",
+            "rank": 6
+        },
+        {
+            "period_key": "2026-Q1",
+            "period_label": "Q1 2026",
+            "period_type": "quarter",
+            "rank": 1
+        },
+        {
+            "period_key": "2025-Q4",
+            "period_label": "Q4 2025",
+            "period_type": "quarter",
+            "rank": 1
+        },
+        {
+            "period_key": "2026-01",
+            "period_label": "January 2026",
+            "period_type": "month",
+            "rank": 1
+        },
+        {
+            "period_key": "2025-12",
+            "period_label": "December 2025",
+            "period_type": "month",
+            "rank": 1
+        }
+    ]
+}

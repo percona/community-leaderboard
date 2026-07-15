@@ -1,0 +1,24 @@
+{
+    "user_key": "gh-l2dy",
+    "generated_at": "2026-07-15T09:31:12+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2025",
+            "period_label": "2025",
+            "period_type": "year",
+            "rank": 4
+        },
+        {
+            "period_key": "2025-Q2",
+            "period_label": "Q2 2025",
+            "period_type": "quarter",
+            "rank": 1
+        },
+        {
+            "period_key": "2025-04",
+            "period_label": "April 2025",
+            "period_type": "month",
+            "rank": 1
+        }
+    ]
+}
