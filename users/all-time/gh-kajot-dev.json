@@ -7,14 +7,14 @@
     "forum_username": null,
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-07-15T10:02:13+00:00",
-    "points_total": 225,
-    "points_github": 225,
+    "generated_at": "2026-07-17T07:42:36+00:00",
+    "points_total": 375,
+    "points_github": 375,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 5,
     "prs_created": 4,
-    "prs_merged": 1,
+    "prs_merged": 3,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
@@ -62,16 +62,16 @@
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1652",
             "repo": "percona\/percona-postgresql-operator",
             "date": "2026-06-23",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "K8SPG-1058: Fix failing pgupgrade if names are too long",
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1649",
             "repo": "percona\/percona-postgresql-operator",
             "date": "2026-06-22",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "Initial global images config",

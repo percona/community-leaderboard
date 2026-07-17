@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-07-15T10:02:13+00:00",
+    "generated_at": "2026-07-17T07:42:36+00:00",
     "category": "global",
     "top30": [
         {
@@ -271,6 +271,28 @@
         },
         {
             "rank": 13,
+            "user_key": "gh-kajot-dev",
+            "name": "Kajot-dev",
+            "display_name": "Jakub Jaruszewski",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17925111?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=Kajot-dev",
+            "source": "GitHub",
+            "github_login": "Kajot-dev",
+            "forum_username": null,
+            "points_total": 375,
+            "points_github": 375,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 5,
+            "prs_created": 4,
+            "prs_merged": 3,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 14,
             "user_key": "u-yash-pal",
             "name": "Yash Pal",
             "display_name": "Yash Pal",
@@ -292,7 +314,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-eminaktas",
             "name": "eminaktas",
             "display_name": "Emin AKTAS",
@@ -314,7 +336,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-l2dy",
             "name": "l2dy",
             "display_name": "Zero King",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-japinli",
             "name": "japinli",
             "display_name": "Japin Li",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-t-yrka",
             "name": "t-yrka",
             "display_name": "t-yrka",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-ebuildy",
             "name": "ebuildy",
             "display_name": "Thomas Decaux",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-dimitrioslisenko",
             "name": "DimitriosLisenko",
             "display_name": "DimitriosLisenko",
@@ -424,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-btriller",
             "name": "btriller",
             "display_name": "Bastian Triller",
@@ -446,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-jeffreydwalter",
             "name": "jeffreydwalter",
             "display_name": "Jeffrey Walter",
@@ -462,28 +484,6 @@
             "issues_created": 4,
             "prs_created": 2,
             "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 22,
-            "user_key": "gh-kajot-dev",
-            "name": "Kajot-dev",
-            "display_name": "Jakub Jaruszewski",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17925111?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=Kajot-dev",
-            "source": "GitHub",
-            "github_login": "Kajot-dev",
-            "forum_username": null,
-            "points_total": 225,
-            "points_github": 225,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 5,
-            "prs_created": 4,
-            "prs_merged": 1,
             "blog_posts": 0,
             "topics_created": 0,
             "replies": 0,
