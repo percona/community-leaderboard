@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-17T07:42:36+00:00",
+    "generated_at": "2026-07-20T04:11:29+00:00",
     "category": "global",
     "top30": [
         {
@@ -95,6 +95,28 @@
         },
         {
             "rank": 5,
+            "user_key": "gh-avinashtanniru",
+            "name": "avinashtanniru",
+            "display_name": "Avinash Tanniru",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7920349?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=avinashtanniru",
+            "source": "GitHub",
+            "github_login": "avinashtanniru",
+            "forum_username": null,
+            "points_total": 75,
+            "points_github": 75,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 3,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 6,
             "user_key": "gh-belfhi",
             "name": "belfhi",
             "display_name": "Johannes Reppin",
@@ -116,7 +138,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "gh-rkferreira",
             "name": "rkferreira",
             "display_name": "Rodrigo Kellermann",
@@ -138,7 +160,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-alexole",
             "name": "alexole",
             "display_name": "Alexander Olekhnovich",
@@ -160,7 +182,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "gh-cvshumake-appf",
             "name": "cvshumake-AppF",
             "display_name": "cvshumake-AppF",
@@ -182,7 +204,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "gh-ghorbani-ali",
             "name": "ghorbani-ali",
             "display_name": "Ali Ghorbani",
@@ -204,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-giezi",
             "name": "giezi",
             "display_name": "giezi",
@@ -226,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-grimgobbo",
             "name": "grimgobbo",
             "display_name": "grimgobbo",
@@ -248,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-hollmaro",
             "name": "hollmaro",
             "display_name": "Roman Lekh",
@@ -270,7 +292,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-mdkent",
             "name": "mdkent",
             "display_name": "Matthew Kent",
@@ -292,7 +314,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-rajaie7",
             "name": "rajaie7",
             "display_name": "Rajaie Alkorani",
@@ -314,7 +336,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-chaohuang2018",
             "name": "ChaoHuang2018",
             "display_name": "Chao Huang",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-horihel",
             "name": "horihel",
             "display_name": "horihel",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-developer-bushido",
             "name": "developer-Bushido",
             "display_name": "developer-Bushido",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-fabriceellti8m",
             "name": "fabriceellti8m",
             "display_name": "fabriceellti8m",
@@ -424,7 +446,29 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
+            "user_key": "gh-jmbravo",
+            "name": "jmbravo",
+            "display_name": "jmbravo",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/18359401?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=jmbravo",
+            "source": "GitHub",
+            "github_login": "jmbravo",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 22,
             "user_key": "gh-lexfrei",
             "name": "lexfrei",
             "display_name": "Aleksei Sviridkin",
@@ -446,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
             "user_key": "gh-mchlt",
             "name": "mchlt",
             "display_name": "Michiel Tiller",
@@ -468,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 24,
             "user_key": "gh-moschlar",
             "name": "moschlar",
             "display_name": "Moritz Schlarb",
@@ -490,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 25,
             "user_key": "gh-rajarameshyv",
             "name": "rajarameshyv",
             "display_name": "rajarameshyv",
@@ -512,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 26,
             "user_key": "gh-rene-axcera",
             "name": "rene-axcera",
             "display_name": "René Mifsud",
@@ -534,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 27,
             "user_key": "gh-vlsi",
             "name": "vlsi",
             "display_name": "Vladimir Sitnikov",
@@ -556,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 28,
             "user_key": "fo-natashalr",
             "name": "NatashaLR",
             "display_name": "Natasha",
@@ -578,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 29,
             "user_key": "fo-patrickv",
             "name": "PatrickV",
             "display_name": "PatrickV",
@@ -600,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 30,
             "user_key": "fo-srinivas",
             "name": "Srinivas",
             "display_name": "Srinivasarao",
@@ -609,50 +653,6 @@
             "source": "Forum",
             "github_login": null,
             "forum_username": "Srinivas",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 29,
-            "user_key": "fo-vanias_kopas",
-            "name": "Vanias_Kopas",
-            "display_name": "Vanias Kopas",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/vanias_kopas\/120\/11433_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=Vanias_Kopas",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "Vanias_Kopas",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "fo-bacnt2",
-            "name": "bacnt2",
-            "display_name": "Alex_Nguyen",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/3be4f8\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=bacnt2",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "bacnt2",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,
