@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-17T07:42:36+00:00",
+    "generated_at": "2026-07-20T04:11:29+00:00",
     "category": "forum",
     "top30": [
         {
@@ -217,6 +217,27 @@
         },
         {
             "rank": 11,
+            "user_key": "fo-vigneshmurugan",
+            "name": "VigneshMurugan",
+            "display_name": "VigneshMurugan",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/v\/94ad74\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=VigneshMurugan",
+            "github_login": null,
+            "forum_username": "VigneshMurugan",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 12,
             "user_key": "fo-tableworker",
             "name": "TableWorker",
             "display_name": "TableWorker",
