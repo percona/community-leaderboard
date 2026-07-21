@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "2026-Q1",
     "period_label": "Q1 2026",
-    "generated_at": "2026-04-02T13:31:29+00:00",
+    "generated_at": "2026-07-21T04:11:13+00:00",
     "points_total": 55,
     "points_github": 55,
     "points_content": 0,
@@ -25,7 +25,7 @@
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2251",
             "repo": "percona\/percona-server-mongodb-operator",
             "date": "2026-02-22",
-            "state": "open"
+            "state": "closed"
         },
         {
             "title": "`pbm-init` container missing `SecurityContext` during physical restore (violates if namespace PSA restricted)",
@@ -48,8 +48,8 @@
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2283",
             "repo": "percona\/percona-server-mongodb-operator",
             "date": "2026-03-13",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         }
     ],
     "blog_list": [],

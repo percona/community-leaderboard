@@ -7,16 +7,16 @@
     "forum_username": "Srinivas",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-07-15T08:03:15+00:00",
-    "points_total": 10,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 30,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 10,
+    "points_forum": 30,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
+    "topics_created": 6,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -32,6 +32,26 @@
             "title": "Pmm-client sidecar container is not getting created",
             "url": "https:\/\/forums.percona.com\/t\/pmm-client-sidecar-container-is-not-getting-created",
             "date": "2026-05-11"
+        },
+        {
+            "title": "Percona Postgres: Primary promotion happened during parameter change and behavior during pod delete forcefully",
+            "url": "https:\/\/forums.percona.com\/t\/percona-postgres-primary-promotion-happened-during-parameter-change-and-behavior-during-pod-delete-forcefully",
+            "date": "2026-05-18"
+        },
+        {
+            "title": "The former primary pod did not start as a replica during few scenarios",
+            "url": "https:\/\/forums.percona.com\/t\/the-former-primary-pod-did-not-start-as-a-replica-during-few-scenarios",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "Patroni replication behaves the same regardless of the value set for synchronous_mode_strict",
+            "url": "https:\/\/forums.percona.com\/t\/patroni-replication-behaves-the-same-regardless-of-the-value-set-for-synchronous-mode-strict",
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Open-Source Kubernetes Version Support",
+            "url": "https:\/\/forums.percona.com\/t\/open-source-kubernetes-version-support",
+            "date": "2026-07-15"
         }
     ],
     "forum_replies": [],

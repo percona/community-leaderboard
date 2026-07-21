@@ -7,17 +7,17 @@
     "forum_username": "erpramodprajapat",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 62,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 94,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 62,
+    "points_forum": 94,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
-    "replies": 1,
+    "topics_created": 8,
+    "replies": 2,
     "solutions": 1,
     "github_issues": [],
     "github_prs": [],
@@ -32,9 +32,44 @@
             "title": "Few times a normal query\/proc is taking time to execute",
             "url": "https:\/\/forums.percona.com\/t\/few-times-a-normal-query-proc-is-taking-time-to-execute",
             "date": "2024-02-26"
+        },
+        {
+            "title": "Performance issue due to heavy use of mysql.proc",
+            "url": "https:\/\/forums.percona.com\/t\/performance-issue-due-to-heavy-use-of-mysql-proc",
+            "date": "2024-04-11"
+        },
+        {
+            "title": "So many queries to get the name of procedure from mysql.proc",
+            "url": "https:\/\/forums.percona.com\/t\/so-many-queries-to-get-the-name-of-procedure-from-mysql-proc",
+            "date": "2024-04-12"
+        },
+        {
+            "title": "I am not able to connect to mysql using proxySQL",
+            "url": "https:\/\/forums.percona.com\/t\/i-am-not-able-to-connect-to-mysql-using-proxysql",
+            "date": "2024-04-18"
+        },
+        {
+            "title": "Implicit type conversions not happening after upgrade from 5.7 to 8.0",
+            "url": "https:\/\/forums.percona.com\/t\/implicit-type-conversions-not-happening-after-upgrade-from-5-7-to-8-0",
+            "date": "2024-04-24"
+        },
+        {
+            "title": "ProxySQL for Procedure call routing",
+            "url": "https:\/\/forums.percona.com\/t\/proxysql-for-procedure-call-routing",
+            "date": "2024-06-20"
+        },
+        {
+            "title": "Unable to install PMM server on ubuntu 16",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-install-pmm-server-on-ubuntu-16",
+            "date": "2024-07-31"
         }
     ],
     "forum_replies": [
+        {
+            "topic_title": "Restore strategy",
+            "url": "https:\/\/forums.percona.com\/t\/restore-strategy\/2",
+            "date": "2024-06-25"
+        },
         {
             "topic_title": "Setup replication using mysqldump. Restore getting \"Access to system schema 'mysql' is rejected.\"",
             "url": "https:\/\/forums.percona.com\/t\/setup-replication-using-mysqldump-restore-getting-access-to-system-schema-mysql-is-rejected\/2",

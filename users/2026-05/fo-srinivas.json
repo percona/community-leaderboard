@@ -7,16 +7,16 @@
     "forum_username": "Srinivas",
     "period": "2026-05",
     "period_label": "May 2026",
-    "generated_at": "2026-07-15T08:03:15+00:00",
-    "points_total": 5,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 15,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 15,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 3,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,16 @@
             "title": "Pmm-client sidecar container is not getting created",
             "url": "https:\/\/forums.percona.com\/t\/pmm-client-sidecar-container-is-not-getting-created",
             "date": "2026-05-11"
+        },
+        {
+            "title": "Percona Postgres: Primary promotion happened during parameter change and behavior during pod delete forcefully",
+            "url": "https:\/\/forums.percona.com\/t\/percona-postgres-primary-promotion-happened-during-parameter-change-and-behavior-during-pod-delete-forcefully",
+            "date": "2026-05-18"
+        },
+        {
+            "title": "The former primary pod did not start as a replica during few scenarios",
+            "url": "https:\/\/forums.percona.com\/t\/the-former-primary-pod-did-not-start-as-a-replica-during-few-scenarios",
+            "date": "2026-05-20"
         }
     ],
     "forum_replies": [],

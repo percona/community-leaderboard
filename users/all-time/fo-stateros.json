@@ -7,17 +7,17 @@
     "forum_username": "Stateros",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 73,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 77,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 73,
+    "points_forum": 77,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 11,
-    "replies": 9,
+    "replies": 11,
     "solutions": 0,
     "github_issues": [],
     "github_prs": [],
@@ -124,6 +124,16 @@
             "topic_title": "Single rs possible?",
             "url": "https:\/\/forums.percona.com\/t\/single-rs-possible\/3",
             "date": "2025-09-23"
+        },
+        {
+            "topic_title": "The Percona Community Slack is open — come hang out | Percona Community",
+            "url": "https:\/\/forums.percona.com\/t\/the-percona-community-slack-is-open-come-hang-out-percona-community\/6",
+            "date": "2026-06-08"
+        },
+        {
+            "topic_title": "The Percona Community Slack is open — come hang out | Percona Community",
+            "url": "https:\/\/forums.percona.com\/t\/the-percona-community-slack-is-open-come-hang-out-percona-community\/9",
+            "date": "2026-06-09"
         }
     ],
     "forum_solutions": []

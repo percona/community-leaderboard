@@ -7,16 +7,16 @@
     "forum_username": "Simeon_Petkov",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 10,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 15,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 10,
+    "points_forum": 15,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
+    "topics_created": 3,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -32,6 +32,11 @@
             "title": "Unable to Create a Jira Ticket",
             "url": "https:\/\/forums.percona.com\/t\/unable-to-create-a-jira-ticket",
             "date": "2026-02-06"
+        },
+        {
+            "title": "Discovered a bug in PMM 3.6.0 PostgreSQL exporter (CloudSQL)",
+            "url": "https:\/\/forums.percona.com\/t\/discovered-a-bug-in-pmm-3-6-0-postgresql-exporter-cloudsql",
+            "date": "2026-03-20"
         }
     ],
     "forum_replies": [],

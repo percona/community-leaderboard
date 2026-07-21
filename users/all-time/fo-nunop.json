@@ -7,16 +7,16 @@
     "forum_username": "nunop",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 44,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 49,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 44,
+    "points_forum": 49,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 6,
+    "topics_created": 7,
     "replies": 7,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "SHOW PROCESSLIST is deprecated?",
             "url": "https:\/\/forums.percona.com\/t\/show-processlist-is-deprecated",
             "date": "2024-01-07"
+        },
+        {
+            "title": "MySQL vs MariaDB - \"Using sort_union(index1,PRIMARY)\"",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-vs-mariadb-using-sort-union-index1-primary",
+            "date": "2024-05-31"
         },
         {
             "title": "HY000\/2006 MySQL server has gone away",

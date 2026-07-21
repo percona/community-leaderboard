@@ -7,14 +7,14 @@
     "forum_username": null,
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 275,
-    "points_github": 275,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 350,
+    "points_github": 350,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
     "prs_created": 5,
-    "prs_merged": 2,
+    "prs_merged": 3,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
@@ -43,15 +43,15 @@
             "repo": "percona\/repo-config-docs",
             "date": "2025-02-05",
             "merged": false,
-            "state": "open"
+            "state": "closed"
         },
         {
             "title": "Updated installing.md for improved readability",
             "url": "https:\/\/github.com\/percona\/repo-config-docs\/pull\/146",
             "repo": "percona\/repo-config-docs",
             "date": "2025-02-05",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "Updated installation.md for improved readability",

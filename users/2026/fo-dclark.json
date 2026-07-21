@@ -7,16 +7,16 @@
     "forum_username": "dclark",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 5,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 10,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 10,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 2,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "AWS EBS Volume\/PVC Change From Un-encrypted to Encrypted",
             "url": "https:\/\/forums.percona.com\/t\/aws-ebs-volume-pvc-change-from-un-encrypted-to-encrypted",
             "date": "2026-01-14"
+        },
+        {
+            "title": "PMM Client Upgrade Issues 2.x to 3.x",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-client-upgrade-issues-2-x-to-3-x",
+            "date": "2026-06-18"
         }
     ],
     "forum_replies": [],

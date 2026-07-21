@@ -7,16 +7,16 @@
     "forum_username": "Ly_Kimmeng",
     "period": "2026-05",
     "period_label": "May 2026",
-    "generated_at": "2026-07-15T08:03:15+00:00",
-    "points_total": 5,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 10,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 10,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 2,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "PMM2: Admin password change – any impact on already-registered agents?",
             "url": "https:\/\/forums.percona.com\/t\/pmm2-admin-password-change-any-impact-on-already-registered-agents",
             "date": "2026-05-08"
+        },
+        {
+            "title": "How to Reclaim Disk Space on PMM 2 Docker Deployment (RHEL)",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-reclaim-disk-space-on-pmm-2-docker-deployment-rhel",
+            "date": "2026-05-21"
         }
     ],
     "forum_replies": [],

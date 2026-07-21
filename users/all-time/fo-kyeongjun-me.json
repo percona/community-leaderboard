@@ -7,16 +7,16 @@
     "forum_username": "kyeongjun.me",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 80,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 85,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 80,
+    "points_forum": 85,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
+    "topics_created": 3,
     "replies": 10,
     "solutions": 1,
     "github_issues": [],
@@ -26,6 +26,11 @@
         {
             "title": "Percona operator backup-agent chang timezone from UTC",
             "url": "https:\/\/forums.percona.com\/t\/percona-operator-backup-agent-chang-timezone-from-utc",
+            "date": "2024-01-03"
+        },
+        {
+            "title": "Percona backup agent not have \"mongod\" in $PATH",
+            "url": "https:\/\/forums.percona.com\/t\/percona-backup-agent-not-have-mongod-in-path",
             "date": "2024-01-03"
         },
         {

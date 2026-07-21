@@ -7,16 +7,16 @@
     "forum_username": "pmmChobo",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 35,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 60,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 35,
+    "points_forum": 60,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 7,
+    "topics_created": 12,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -52,6 +52,31 @@
             "title": "Install pmm in kubernetes",
             "url": "https:\/\/forums.percona.com\/t\/install-pmm-in-kubernetes",
             "date": "2024-03-29"
+        },
+        {
+            "title": "Pmm backup issue",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-backup-issue",
+            "date": "2024-04-17"
+        },
+        {
+            "title": "Pmm xbcloud backup test",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-xbcloud-backup-test",
+            "date": "2024-06-03"
+        },
+        {
+            "title": "Pmm mysql backup",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-mysql-backup",
+            "date": "2024-06-04"
+        },
+        {
+            "title": "Pmm restore error occured",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-restore-error-occured",
+            "date": "2024-06-10"
+        },
+        {
+            "title": "How PMM node and service match",
+            "url": "https:\/\/forums.percona.com\/t\/how-pmm-node-and-service-match",
+            "date": "2024-06-12"
         },
         {
             "title": "Pmm \/src\/logs Delete cycle",

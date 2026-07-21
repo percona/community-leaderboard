@@ -7,16 +7,16 @@
     "forum_username": "Yash_Daga",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 26,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 56,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 26,
+    "points_forum": 56,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 4,
+    "topics_created": 10,
     "replies": 3,
     "solutions": 0,
     "github_issues": [],
@@ -42,6 +42,36 @@
             "title": "Encrypted Backup and Restore is failing for PXC 8.0.32-24.2",
             "url": "https:\/\/forums.percona.com\/t\/encrypted-backup-and-restore-is-failing-for-pxc-8-0-32-24-2",
             "date": "2026-02-19"
+        },
+        {
+            "title": "PXC Operator wsrep_notify_cmd handler hangs indefinitely on joiner state, curl to PITR has no timeout, blocks SST\/IST",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-operator-wsrep-notify-cmd-handler-hangs-indefinitely-on-joiner-state-curl-to-pitr-has-no-timeout-blocks-sst-ist",
+            "date": "2026-03-24"
+        },
+        {
+            "title": "PXC node crashes during SST with \"Will never receive state. Need to abort.\" consistently at ~8-10 minutes",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-node-crashes-during-sst-with-will-never-receive-state-need-to-abort-consistently-at-8-10-minutes",
+            "date": "2026-03-25"
+        },
+        {
+            "title": "Sst-idle-timeout killing sst after the donor has transferred all the data",
+            "url": "https:\/\/forums.percona.com\/t\/sst-idle-timeout-killing-sst-after-the-donor-has-transferred-all-the-data",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "Pitr container not exiting after hitting failure",
+            "url": "https:\/\/forums.percona.com\/t\/pitr-container-not-exiting-after-hitting-failure",
+            "date": "2026-04-18"
+        },
+        {
+            "title": "Cluster crash without auto recovery after SST transfer",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-crash-without-auto-recovery-after-sst-transfer",
+            "date": "2026-05-06"
+        },
+        {
+            "title": "What is the recommended way to rotate vault token for mysql?",
+            "url": "https:\/\/forums.percona.com\/t\/what-is-the-recommended-way-to-rotate-vault-token-for-mysql",
+            "date": "2026-06-02"
         }
     ],
     "forum_replies": [

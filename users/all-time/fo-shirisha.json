@@ -7,22 +7,27 @@
     "forum_username": "shirisha",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 35,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 50,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 35,
+    "points_forum": 50,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 7,
+    "topics_created": 10,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
     "github_prs": [],
     "blog_list": [],
     "forum_topics": [
+        {
+            "title": "Migrate 2 DC MySQL cluster to 3 DC",
+            "url": "https:\/\/forums.percona.com\/t\/migrate-2-dc-mysql-cluster-to-3-dc",
+            "date": "2024-04-29"
+        },
         {
             "title": "MySQL master-master upgrade from 5.7 to 8.0",
             "url": "https:\/\/forums.percona.com\/t\/mysql-master-master-upgrade-from-5-7-to-8-0",
@@ -57,6 +62,16 @@
             "title": "PXC connection timeout in multidc environment",
             "url": "https:\/\/forums.percona.com\/t\/pxc-connection-timeout-in-multidc-environment",
             "date": "2026-02-24"
+        },
+        {
+            "title": "PXC with 5 nodes in production across WAN",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-with-5-nodes-in-production-across-wan",
+            "date": "2026-04-17"
+        },
+        {
+            "title": "Can PXC over WAN be implemented in production",
+            "url": "https:\/\/forums.percona.com\/t\/can-pxc-over-wan-be-implemented-in-production",
+            "date": "2026-04-20"
         }
     ],
     "forum_replies": [],

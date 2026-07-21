@@ -7,22 +7,42 @@
     "forum_username": "jamoser",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 50,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 75,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 50,
+    "points_forum": 75,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 10,
+    "topics_created": 15,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
     "github_prs": [],
     "blog_list": [],
     "forum_topics": [
+        {
+            "title": "PodDisruptionBudget in version \"policy\/v1beta1\"",
+            "url": "https:\/\/forums.percona.com\/t\/poddisruptionbudget-in-version-policy-v1beta1",
+            "date": "2024-06-07"
+        },
+        {
+            "title": "How can predefined PV and PVC assigned to",
+            "url": "https:\/\/forums.percona.com\/t\/how-can-predefined-pv-and-pvc-assigned-to",
+            "date": "2024-06-07"
+        },
+        {
+            "title": "Is Operator for MongoDB and MongoDB (4.x) compatible to cgroup V2?",
+            "url": "https:\/\/forums.percona.com\/t\/is-operator-for-mongodb-and-mongodb-4-x-compatible-to-cgroup-v2",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "GKE, maintenance, Volume is already exclusively attached to one node and can't be attached to another",
+            "url": "https:\/\/forums.percona.com\/t\/gke-maintenance-volume-is-already-exclusively-attached-to-one-node-and-cant-be-attached-to-another",
+            "date": "2024-07-13"
+        },
         {
             "title": "Running non-sharding setup with only 1 replica",
             "url": "https:\/\/forums.percona.com\/t\/running-non-sharding-setup-with-only-1-replica",
@@ -72,6 +92,11 @@
             "title": "Multi-zone setup failure, if one zone is not avail",
             "url": "https:\/\/forums.percona.com\/t\/multi-zone-setup-failure-if-one-zone-is-not-avail",
             "date": "2025-10-06"
+        },
+        {
+            "title": "replsets.terminationGracePeriodSeconds",
+            "url": "https:\/\/forums.percona.com\/t\/replsets-terminationgraceperiodseconds",
+            "date": "2026-07-03"
         }
     ],
     "forum_replies": [],

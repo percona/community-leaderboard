@@ -1,22 +1,22 @@
 {
     "user_key": "fo-nitu",
     "display_name": "nitu",
-    "avatar_url": null,
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/n\/76d3ee\/120.png",
     "profile_url": "\/web\/leaderboard\/profile?forum=nitu",
     "github_login": null,
     "forum_username": "nitu",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 10,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 20,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 10,
+    "points_forum": 20,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
+    "topics_created": 4,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -32,6 +32,16 @@
             "title": "Checking authorization failed on a new Mongodb Kubernetes install",
             "url": "https:\/\/forums.percona.com\/t\/checking-authorization-failed-on-a-new-mongodb-kubernetes-install",
             "date": "2026-01-23"
+        },
+        {
+            "title": "Keycloak - MongoDB - database admin user configuration",
+            "url": "https:\/\/forums.percona.com\/t\/keycloak-mongodb-database-admin-user-configuration",
+            "date": "2026-05-18"
+        },
+        {
+            "title": "Percona Server MongoDB - External Kubernetes Login Fails",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-mongodb-external-kubernetes-login-fails",
+            "date": "2026-05-26"
         }
     ],
     "forum_replies": [],

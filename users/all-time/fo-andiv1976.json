@@ -7,16 +7,16 @@
     "forum_username": "ANDiv1976",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-04-02T12:54:14+00:00",
-    "points_total": 40,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 45,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 40,
+    "points_forum": 45,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 8,
+    "topics_created": 9,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -62,6 +62,11 @@
             "title": "How to set the default interval to 15 minutes for all users and switch to manual metrics refresh in Grafana PMM?",
             "url": "https:\/\/forums.percona.com\/t\/how-to-set-the-default-interval-to-15-minutes-for-all-users-and-switch-to-manual-metrics-refresh-in-grafana-pmm",
             "date": "2026-02-10"
+        },
+        {
+            "title": "Renaming node and service",
+            "url": "https:\/\/forums.percona.com\/t\/renaming-node-and-service",
+            "date": "2026-03-26"
         }
     ],
     "forum_replies": [],

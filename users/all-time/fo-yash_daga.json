@@ -7,16 +7,16 @@
     "forum_username": "Yash_Daga",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-07-15T08:03:15+00:00",
-    "points_total": 56,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 61,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 56,
+    "points_forum": 61,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 10,
+    "topics_created": 11,
     "replies": 3,
     "solutions": 0,
     "github_issues": [],
@@ -72,6 +72,11 @@
             "title": "Cluster crash without auto recovery after SST transfer",
             "url": "https:\/\/forums.percona.com\/t\/cluster-crash-without-auto-recovery-after-sst-transfer",
             "date": "2026-05-06"
+        },
+        {
+            "title": "What is the recommended way to rotate vault token for mysql?",
+            "url": "https:\/\/forums.percona.com\/t\/what-is-the-recommended-way-to-rotate-vault-token-for-mysql",
+            "date": "2026-06-02"
         }
     ],
     "forum_replies": [

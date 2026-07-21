@@ -7,22 +7,47 @@
     "forum_username": "Naresh9999",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 131,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 168,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 131,
+    "points_forum": 168,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 21,
-    "replies": 13,
+    "topics_created": 28,
+    "replies": 14,
     "solutions": 0,
     "github_issues": [],
     "github_prs": [],
     "blog_list": [],
     "forum_topics": [
+        {
+            "title": "How to find most locking tables from QAN dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-find-most-locking-tables-from-qan-dashboard",
+            "date": "2024-04-30"
+        },
+        {
+            "title": "Postgresql cannot execute CREATE EXTENSION in a read-only transaction",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-cannot-execute-create-extension-in-a-read-only-transaction",
+            "date": "2024-04-30"
+        },
+        {
+            "title": "After upgrading from 2.41.1 to 2.41.2 PostgreSQL DB(Grafana DB) is empty inside PMM server container",
+            "url": "https:\/\/forums.percona.com\/t\/after-upgrading-from-2-41-1-to-2-41-2-postgresql-db-grafana-db-is-empty-inside-pmm-server-container",
+            "date": "2024-05-09"
+        },
+        {
+            "title": "QAN PostgreSQL explain plan is not user friendly like MySQL or MariaDB",
+            "url": "https:\/\/forums.percona.com\/t\/qan-postgresql-explain-plan-is-not-user-friendly-like-mysql-or-mariadb",
+            "date": "2024-07-01"
+        },
+        {
+            "title": "How can we check per process CPU utilization",
+            "url": "https:\/\/forums.percona.com\/t\/how-can-we-check-per-process-cpu-utilization",
+            "date": "2024-07-26"
+        },
         {
             "title": "PostgreSQL Query is trimming in the QAN dashboard",
             "url": "https:\/\/forums.percona.com\/t\/postgresql-query-is-trimming-in-the-qan-dashboard",
@@ -127,9 +152,24 @@
             "title": "PostgreSQL:PMM agent queries are consuming more CPU's",
             "url": "https:\/\/forums.percona.com\/t\/postgresql-pmm-agent-queries-are-consuming-more-cpus",
             "date": "2025-11-18"
+        },
+        {
+            "title": "How to subscribe to PMM security\/CVE email alerts?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-subscribe-to-pmm-security-cve-email-alerts",
+            "date": "2026-04-22"
+        },
+        {
+            "title": "Max PMM User Connections issue for MongoDB Replica Set",
+            "url": "https:\/\/forums.percona.com\/t\/max-pmm-user-connections-issue-for-mongodb-replica-set",
+            "date": "2026-05-14"
         }
     ],
     "forum_replies": [
+        {
+            "topic_title": "In Query Analytics, the same statement executed in different databases will only be counted once",
+            "url": "https:\/\/forums.percona.com\/t\/in-query-analytics-the-same-statement-executed-in-different-databases-will-only-be-counted-once\/11",
+            "date": "2024-05-06"
+        },
         {
             "topic_title": "MySQL Query Performance Troubleshooting doesn't show queries",
             "url": "https:\/\/forums.percona.com\/t\/mysql-query-performance-troubleshooting-doesnt-show-queries\/6",

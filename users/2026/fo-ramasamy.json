@@ -7,16 +7,16 @@
     "forum_username": "Ramasamy",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 20,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 25,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 20,
+    "points_forum": 25,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 4,
+    "topics_created": 5,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -42,6 +42,11 @@
             "title": "Upgrading Percona Server from 8.0.44 to 8.4.7 on GTID based replication environments?",
             "url": "https:\/\/forums.percona.com\/t\/upgrading-percona-server-from-8-0-44-to-8-4-7-on-gtid-based-replication-environments",
             "date": "2026-02-11"
+        },
+        {
+            "title": "How to install Percona MySQL server with component keyring and self signed certs by default on the RHEL 8\/9?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-install-percona-mysql-server-with-component-keyring-and-self-signed-certs-by-default-on-the-rhel-8-9",
+            "date": "2026-04-09"
         }
     ],
     "forum_replies": [],

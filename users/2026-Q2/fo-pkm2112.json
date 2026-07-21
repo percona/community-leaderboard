@@ -7,16 +7,16 @@
     "forum_username": "pkm2112",
     "period": "2026-Q2",
     "period_label": "Q2 2026",
-    "generated_at": "2026-07-15T08:03:15+00:00",
-    "points_total": 5,
+    "generated_at": "2026-07-21T04:11:13+00:00",
+    "points_total": 15,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 15,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 3,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,16 @@
             "title": "[ERROR] [MY-013709] [Server] Received an error while processing components from manifest file: Failed to load components from manifest file",
             "url": "https:\/\/forums.percona.com\/t\/error-my-013709-server-received-an-error-while-processing-components-from-manifest-file-failed-to-load-components-from-manifest-file",
             "date": "2026-04-04"
+        },
+        {
+            "title": "Percona xtradb cluster Settings",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-settings",
+            "date": "2026-05-27"
+        },
+        {
+            "title": "Percona xtrabackup libgcrypt error: integrity check failed: checksum error",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtrabackup-libgcrypt-error-integrity-check-failed-checksum-error",
+            "date": "2026-06-18"
         }
     ],
     "forum_replies": [],
