@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-22T04:11:33+00:00",
+    "generated_at": "2026-07-23T04:11:43+00:00",
     "category": "forum",
     "top30": [
         {
@@ -259,6 +259,27 @@
         },
         {
             "rank": 13,
+            "user_key": "fo-hoang_cong_ph_c",
+            "name": "Hoang_Cong_Ph_c",
+            "display_name": "Hoàng Công Phước",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/hoang_cong_ph_c\/120\/24021_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Hoang_Cong_Ph_c",
+            "github_login": null,
+            "forum_username": "Hoang_Cong_Ph_c",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 14,
             "user_key": "fo-tableworker",
             "name": "TableWorker",
             "display_name": "TableWorker",

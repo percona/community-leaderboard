@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-22T04:11:33+00:00",
+    "generated_at": "2026-07-23T04:11:43+00:00",
     "category": "global",
     "top30": [
         {
@@ -337,6 +337,28 @@
         },
         {
             "rank": 16,
+            "user_key": "gh-ravisingal",
+            "name": "ravisingal",
+            "display_name": "Ravi Singal",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62086374?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=ravisingal",
+            "source": "GitHub",
+            "github_login": "ravisingal",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 17,
             "user_key": "gh-chaohuang2018",
             "name": "ChaoHuang2018",
             "display_name": "Chao Huang",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-horihel",
             "name": "horihel",
             "display_name": "horihel",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-developer-bushido",
             "name": "developer-Bushido",
             "display_name": "developer-Bushido",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -424,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-fabriceellti8m",
             "name": "fabriceellti8m",
             "display_name": "fabriceellti8m",
@@ -446,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-jmbravo",
             "name": "jmbravo",
             "display_name": "jmbravo",
@@ -468,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-lexfrei",
             "name": "lexfrei",
             "display_name": "Aleksei Sviridkin",
@@ -490,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-mchlt",
             "name": "mchlt",
             "display_name": "Michiel Tiller",
@@ -512,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-moschlar",
             "name": "moschlar",
             "display_name": "Moritz Schlarb",
@@ -534,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-rajarameshyv",
             "name": "rajarameshyv",
             "display_name": "rajarameshyv",
@@ -556,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-rene-axcera",
             "name": "rene-axcera",
             "display_name": "René Mifsud",
@@ -578,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-vlsi",
             "name": "vlsi",
             "display_name": "Vladimir Sitnikov",
@@ -600,37 +622,15 @@
             "solutions": 0
         },
         {
-            "rank": 28,
-            "user_key": "fo-natashalr",
-            "name": "NatashaLR",
-            "display_name": "Natasha",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/n\/ecd19e\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=NatashaLR",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "NatashaLR",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
             "rank": 29,
-            "user_key": "fo-patrickv",
-            "name": "PatrickV",
-            "display_name": "PatrickV",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/51bf81\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=PatrickV",
+            "user_key": "fo-hoang_cong_ph_c",
+            "name": "Hoang_Cong_Ph_c",
+            "display_name": "Hoàng Công Phước",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/hoang_cong_ph_c\/120\/24021_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Hoang_Cong_Ph_c",
             "source": "Forum",
             "github_login": null,
-            "forum_username": "PatrickV",
+            "forum_username": "Hoang_Cong_Ph_c",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,
@@ -645,14 +645,14 @@
         },
         {
             "rank": 30,
-            "user_key": "fo-srinivas",
-            "name": "Srinivas",
-            "display_name": "Srinivasarao",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/srinivas\/120\/23606_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=Srinivas",
+            "user_key": "fo-natashalr",
+            "name": "NatashaLR",
+            "display_name": "Natasha",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/n\/ecd19e\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=NatashaLR",
             "source": "Forum",
             "github_login": null,
-            "forum_username": "Srinivas",
+            "forum_username": "NatashaLR",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,

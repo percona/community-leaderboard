@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-07-22T04:11:33+00:00",
+    "generated_at": "2026-07-23T04:11:43+00:00",
     "category": "github",
     "top30": [
         {
@@ -112,6 +112,27 @@
         },
         {
             "rank": 6,
+            "user_key": "gh-ravisingal",
+            "name": "ravisingal",
+            "display_name": "Ravi Singal",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62086374?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=ravisingal",
+            "github_login": "ravisingal",
+            "forum_username": null,
+            "points_total": 225,
+            "points_github": 225,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 3,
+            "prs_merged": 2,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 7,
             "user_key": "gh-koleo",
             "name": "koleo",
             "display_name": "Nicolas PAYART",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-dimitrioslisenko",
             "name": "DimitriosLisenko",
             "display_name": "DimitriosLisenko",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -166,27 +187,6 @@
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 1,
-            "prs_created": 2,
-            "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 9,
-            "user_key": "gh-ravisingal",
-            "name": "ravisingal",
-            "display_name": "Ravi Singal",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/62086374?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=ravisingal",
-            "github_login": "ravisingal",
-            "forum_username": null,
-            "points_total": 200,
-            "points_github": 200,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
             "prs_created": 2,
             "prs_merged": 2,
             "blog_posts": 0,

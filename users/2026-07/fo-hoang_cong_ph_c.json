@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-hoang_cong_ph_c",
+    "display_name": "Hoàng Công Phước",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/hoang_cong_ph_c\/120\/24021_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Hoang_Cong_Ph_c",
+    "github_login": null,
+    "forum_username": "Hoang_Cong_Ph_c",
+    "period": "2026-07",
+    "period_label": "July 2026",
+    "generated_at": "2026-07-23T04:11:43+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Does Percona ClusterSync support data migration across major and minor versions?",
+            "url": "https:\/\/forums.percona.com\/t\/does-percona-clustersync-support-data-migration-across-major-and-minor-versions",
+            "date": "2026-07-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
