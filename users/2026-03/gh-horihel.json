@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "2026-03",
     "period_label": "March 2026",
-    "generated_at": "2026-07-23T04:11:43+00:00",
+    "generated_at": "2026-07-24T04:12:10+00:00",
     "points_total": 20,
     "points_github": 20,
     "points_content": 0,
@@ -25,7 +25,7 @@
             "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/825",
             "repo": "percona\/percona-helm-charts",
             "date": "2026-03-31",
-            "state": "open"
+            "state": "closed"
         },
         {
             "title": "Operator does not notice an interrupted backup when pod is evicted",

@@ -7,14 +7,14 @@
     "forum_username": null,
     "period": "2026-07",
     "period_label": "July 2026",
-    "generated_at": "2026-07-23T04:11:43+00:00",
-    "points_total": 175,
-    "points_github": 175,
+    "generated_at": "2026-07-24T04:12:10+00:00",
+    "points_total": 325,
+    "points_github": 325,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
     "prs_created": 1,
-    "prs_merged": 2,
+    "prs_merged": 4,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
@@ -26,8 +26,8 @@
             "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/901",
             "repo": "percona\/percona-helm-charts",
             "date": "2026-07-10",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "K8SPSMDB-1711: probe \/healthz and \/readyz on the health-probe port",
@@ -42,6 +42,14 @@
             "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/884",
             "repo": "percona\/percona-helm-charts",
             "date": "2026-06-28",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPSMDB-1742 Publish charts as OCI artifacts to GHCR",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/843",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-04-25",
             "merged": true,
             "state": "closed"
         }
