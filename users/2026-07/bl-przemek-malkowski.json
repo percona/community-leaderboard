@@ -1,0 +1,34 @@
+{
+    "user_key": "bl-przemek-malkowski",
+    "display_name": "Przemek Malkowski",
+    "avatar_url": null,
+    "profile_url": "\/web\/leaderboard\/profile?blog=Przemek+Malkowski",
+    "github_login": null,
+    "forum_username": null,
+    "period": "2026-07",
+    "period_label": "July 2026",
+    "generated_at": "2026-07-28T04:12:04+00:00",
+    "points_total": 100,
+    "points_github": 0,
+    "points_content": 100,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 1,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [
+        {
+            "title": "Introducing 🍃MClusterAdmin: A Lightweight GUI Tool for MongoDB DBAs",
+            "url": "https:\/\/percona.community\/blog\/2026\/07\/27\/introducing-mclusteradmin-a-lightweight-gui-tool-for-mongodb-dba\/",
+            "date": "27.07.2026"
+        }
+    ],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

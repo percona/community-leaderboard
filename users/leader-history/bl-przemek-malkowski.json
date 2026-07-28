@@ -1,0 +1,18 @@
+{
+    "user_key": "bl-przemek-malkowski",
+    "generated_at": "2026-07-28T04:12:04+00:00",
+    "summit_periods": [
+        {
+            "period_key": "2026-Q3",
+            "period_label": "Q3 2026",
+            "period_type": "quarter",
+            "rank": 5
+        },
+        {
+            "period_key": "2026-07",
+            "period_label": "July 2026",
+            "period_type": "month",
+            "rank": 5
+        }
+    ]
+}

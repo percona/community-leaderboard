@@ -2,7 +2,29 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-27T04:12:07+00:00",
+    "generated_at": "2026-07-28T04:12:04+00:00",
     "category": "content",
-    "top30": []
+    "top30": [
+        {
+            "rank": 1,
+            "user_key": "bl-przemek-malkowski",
+            "name": "Przemek Malkowski",
+            "display_name": "Przemek Malkowski",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Przemek+Malkowski",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        }
+    ]
 }
