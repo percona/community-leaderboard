@@ -7,16 +7,16 @@
     "forum_username": "Naresh9999",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-07-29T04:11:42+00:00",
-    "points_total": 168,
+    "generated_at": "2026-07-30T04:11:52+00:00",
+    "points_total": 173,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 168,
+    "points_forum": 173,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 28,
+    "topics_created": 29,
     "replies": 14,
     "solutions": 0,
     "github_issues": [],
@@ -162,6 +162,11 @@
             "title": "Max PMM User Connections issue for MongoDB Replica Set",
             "url": "https:\/\/forums.percona.com\/t\/max-pmm-user-connections-issue-for-mongodb-replica-set",
             "date": "2026-05-14"
+        },
+        {
+            "title": "Should we enable pgsm_normalized_query or not? — Missing QAN examples on PMM 3.8.1",
+            "url": "https:\/\/forums.percona.com\/t\/should-we-enable-pgsm-normalized-query-or-not-missing-qan-examples-on-pmm-3-8-1",
+            "date": "2026-07-29"
         }
     ],
     "forum_replies": [

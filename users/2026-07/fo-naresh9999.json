@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2026-07",
+    "period_label": "July 2026",
+    "generated_at": "2026-07-30T04:11:52+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Should we enable pgsm_normalized_query or not? — Missing QAN examples on PMM 3.8.1",
+            "url": "https:\/\/forums.percona.com\/t\/should-we-enable-pgsm-normalized-query-or-not-missing-qan-examples-on-pmm-3-8-1",
+            "date": "2026-07-29"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
