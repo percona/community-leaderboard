@@ -7,16 +7,16 @@
     "forum_username": "Naresh9999",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-07-30T04:11:52+00:00",
-    "points_total": 15,
+    "generated_at": "2026-07-31T04:12:07+00:00",
+    "points_total": 20,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 15,
+    "points_forum": 20,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 3,
+    "topics_created": 4,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -37,6 +37,11 @@
             "title": "Should we enable pgsm_normalized_query or not? — Missing QAN examples on PMM 3.8.1",
             "url": "https:\/\/forums.percona.com\/t\/should-we-enable-pgsm-normalized-query-or-not-missing-qan-examples-on-pmm-3-8-1",
             "date": "2026-07-29"
+        },
+        {
+            "title": "PMM Server upgrade fails with \"Internal server error\" during 3.4.0 → 3.9.0 update",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-server-upgrade-fails-with-internal-server-error-during-3-4-0-3-9-0-update",
+            "date": "2026-07-30"
         }
     ],
     "forum_replies": [],

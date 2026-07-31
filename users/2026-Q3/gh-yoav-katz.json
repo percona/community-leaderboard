@@ -7,12 +7,12 @@
     "forum_username": null,
     "period": "2026-Q3",
     "period_label": "Q3 2026",
-    "generated_at": "2026-07-30T04:11:52+00:00",
-    "points_total": 110,
-    "points_github": 110,
+    "generated_at": "2026-07-31T04:12:07+00:00",
+    "points_total": 120,
+    "points_github": 120,
     "points_content": 0,
     "points_forum": 0,
-    "issues_created": 1,
+    "issues_created": 2,
     "prs_created": 1,
     "prs_merged": 1,
     "blog_posts": 0,
@@ -20,6 +20,13 @@
     "replies": 0,
     "solutions": 0,
     "github_issues": [
+        {
+            "title": "Restore pgAdmin support (PGAdmin CRD is inherited but non-functional)",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1708",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-07-30",
+            "state": "open"
+        },
         {
             "title": "Support a dedicated PVC for logs (separate from pgData)",
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1678",

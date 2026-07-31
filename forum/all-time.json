@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-07-30T04:11:52+00:00",
+    "generated_at": "2026-07-31T04:12:07+00:00",
     "category": "forum",
     "top30": [
         {
@@ -14,15 +14,15 @@
             "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
             "github_login": null,
             "forum_username": "Naresh9999",
-            "points_total": 173,
+            "points_total": 178,
             "points_github": 0,
             "points_content": 0,
-            "points_forum": 173,
+            "points_forum": 178,
             "issues_created": 0,
             "prs_created": 0,
             "prs_merged": 0,
             "blog_posts": 0,
-            "topics_created": 29,
+            "topics_created": 30,
             "replies": 14,
             "solutions": 0
         },
