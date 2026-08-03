@@ -1,0 +1,85 @@
+{
+    "user_key": "fo-pravata_dash",
+    "display_name": "pravata dash",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
+    "github_login": null,
+    "forum_username": "pravata_dash",
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-08-03T04:12:20+00:00",
+    "points_total": 49,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 49,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 9,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Concerns regarding the MySQL group replication",
+            "url": "https:\/\/forums.percona.com\/t\/concerns-regarding-the-mysql-group-replication",
+            "date": "2024-03-02"
+        },
+        {
+            "title": "Query regarding incremental-lsn option in PXB",
+            "url": "https:\/\/forums.percona.com\/t\/query-regarding-incremental-lsn-option-in-pxb",
+            "date": "2024-06-11"
+        },
+        {
+            "title": "Auto Cloning for Distributed Recovery is not working in Mysql GR cluster",
+            "url": "https:\/\/forums.percona.com\/t\/auto-cloning-for-distributed-recovery-is-not-working-in-mysql-gr-cluster",
+            "date": "2024-07-17"
+        },
+        {
+            "title": "Data Inconsistency Between MySQL Master and Read Replica Post Master Failover in Mixed Format Replication",
+            "url": "https:\/\/forums.percona.com\/t\/data-inconsistency-between-mysql-master-and-read-replica-post-master-failover-in-mixed-format-replication",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "Getting error while backing up PMM 2 data",
+            "url": "https:\/\/forums.percona.com\/t\/getting-error-while-backing-up-pmm-2-data",
+            "date": "2024-10-25"
+        },
+        {
+            "title": "Challenges with Reverse Replication from MySQL 8 to MySQL 5.7",
+            "url": "https:\/\/forums.percona.com\/t\/challenges-with-reverse-replication-from-mysql-8-to-mysql-5-7",
+            "date": "2025-03-02"
+        },
+        {
+            "title": "PMM Server 3.2.0 on Kubernetes: Auto-Logout\/Unauthorized Error with Multiple Replicas",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-server-3-2-0-on-kubernetes-auto-logout-unauthorized-error-with-multiple-replicas",
+            "date": "2025-11-03"
+        },
+        {
+            "title": "--safe-slave-backup causing replication stop on HSB and rebuild failures in MySQL 8.0 Clusters",
+            "url": "https:\/\/forums.percona.com\/t\/safe-slave-backup-causing-replication-stop-on-hsb-and-rebuild-failures-in-mysql-8-0-clusters",
+            "date": "2026-04-23"
+        },
+        {
+            "title": "Native Solution for Per-Query Latency Percentiles (P90\/P95\/P99) at DB Level in MySQL 8.0\/8.4 with PMM — Request for Guidance",
+            "url": "https:\/\/forums.percona.com\/t\/native-solution-for-per-query-latency-percentiles-p90-p95-p99-at-db-level-in-mysql-8-0-8-4-with-pmm-request-for-guidance",
+            "date": "2026-08-02"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "While try to login to the PMM interface we facing invalid user and password issue",
+            "url": "https:\/\/forums.percona.com\/t\/while-try-to-login-to-the-pmm-interface-we-facing-invalid-user-and-password-issue\/15",
+            "date": "2025-01-08"
+        },
+        {
+            "topic_title": "While try to login to the PMM interface we facing invalid user and password issue",
+            "url": "https:\/\/forums.percona.com\/t\/while-try-to-login-to-the-pmm-interface-we-facing-invalid-user-and-password-issue\/17",
+            "date": "2025-01-09"
+        }
+    ],
+    "forum_solutions": []
+}
