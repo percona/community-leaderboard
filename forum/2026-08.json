@@ -2,7 +2,7 @@
     "period": "2026-08",
     "period_type": "month",
     "period_label": "August 2026",
-    "generated_at": "2026-08-03T04:12:20+00:00",
+    "generated_at": "2026-08-04T04:11:55+00:00",
     "category": "forum",
     "top30": [
         {
@@ -24,6 +24,48 @@
             "blog_posts": 0,
             "topics_created": 1,
             "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "fo-ipcmlr",
+            "name": "ipcmlr",
+            "display_name": "ipcmlr",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/i\/df705f\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ipcmlr",
+            "github_login": null,
+            "forum_username": "ipcmlr",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 3,
+            "user_key": "fo-steffen_zieger",
+            "name": "Steffen_Zieger",
+            "display_name": "Steffen Zieger",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/steffen_zieger\/120\/24085_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Steffen_Zieger",
+            "github_login": null,
+            "forum_username": "Steffen_Zieger",
+            "points_total": 2,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 2,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 1,
             "solutions": 0
         }
     ]

@@ -7,16 +7,16 @@
     "forum_username": "ipcmlr",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-08-03T04:12:20+00:00",
-    "points_total": 90,
+    "generated_at": "2026-08-04T04:11:55+00:00",
+    "points_total": 95,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 90,
+    "points_forum": 95,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 18,
+    "topics_created": 19,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -112,6 +112,11 @@
             "title": "Audit filter with query and user info in one record possible?",
             "url": "https:\/\/forums.percona.com\/t\/audit-filter-with-query-and-user-info-in-one-record-possible",
             "date": "2026-03-05"
+        },
+        {
+            "title": "SSL Replication question",
+            "url": "https:\/\/forums.percona.com\/t\/ssl-replication-question",
+            "date": "2026-08-03"
         }
     ],
     "forum_replies": [],
