@@ -2,7 +2,7 @@
     "period": "2026-08",
     "period_type": "month",
     "period_label": "August 2026",
-    "generated_at": "2026-08-04T04:11:55+00:00",
+    "generated_at": "2026-08-05T04:12:09+00:00",
     "category": "global",
     "top30": [
         {
@@ -29,6 +29,28 @@
         },
         {
             "rank": 2,
+            "user_key": "gh-mohag",
+            "name": "mohag",
+            "display_name": "Gert van den Berg",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1136567?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=mohag",
+            "source": "GitHub",
+            "github_login": "mohag",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 3,
             "user_key": "gh-nuran14",
             "name": "Nuran14",
             "display_name": "Nuran Er",
@@ -50,7 +72,29 @@
             "solutions": 0
         },
         {
-            "rank": 3,
+            "rank": 4,
+            "user_key": "gh-somanchi004-code",
+            "name": "somanchi004-code",
+            "display_name": "Somanchi poorna Sobhita",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/230013042?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=somanchi004-code",
+            "source": "GitHub",
+            "github_login": "somanchi004-code",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 5,
             "user_key": "gh-steveweb7",
             "name": "steveweb7",
             "display_name": "steveweb7",
@@ -72,7 +116,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 6,
             "user_key": "fo-ipcmlr",
             "name": "ipcmlr",
             "display_name": "ipcmlr",
@@ -94,7 +138,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 7,
             "user_key": "fo-pravata_dash",
             "name": "pravata_dash",
             "display_name": "pravata dash",
@@ -116,7 +160,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 8,
             "user_key": "fo-steffen_zieger",
             "name": "Steffen_Zieger",
             "display_name": "Steffen Zieger",
