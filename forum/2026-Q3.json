@@ -2,11 +2,32 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-05T04:12:09+00:00",
+    "generated_at": "2026-08-06T04:11:56+00:00",
     "category": "forum",
     "top30": [
         {
             "rank": 1,
+            "user_key": "fo-degokul",
+            "name": "degokul",
+            "display_name": "Gokul",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a88e57\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=degokul",
+            "github_login": null,
+            "forum_username": "degokul",
+            "points_total": 10,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 10,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 2,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
             "user_key": "fo-naresh9999",
             "name": "Naresh9999",
             "display_name": "Naresh9999",
@@ -27,7 +48,28 @@
             "solutions": 0
         },
         {
-            "rank": 2,
+            "rank": 3,
+            "user_key": "fo-ipcmlr",
+            "name": "ipcmlr",
+            "display_name": "ipcmlr",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/i\/df705f\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ipcmlr",
+            "github_login": null,
+            "forum_username": "ipcmlr",
+            "points_total": 10,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 10,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 2,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "fo-karam_alhalabi",
             "name": "karam_alhalabi",
             "display_name": "karam alhalabi",
@@ -48,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 3,
+            "rank": 5,
             "user_key": "fo-natashalr",
             "name": "NatashaLR",
             "display_name": "Natasha",
@@ -69,28 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
-            "user_key": "fo-degokul",
-            "name": "degokul",
-            "display_name": "Gokul",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a88e57\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=degokul",
-            "github_login": null,
-            "forum_username": "degokul",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 5,
+            "rank": 6,
             "user_key": "fo-ulka01",
             "name": "ulka01",
             "display_name": "ulka01",
@@ -111,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "fo-jamoser",
             "name": "jamoser",
             "display_name": "John Moser",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "fo-patrickv",
             "name": "PatrickV",
             "display_name": "PatrickV",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "fo-bacnt2",
             "name": "bacnt2",
             "display_name": "Alex_Nguyen",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "fo-vanias_kopas",
             "name": "Vanias_Kopas",
             "display_name": "Vanias Kopas",
@@ -195,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "fo-srinivas",
             "name": "Srinivas",
             "display_name": "Srinivasarao",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "fo-tra_for",
             "name": "tra_for",
             "display_name": "tra",
@@ -237,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "fo-vigneshmurugan",
             "name": "VigneshMurugan",
             "display_name": "VigneshMurugan",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "fo-jruffer",
             "name": "jruffer",
             "display_name": "Jeremy Ruffer",
@@ -279,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "fo-hoang_cong_ph_c",
             "name": "Hoang_Cong_Ph_c",
             "display_name": "Hoàng Công Phước",
@@ -300,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "fo-sai_teja_varma",
             "name": "Sai_Teja_Varma",
             "display_name": "Sai Teja Varma Kantam",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "fo-rkamath",
             "name": "rkamath",
             "display_name": "rkamath",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "fo-beatriz_pereira",
             "name": "Beatriz_Pereira",
             "display_name": "Beatriz Pereira",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "fo-fabriciopedrosojorge",
             "name": "FabricioPedrosoJorge",
             "display_name": "FabricioPedrosoJorge",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "fo-pravata_dash",
             "name": "pravata_dash",
             "display_name": "pravata dash",
@@ -405,14 +426,14 @@
             "solutions": 0
         },
         {
-            "rank": 20,
-            "user_key": "fo-ipcmlr",
-            "name": "ipcmlr",
-            "display_name": "ipcmlr",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/i\/df705f\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=ipcmlr",
+            "rank": 21,
+            "user_key": "fo-aviruk_bhattacharjee",
+            "name": "Aviruk_Bhattacharjee",
+            "display_name": "Aviruk Bhattacharjee",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/aviruk_bhattacharjee\/120\/21070_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Aviruk_Bhattacharjee",
             "github_login": null,
-            "forum_username": "ipcmlr",
+            "forum_username": "Aviruk_Bhattacharjee",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,
@@ -426,7 +447,28 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
+            "user_key": "fo-craynaud",
+            "name": "craynaud",
+            "display_name": "craynaud",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/ecccb3\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=craynaud",
+            "github_login": null,
+            "forum_username": "craynaud",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 23,
             "user_key": "fo-steffen_zieger",
             "name": "Steffen_Zieger",
             "display_name": "Steffen Zieger",
@@ -447,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 24,
             "user_key": "fo-tableworker",
             "name": "TableWorker",
             "display_name": "TableWorker",

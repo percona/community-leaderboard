@@ -7,16 +7,16 @@
     "forum_username": "ipcmlr",
     "period": "2026-08",
     "period_label": "August 2026",
-    "generated_at": "2026-08-05T04:12:09+00:00",
-    "points_total": 5,
+    "generated_at": "2026-08-06T04:11:56+00:00",
+    "points_total": 10,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 10,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 2,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "SSL Replication question",
             "url": "https:\/\/forums.percona.com\/t\/ssl-replication-question",
             "date": "2026-08-03"
+        },
+        {
+            "title": "Auto renewal of ssl certificates",
+            "url": "https:\/\/forums.percona.com\/t\/auto-renewal-of-ssl-certificates",
+            "date": "2026-08-05"
         }
     ],
     "forum_replies": [],

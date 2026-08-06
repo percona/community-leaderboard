@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-08-05T04:12:09+00:00",
-    "points_total": 170,
-    "points_github": 170,
+    "generated_at": "2026-08-06T04:11:56+00:00",
+    "points_total": 195,
+    "points_github": 195,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 2,
-    "prs_created": 3,
+    "prs_created": 4,
     "prs_merged": 1,
     "blog_posts": 0,
     "topics_created": 0,
@@ -37,6 +37,14 @@
     ],
     "github_prs": [
         {
+            "title": "K8SPG-1057 refactor dcs",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1727",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-08-05",
+            "merged": false,
+            "state": "open"
+        },
+        {
             "title": "K8SPG-1073: Remove restore_command when backups are disabled",
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1673",
             "repo": "percona\/percona-postgresql-operator",
@@ -58,7 +66,7 @@
             "repo": "percona\/percona-postgresql-operator",
             "date": "2026-06-18",
             "merged": false,
-            "state": "open"
+            "state": "closed"
         }
     ],
     "blog_list": [],
