@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-degokul",
+    "display_name": "Gokul",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a88e57\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=degokul",
+    "github_login": null,
+    "forum_username": "degokul",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-08-07T04:13:02+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Using pt-table-checksum without creating a new percona schema in a vendor-managed MySQL Enterprise database",
+            "url": "https:\/\/forums.percona.com\/t\/using-pt-table-checksum-without-creating-a-new-percona-schema-in-a-vendor-managed-mysql-enterprise-database",
+            "date": "2026-07-02"
+        },
+        {
+            "title": "Guidance needed for pt-table-checksum on MySQL master-master \/ source-source replication",
+            "url": "https:\/\/forums.percona.com\/t\/guidance-needed-for-pt-table-checksum-on-mysql-master-master-source-source-replication",
+            "date": "2026-08-06"
+        },
+        {
+            "title": "Est practice for pt-table-checksum frequency in Oracle Unified Assurance active-active MySQL setup",
+            "url": "https:\/\/forums.percona.com\/t\/est-practice-for-pt-table-checksum-frequency-in-oracle-unified-assurance-active-active-mysql-setup",
+            "date": "2026-08-06"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-jstack-godaddy",
+    "display_name": "Joey Stack",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/98550160?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jstack-godaddy",
+    "github_login": "jstack-godaddy",
+    "forum_username": null,
+    "period": "2026-Q3",
+    "period_label": "Q3 2026",
+    "generated_at": "2026-08-07T04:13:02+00:00",
+    "points_total": 50,
+    "points_github": 50,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PS-11479 Add vault_namespace support to component_keyring_vault",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6123",
+            "repo": "percona\/percona-server",
+            "date": "2026-08-06",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Enable namespace functionality in the Vault Keyring Component",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6122",
+            "repo": "percona\/percona-server",
+            "date": "2026-08-06",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

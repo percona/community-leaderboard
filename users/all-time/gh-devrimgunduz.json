@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-08-06T04:11:56+00:00",
+    "generated_at": "2026-08-07T04:13:02+00:00",
     "points_total": 220,
     "points_github": 220,
     "points_content": 0,
@@ -25,7 +25,7 @@
             "url": "https:\/\/github.com\/percona\/pg_stat_monitor\/issues\/773",
             "repo": "percona\/pg_stat_monitor",
             "date": "2026-07-09",
-            "state": "open"
+            "state": "closed"
         },
         {
             "title": "PostgreSQL 17 support",
