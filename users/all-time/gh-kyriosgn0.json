@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-08-07T04:13:02+00:00",
-    "points_total": 675,
-    "points_github": 675,
+    "generated_at": "2026-08-08T04:12:17+00:00",
+    "points_total": 700,
+    "points_github": 700,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 10,
-    "prs_created": 8,
+    "prs_created": 9,
     "prs_merged": 5,
     "blog_posts": 0,
     "topics_created": 0,
@@ -92,6 +92,14 @@
         }
     ],
     "github_prs": [
+        {
+            "title": "K8SPSMDB-1764: set authSource for healthcheck connections",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2514",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-08-07",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "[pmm]: add support for extra envFrom in pmm container",
             "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/860",

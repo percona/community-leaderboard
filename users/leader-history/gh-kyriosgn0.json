@@ -1,6 +1,6 @@
 {
     "user_key": "gh-kyriosgn0",
-    "generated_at": "2026-08-07T04:13:02+00:00",
+    "generated_at": "2026-08-08T04:12:17+00:00",
     "summit_periods": [
         {
             "period_key": "all-time",
@@ -25,6 +25,12 @@
             "period_label": "Q2 2026",
             "period_type": "quarter",
             "rank": 7
+        },
+        {
+            "period_key": "2026-08",
+            "period_label": "August 2026",
+            "period_type": "month",
+            "rank": 3
         },
         {
             "period_key": "2026-05",
