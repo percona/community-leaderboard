@@ -2,7 +2,7 @@
     "period": "2026-08",
     "period_type": "month",
     "period_label": "August 2026",
-    "generated_at": "2026-08-08T04:12:17+00:00",
+    "generated_at": "2026-08-09T04:11:57+00:00",
     "category": "github",
     "top30": [
         {
@@ -133,6 +133,27 @@
         },
         {
             "rank": 7,
+            "user_key": "gh-kolawoleadeoye433-ship-it",
+            "name": "kolawoleadeoye433-ship-it",
+            "display_name": "kolawoleadeoye433-ship-it",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/310358066?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=kolawoleadeoye433-ship-it",
+            "github_login": "kolawoleadeoye433-ship-it",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 8,
             "user_key": "gh-steveweb7",
             "name": "steveweb7",
             "display_name": "steveweb7",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "gh-nuran14",
             "name": "Nuran14",
             "display_name": "Nuran Er",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "gh-somanchi004-code",
             "name": "somanchi004-code",
             "display_name": "Somanchi poorna Sobhita",
@@ -195,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-gaborsomogyi",
             "name": "gaborsomogyi",
             "display_name": "Gábor Somogyi",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-shajia-deshaw",
             "name": "shajia-deshaw",
             "display_name": "Afeedh Shaji",
@@ -237,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-leandro-clint",
             "name": "leandro-clint",
             "display_name": "leandro-clint",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-rdreed21",
             "name": "rdreed21",
             "display_name": "Roger Rabbit",
@@ -279,13 +300,34 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-slackshadow",
             "name": "slackshadow",
             "display_name": "slackshadow",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/313993390?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=slackshadow",
             "github_login": "slackshadow",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
+            "user_key": "gh-mansur-abdirimov",
+            "name": "mansur-abdirimov",
+            "display_name": "Mansur",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38843768?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=mansur-abdirimov",
+            "github_login": "mansur-abdirimov",
             "forum_username": null,
             "points_total": 10,
             "points_github": 10,

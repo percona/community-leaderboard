@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-08T04:12:17+00:00",
+    "generated_at": "2026-08-09T04:11:57+00:00",
     "category": "github",
     "top30": [
         {
@@ -553,6 +553,27 @@
         },
         {
             "rank": 27,
+            "user_key": "gh-kolawoleadeoye433-ship-it",
+            "name": "kolawoleadeoye433-ship-it",
+            "display_name": "kolawoleadeoye433-ship-it",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/310358066?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=kolawoleadeoye433-ship-it",
+            "github_login": "kolawoleadeoye433-ship-it",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 28,
             "user_key": "gh-chaohuang2018",
             "name": "ChaoHuang2018",
             "display_name": "Chao Huang",
@@ -573,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-horihel",
             "name": "horihel",
             "display_name": "horihel",
@@ -594,7 +615,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-raghuvamsi-d",
             "name": "raghuvamsi-d",
             "display_name": "RAGHU VAMSI DORADLA",
@@ -607,27 +628,6 @@
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 2,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-rene-axcera",
-            "name": "rene-axcera",
-            "display_name": "René Mifsud",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/243327339?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=rene-axcera",
-            "github_login": "rene-axcera",
-            "forum_username": null,
-            "points_total": 10,
-            "points_github": 10,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 1,
             "prs_created": 0,
             "prs_merged": 0,
             "blog_posts": 0,
