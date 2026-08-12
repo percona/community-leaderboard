@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-martynd",
+    "display_name": "Martyn Dale",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/669891?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=martynd",
+    "github_login": "martynd",
+    "forum_username": null,
+    "period": "2026-08",
+    "period_label": "August 2026",
+    "generated_at": "2026-08-12T04:10:59+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "[Maintenance] CONTRIBUTING.md team lists inaccessible to outsiders",
+            "url": "https:\/\/github.com\/percona\/pmm\/issues\/5761",
+            "repo": "percona\/pmm",
+            "date": "2026-08-11",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
