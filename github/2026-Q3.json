@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-12T04:10:59+00:00",
+    "generated_at": "2026-08-13T04:11:20+00:00",
     "category": "github",
     "top30": [
         {
@@ -196,6 +196,27 @@
         },
         {
             "rank": 10,
+            "user_key": "gh-nerijus",
+            "name": "nerijus",
+            "display_name": "Nerijus Baliūnas",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/591932?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=nerijus",
+            "github_login": "nerijus",
+            "forum_username": null,
+            "points_total": 50,
+            "points_github": 50,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 11,
             "user_key": "gh-rkferreira",
             "name": "rkferreira",
             "display_name": "Rodrigo Kellermann",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-alexole",
             "name": "alexole",
             "display_name": "Alexander Olekhnovich",
@@ -237,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-giezi",
             "name": "giezi",
             "display_name": "giezi",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-hollmaro",
             "name": "hollmaro",
             "display_name": "Roman Lekh",
@@ -279,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-grimgobbo",
             "name": "grimgobbo",
             "display_name": "grimgobbo",
@@ -300,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-ghorbani-ali",
             "name": "ghorbani-ali",
             "display_name": "Ali Ghorbani",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-cvshumake-appf",
             "name": "cvshumake-AppF",
             "display_name": "cvshumake-AppF",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-mdkent",
             "name": "mdkent",
             "display_name": "Matthew Kent",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-rajaie7",
             "name": "rajaie7",
             "display_name": "Rajaie Alkorani",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-ravisingal",
             "name": "ravisingal",
             "display_name": "Ravi Singal",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-deviprasadambati",
             "name": "DeviprasadAmbati",
             "display_name": "DeviprasadAmbati",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-xingyingone",
             "name": "xingyingone",
             "display_name": "xy",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-sb-saikiritig",
             "name": "SB-Saikiritig",
             "display_name": "SB-Saikiritig",
@@ -468,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-iamludal",
             "name": "iamludal",
             "display_name": "Ludal",
@@ -489,7 +510,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-rupakveerla",
             "name": "RupakVeerla",
             "display_name": "RupakVeerla",
@@ -510,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-ylighgh",
             "name": "ylighgh",
             "display_name": "ylighgh",
@@ -531,7 +552,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-kyriosgn0",
             "name": "KyriosGN0",
             "display_name": "AvivGuiser",
@@ -552,34 +573,13 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-kolawoleadeoye433-ship-it",
             "name": "kolawoleadeoye433-ship-it",
             "display_name": "kolawoleadeoye433-ship-it",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/310358066?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=kolawoleadeoye433-ship-it",
             "github_login": "kolawoleadeoye433-ship-it",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 28,
-            "user_key": "gh-nerijus",
-            "name": "nerijus",
-            "display_name": "Nerijus Baliūnas",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/591932?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=nerijus",
-            "github_login": "nerijus",
             "forum_username": null,
             "points_total": 25,
             "points_github": 25,

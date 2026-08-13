@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-Q3",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-12T04:10:59+00:00",
-    "points_total": 25,
-    "points_github": 25,
+    "generated_at": "2026-08-13T04:11:20+00:00",
+    "points_total": 50,
+    "points_github": 50,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 1,
+    "prs_created": 2,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
@@ -21,6 +21,14 @@
     "solutions": 0,
     "github_issues": [],
     "github_prs": [
+        {
+            "title": "PT-2485: Fix socket auth in pt-online-schema-change",
+            "url": "https:\/\/github.com\/percona\/percona-toolkit\/pull\/1157",
+            "repo": "percona\/percona-toolkit",
+            "date": "2026-08-12",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "PMM-15322: Pass TLS certificate and skip-verify flags to valkey_exporter",
             "url": "https:\/\/github.com\/percona\/pmm\/pull\/5763",
