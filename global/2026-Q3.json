@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-13T04:11:20+00:00",
+    "generated_at": "2026-08-14T04:12:13+00:00",
     "category": "global",
     "top30": [
         {
@@ -161,6 +161,28 @@
         },
         {
             "rank": 8,
+            "user_key": "gh-giezi",
+            "name": "giezi",
+            "display_name": "giezi",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1326203?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=giezi",
+            "source": "GitHub",
+            "github_login": "giezi",
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 100,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 9,
             "user_key": "gh-mohag",
             "name": "mohag",
             "display_name": "Gert van den Berg",
@@ -182,7 +204,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "gh-adutra",
             "name": "adutra",
             "display_name": "Alexandre Dutra",
@@ -204,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-jstack-godaddy",
             "name": "jstack-godaddy",
             "display_name": "Joey Stack",
@@ -226,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-nerijus",
             "name": "nerijus",
             "display_name": "Nerijus Baliūnas",
@@ -248,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-rkferreira",
             "name": "rkferreira",
             "display_name": "Rodrigo Kellermann",
@@ -270,7 +292,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-deviprasadambati",
             "name": "DeviprasadAmbati",
             "display_name": "DeviprasadAmbati",
@@ -292,7 +314,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-kyriosgn0",
             "name": "KyriosGN0",
             "display_name": "AvivGuiser",
@@ -314,7 +336,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-rupakveerla",
             "name": "RupakVeerla",
             "display_name": "RupakVeerla",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-sb-saikiritig",
             "name": "SB-Saikiritig",
             "display_name": "SB-Saikiritig",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-alexole",
             "name": "alexole",
             "display_name": "Alexander Olekhnovich",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-cvshumake-appf",
             "name": "cvshumake-AppF",
             "display_name": "cvshumake-AppF",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-ghorbani-ali",
             "name": "ghorbani-ali",
             "display_name": "Ali Ghorbani",
@@ -410,28 +432,6 @@
             "profile_url": "\/web\/leaderboard\/profile?github=ghorbani-ali",
             "source": "GitHub",
             "github_login": "ghorbani-ali",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 20,
-            "user_key": "gh-giezi",
-            "name": "giezi",
-            "display_name": "giezi",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1326203?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=giezi",
-            "source": "GitHub",
-            "github_login": "giezi",
             "forum_username": null,
             "points_total": 25,
             "points_github": 25,

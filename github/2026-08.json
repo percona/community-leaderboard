@@ -2,7 +2,7 @@
     "period": "2026-08",
     "period_type": "month",
     "period_label": "August 2026",
-    "generated_at": "2026-08-13T04:11:20+00:00",
+    "generated_at": "2026-08-14T04:12:13+00:00",
     "category": "github",
     "top30": [
         {
@@ -49,6 +49,27 @@
         },
         {
             "rank": 3,
+            "user_key": "gh-giezi",
+            "name": "giezi",
+            "display_name": "giezi",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1326203?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=giezi",
+            "github_login": "giezi",
+            "forum_username": null,
+            "points_total": 75,
+            "points_github": 75,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "gh-jstack-godaddy",
             "name": "jstack-godaddy",
             "display_name": "Joey Stack",
@@ -69,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "gh-nerijus",
             "name": "nerijus",
             "display_name": "Nerijus Baliūnas",
@@ -90,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "gh-rupakveerla",
             "name": "RupakVeerla",
             "display_name": "RupakVeerla",
@@ -111,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "gh-ylighgh",
             "name": "ylighgh",
             "display_name": "ylighgh",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-yoav-katz",
             "name": "yoav-katz",
             "display_name": "yoav-katz",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "gh-kyriosgn0",
             "name": "KyriosGN0",
             "display_name": "AvivGuiser",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "gh-kolawoleadeoye433-ship-it",
             "name": "kolawoleadeoye433-ship-it",
             "display_name": "kolawoleadeoye433-ship-it",
@@ -195,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-steveweb7",
             "name": "steveweb7",
             "display_name": "steveweb7",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-nuran14",
             "name": "Nuran14",
             "display_name": "Nuran Er",
@@ -237,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-somanchi004-code",
             "name": "somanchi004-code",
             "display_name": "Somanchi poorna Sobhita",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-gaborsomogyi",
             "name": "gaborsomogyi",
             "display_name": "Gábor Somogyi",
@@ -279,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-shajia-deshaw",
             "name": "shajia-deshaw",
             "display_name": "Afeedh Shaji",
@@ -300,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-leandro-clint",
             "name": "leandro-clint",
             "display_name": "leandro-clint",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-rdreed21",
             "name": "rdreed21",
             "display_name": "Roger Rabbit",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-slackshadow",
             "name": "slackshadow",
             "display_name": "slackshadow",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-mansur-abdirimov",
             "name": "mansur-abdirimov",
             "display_name": "Mansur",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-leeworker",
             "name": "leeworker",
             "display_name": "人微言轻的小李",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-martynd",
             "name": "martynd",
             "display_name": "Martyn Dale",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-applejag",
             "name": "applejag",
             "display_name": "kalle (jag)",
