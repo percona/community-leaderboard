@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-Q3",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-17T04:10:41+00:00",
-    "points_total": 145,
-    "points_github": 145,
+    "generated_at": "2026-08-18T04:11:19+00:00",
+    "points_total": 170,
+    "points_github": 170,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 2,
-    "prs_created": 2,
+    "prs_created": 3,
     "prs_merged": 1,
     "blog_posts": 0,
     "topics_created": 0,
@@ -36,6 +36,14 @@
         }
     ],
     "github_prs": [
+        {
+            "title": "K8SPG-1086: Add logVolumeClaimSpec to store logs on a separate PVC",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1760",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-08-17",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "K8SPG-1057 refactor dcs",
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1727",

@@ -1,19 +1,7 @@
 {
     "user_key": "gh-adutra",
-    "generated_at": "2026-08-17T04:10:41+00:00",
+    "generated_at": "2026-08-18T04:11:19+00:00",
     "summit_periods": [
-        {
-            "period_key": "2026",
-            "period_label": "2026",
-            "period_type": "year",
-            "rank": 10
-        },
-        {
-            "period_key": "2026-Q3",
-            "period_label": "Q3 2026",
-            "period_type": "quarter",
-            "rank": 10
-        },
         {
             "period_key": "2026-Q1",
             "period_label": "Q1 2026",
