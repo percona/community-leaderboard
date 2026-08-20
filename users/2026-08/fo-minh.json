@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-minh",
+    "display_name": "minh",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/53a042\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=minh",
+    "github_login": null,
+    "forum_username": "minh",
+    "period": "2026-08",
+    "period_label": "August 2026",
+    "generated_at": "2026-08-20T04:11:53+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Is Jemalloc still recommended to replace glibc?",
+            "url": "https:\/\/forums.percona.com\/t\/is-jemalloc-still-recommended-to-replace-glibc",
+            "date": "2026-08-20"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
