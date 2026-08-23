@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-08-22T04:12:21+00:00",
+    "generated_at": "2026-08-23T04:12:12+00:00",
     "category": "github",
     "top30": [
         {
@@ -35,11 +35,11 @@
             "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
             "github_login": "yoav-katz",
             "forum_username": null,
-            "points_total": 170,
-            "points_github": 170,
+            "points_total": 180,
+            "points_github": 180,
             "points_content": 0,
             "points_forum": 0,
-            "issues_created": 2,
+            "issues_created": 3,
             "prs_created": 3,
             "prs_merged": 1,
             "blog_posts": 0,
