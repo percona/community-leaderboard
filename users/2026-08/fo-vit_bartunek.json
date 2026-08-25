@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-vit_bartunek",
+    "display_name": "Vít Bartůněk",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/vit_bartunek\/120\/23499_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Vit_Bartunek",
+    "github_login": null,
+    "forum_username": "Vit_Bartunek",
+    "period": "2026-08",
+    "period_label": "August 2026",
+    "generated_at": "2026-08-25T04:11:58+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Alleged memory leak in MySQL master on a huge database",
+            "url": "https:\/\/forums.percona.com\/t\/alleged-memory-leak-in-mysql-master-on-a-huge-database\/10",
+            "date": "2026-08-24"
+        }
+    ],
+    "forum_solutions": []
+}

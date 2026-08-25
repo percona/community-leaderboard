@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-08-24T04:11:50+00:00",
+    "generated_at": "2026-08-25T04:11:58+00:00",
     "points_total": 100,
     "points_github": 0,
     "points_content": 100,
@@ -23,7 +23,7 @@
     "github_prs": [],
     "blog_list": [
         {
-            "title": "The curios case of timezone inconsistencies between PgBouncer and Patroni Cluster",
+            "title": "The curious case of timezone inconsistencies between PgBouncer and Patroni Cluster",
             "url": "https:\/\/percona.community\/blog\/2026\/08\/20\/timezone-inconsistencies-pgbouncer-patroni\/",
             "date": "20.08.2026"
         }

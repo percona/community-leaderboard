@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-08-24T04:11:50+00:00",
-    "points_total": 235,
-    "points_github": 235,
+    "generated_at": "2026-08-25T04:11:58+00:00",
+    "points_total": 260,
+    "points_github": 260,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 1,
-    "prs_created": 3,
+    "prs_created": 4,
     "prs_merged": 2,
     "blog_posts": 0,
     "topics_created": 0,
@@ -29,6 +29,14 @@
         }
     ],
     "github_prs": [
+        {
+            "title": "Improve backups\/jobs reliability and observability",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1776",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-08-24",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "K8SPG-777 Fix the crash in ShouldCheckStandbyLag",
             "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1652",
