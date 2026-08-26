@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-08-25T04:11:58+00:00",
+    "generated_at": "2026-08-26T04:11:41+00:00",
     "category": "github",
     "top30": [
         {
@@ -427,6 +427,27 @@
         },
         {
             "rank": 21,
+            "user_key": "gh-yoav-katz",
+            "name": "yoav-katz",
+            "display_name": "yoav-katz",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
+            "github_login": "yoav-katz",
+            "forum_username": null,
+            "points_total": 255,
+            "points_github": 255,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 3,
+            "prs_created": 6,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 22,
             "user_key": "gh-btriller",
             "name": "btriller",
             "display_name": "Bastian Triller",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-jeffreydwalter",
             "name": "jeffreydwalter",
             "display_name": "Jeffrey Walter",
@@ -468,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -483,27 +504,6 @@
             "issues_created": 3,
             "prs_created": 2,
             "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 24,
-            "user_key": "gh-yoav-katz",
-            "name": "yoav-katz",
-            "display_name": "yoav-katz",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
-            "github_login": "yoav-katz",
-            "forum_username": null,
-            "points_total": 230,
-            "points_github": 230,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 3,
-            "prs_created": 5,
-            "prs_merged": 1,
             "blog_posts": 0,
             "topics_created": 0,
             "replies": 0,
