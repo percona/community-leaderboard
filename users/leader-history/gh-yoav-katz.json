@@ -1,6 +1,6 @@
 {
     "user_key": "gh-yoav-katz",
-    "generated_at": "2026-08-26T04:11:41+00:00",
+    "generated_at": "2026-08-27T04:12:04+00:00",
     "summit_periods": [
         {
             "period_key": "2026",
@@ -18,7 +18,7 @@
             "period_key": "2026-08",
             "period_label": "August 2026",
             "period_type": "month",
-            "rank": 3
+            "rank": 4
         },
         {
             "period_key": "2026-07",
