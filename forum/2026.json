@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-08-27T04:12:04+00:00",
+    "generated_at": "2026-08-28T04:11:38+00:00",
     "category": "forum",
     "top30": [
         {
@@ -154,6 +154,48 @@
         },
         {
             "rank": 8,
+            "user_key": "fo-daniel_osuntoyinbo",
+            "name": "Daniel_Osuntoyinbo",
+            "display_name": "Daniel Osuntoyinbo",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/daniel_osuntoyinbo\/120\/22879_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Daniel_Osuntoyinbo",
+            "github_login": null,
+            "forum_username": "Daniel_Osuntoyinbo",
+            "points_total": 20,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 20,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 4,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 9,
+            "user_key": "fo-fabriciopedrosojorge",
+            "name": "FabricioPedrosoJorge",
+            "display_name": "FabricioPedrosoJorge",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/bbe5ce\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=FabricioPedrosoJorge",
+            "github_login": null,
+            "forum_username": "FabricioPedrosoJorge",
+            "points_total": 20,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 20,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 4,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 10,
             "user_key": "fo-naresh9999",
             "name": "Naresh9999",
             "display_name": "Naresh9999",
@@ -174,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 11,
             "user_key": "fo-ly_kimmeng",
             "name": "Ly_Kimmeng",
             "display_name": "Ly Kimmeng",
@@ -195,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 12,
             "user_key": "fo-lalit_choudhary",
             "name": "Lalit_Choudhary",
             "display_name": "Lalit Choudhary",
@@ -216,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 13,
             "user_key": "fo-spronin",
             "name": "spronin",
             "display_name": "Sergey Pronin",
@@ -237,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 14,
             "user_key": "fo-aycelen",
             "name": "aycelen",
             "display_name": "Ayçelen Özdemir",
@@ -258,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 15,
             "user_key": "fo-sqlcaesar",
             "name": "SQLCaesar",
             "display_name": "SQLCaesar",
@@ -279,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 16,
             "user_key": "fo-horihel",
             "name": "horihel",
             "display_name": "horihel",
@@ -300,28 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
-            "user_key": "fo-daniel_osuntoyinbo",
-            "name": "Daniel_Osuntoyinbo",
-            "display_name": "Daniel Osuntoyinbo",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/daniel_osuntoyinbo\/120\/22879_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=Daniel_Osuntoyinbo",
-            "github_login": null,
-            "forum_username": "Daniel_Osuntoyinbo",
-            "points_total": 15,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 15,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 3,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 16,
+            "rank": 17,
             "user_key": "fo-reddy_nishanth",
             "name": "reddy_nishanth",
             "display_name": "reddy nishanth",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "fo-simeon_petkov",
             "name": "Simeon_Petkov",
             "display_name": "Simeon Petkov",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "fo-shirisha",
             "name": "shirisha",
             "display_name": "shirisha",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "fo-ddkozyreva",
             "name": "ddkozyreva",
             "display_name": "Дарья Козырева",
@@ -392,27 +413,6 @@
             "profile_url": "\/web\/leaderboard\/profile?forum=ddkozyreva",
             "github_login": null,
             "forum_username": "ddkozyreva",
-            "points_total": 15,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 15,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 3,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 20,
-            "user_key": "fo-fabriciopedrosojorge",
-            "name": "FabricioPedrosoJorge",
-            "display_name": "FabricioPedrosoJorge",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/bbe5ce\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=FabricioPedrosoJorge",
-            "github_login": null,
-            "forum_username": "FabricioPedrosoJorge",
             "points_total": 15,
             "points_github": 0,
             "points_content": 0,
