@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-madmuffin1",
+    "display_name": "Patrick Brückner",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1918026?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=madmuffin1",
+    "github_login": "madmuffin1",
+    "forum_username": null,
+    "period": "2026-08",
+    "period_label": "August 2026",
+    "generated_at": "2026-08-29T04:12:05+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Update go version to 1.26.7",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1349",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2026-08-28",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
