@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-geoheil",
+    "display_name": "geoHeil",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1694964?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=geoHeil",
+    "github_login": "geoHeil",
+    "forum_username": null,
+    "period": "2026-Q3",
+    "period_label": "Q3 2026",
+    "generated_at": "2026-08-30T04:11:41+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "The JWT `aud` claim is not validated, so a token minted for another service is accepted",
+            "url": "https:\/\/github.com\/percona\/pg_oidc_validator\/issues\/49",
+            "repo": "percona\/pg_oidc_validator",
+            "date": "2026-08-29",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Validate the JWT audience claim",
+            "url": "https:\/\/github.com\/percona\/pg_oidc_validator\/pull\/50",
+            "repo": "percona\/pg_oidc_validator",
+            "date": "2026-08-29",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
