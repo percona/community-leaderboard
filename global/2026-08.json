@@ -2,7 +2,7 @@
     "period": "2026-08",
     "period_type": "month",
     "period_label": "August 2026",
-    "generated_at": "2026-08-30T04:11:41+00:00",
+    "generated_at": "2026-08-31T04:11:39+00:00",
     "category": "global",
     "top30": [
         {
@@ -535,6 +535,28 @@
         },
         {
             "rank": 25,
+            "user_key": "gh-ilogicsoft",
+            "name": "ILOGICSOFT",
+            "display_name": "ILOGICSOFT",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44451699?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=ILOGICSOFT",
+            "source": "GitHub",
+            "github_login": "ILOGICSOFT",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 26,
             "user_key": "gh-nuran14",
             "name": "Nuran14",
             "display_name": "Nuran Er",
@@ -556,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-romansaveljev",
             "name": "RomanSaveljev",
             "display_name": "Roman Savelyev",
@@ -578,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-szuster6",
             "name": "Szuster6",
             "display_name": "Szuster6",
@@ -600,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-applejag",
             "name": "applejag",
             "display_name": "kalle (jag)",
@@ -622,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-belfhi",
             "name": "belfhi",
             "display_name": "Johannes Reppin",
@@ -640,28 +662,6 @@
             "prs_merged": 0,
             "blog_posts": 0,
             "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "fo-degokul",
-            "name": "degokul",
-            "display_name": "Gokul",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a88e57\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=degokul",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "degokul",
-            "points_total": 10,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 10,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 2,
             "replies": 0,
             "solutions": 0
         }
