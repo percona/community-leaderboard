@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-mohamed",
+    "display_name": "mohamed",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/d78d45\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=mohamed",
+    "github_login": null,
+    "forum_username": "mohamed",
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona error when create new postgres db",
+            "url": "https:\/\/forums.percona.com\/t\/percona-error-when-create-new-postgres-db",
+            "date": "2025-07-15"
+        },
+        {
+            "title": "Postgis restore issue in percona",
+            "url": "https:\/\/forums.percona.com\/t\/postgis-restore-issue-in-percona",
+            "date": "2025-07-16"
+        },
+        {
+            "title": "Add new images registrt",
+            "url": "https:\/\/forums.percona.com\/t\/add-new-images-registrt",
+            "date": "2025-07-16"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-yauheni_freeman",
+    "display_name": "Yauheni Putsykovich",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/yauheni_freeman\/120\/20344_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Yauheni_Freeman",
+    "github_login": null,
+    "forum_username": "Yauheni_Freeman",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM Query Analisys: Error when try to get query examples",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-query-analisys-error-when-try-to-get-query-examples",
+            "date": "2025-03-02"
+        },
+        {
+            "title": "MySQL PMM Metric-based Tuning Recommendation",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-pmm-metric-based-tuning-recommendation",
+            "date": "2025-03-02"
+        },
+        {
+            "title": "PMM MySQL Metric-based Tuning Recommendation",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-mysql-metric-based-tuning-recommendation",
+            "date": "2025-03-03"
+        },
+        {
+            "title": "MySQL memory keep growing after restart",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-memory-keep-growing-after-restart",
+            "date": "2025-03-14"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

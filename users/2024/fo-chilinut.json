@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-chilinut",
+    "display_name": "chiliNUT",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/chilinut\/120\/17682_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=chiliNUT",
+    "github_login": null,
+    "forum_username": "chiliNUT",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 52,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 52,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 1,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Pt-online-schema-change not working as expected",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-change-not-working-as-expected\/14",
+            "date": "2024-08-15"
+        }
+    ],
+    "forum_solutions": [
+        {
+            "topic_title": "Pt-online-schema-change not working as expected",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-change-not-working-as-expected\/14",
+            "date": "2024-08-15"
+        }
+    ]
+}

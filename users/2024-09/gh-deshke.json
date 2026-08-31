@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-deshke",
+    "display_name": "Alexander Weber",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1473225?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Deshke",
+    "github_login": "Deshke",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "v0.41.0 http panic on scrape",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/913",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-09-18",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-sbou",
+    "display_name": "sbou",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/c68b51\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=sbou",
+    "github_login": null,
+    "forum_username": "sbou",
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Install Percona Everest in kubernetes with helm Chart",
+            "url": "https:\/\/forums.percona.com\/t\/install-percona-everest-in-kubernetes-with-helm-chart",
+            "date": "2024-09-10"
+        },
+        {
+            "title": "Specify nodeAffinity in everest percona deployment",
+            "url": "https:\/\/forums.percona.com\/t\/specify-nodeaffinity-in-everest-percona-deployment",
+            "date": "2024-09-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-sam_lin",
+    "display_name": "Sam Lin",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sam_lin\/120\/20714_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Sam_Lin",
+    "github_login": null,
+    "forum_username": "Sam_Lin",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Cluster can't create properly",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-cant-create-properly",
+            "date": "2025-04-10"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Dynamically create Postgres DB",
+            "url": "https:\/\/forums.percona.com\/t\/dynamically-create-postgres-db\/7",
+            "date": "2025-04-10"
+        },
+        {
+            "topic_title": "Physical restore never finish",
+            "url": "https:\/\/forums.percona.com\/t\/physical-restore-never-finish\/4",
+            "date": "2025-04-13"
+        }
+    ],
+    "forum_solutions": []
+}

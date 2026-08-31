@@ -1,0 +1,83 @@
+{
+    "user_key": "gh-naughtygitcat",
+    "display_name": "ngcat",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20264659?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=naughtyGitCat",
+    "github_login": "naughtyGitCat",
+    "forum_username": null,
+    "period": "2025-08",
+    "period_label": "August 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 130,
+    "points_github": 130,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 3,
+    "prs_created": 4,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "currentOp scrape raise error when mongo ver <= 4.0.6",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1131",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-05",
+            "state": "closed"
+        },
+        {
+            "title": "mongodb_connPoolStats_replicaSets_{replName}_{childM}_{childMX} collect failed",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1125",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-04",
+            "state": "open"
+        },
+        {
+            "title": "disable chunk info scrape when shard cluster have lots of collections",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1121",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-04",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix currentOP scrape error when mongodb version under 4.0.6",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1132",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-05",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Fix metrics  mongodb_connPoolStats_replicaSets_{replName})_key1_key12 collect failed",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1130",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-04",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Fix duplicate getDiagnosticData error in shard cluster with shard\/configsvr replset have more than 1 repl instance situation",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1126",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-04",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Disable coll chunk info scrape when CollStatsLimit happens",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1122",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-04",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-pcman312",
+    "display_name": "Michael Golowka",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/72365?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=pcman312",
+    "github_login": "pcman312",
+    "forum_username": null,
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 110,
+    "points_github": 110,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PITRestoreDateTime panics when marshalling to JSON",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1356",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-11-17",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPG-907 Fix panic on JSON marshal if PITRestoreDateTime is not a pointer",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1368",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-11-21",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

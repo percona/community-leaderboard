@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-majiayu000",
+    "display_name": "lif",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19658300?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=majiayu000",
+    "github_login": "majiayu000",
+    "forum_username": null,
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "fix: Enable `gocognit` linter rule",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/4879",
+            "repo": "percona\/pmm",
+            "date": "2025-12-30",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

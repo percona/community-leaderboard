@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-albertopinardi",
+    "display_name": "Alberto Pinardi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39056455?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=albertopinardi",
+    "github_login": "albertopinardi",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PS-DB: Add missing startupProbe paragraph on chart",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/378",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2024-09-20",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Add missing stratupProbe on chart",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/379",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2024-09-20",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

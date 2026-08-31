@@ -1,0 +1,69 @@
+{
+    "user_key": "fo-kay_khan",
+    "display_name": "Kay Khan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/kay_khan\/120\/17023_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Kay_Khan",
+    "github_login": null,
+    "forum_username": "Kay_Khan",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 8,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Help setting up a Production sharded MongoDB Cluster with 3 replicas per shard",
+            "url": "https:\/\/forums.percona.com\/t\/help-setting-up-a-production-sharded-mongodb-cluster-with-3-replicas-per-shard",
+            "date": "2025-02-24"
+        },
+        {
+            "title": "Authentication and liveness\/readiness issues on new installation",
+            "url": "https:\/\/forums.percona.com\/t\/authentication-and-liveness-readiness-issues-on-new-installation",
+            "date": "2025-04-29"
+        },
+        {
+            "title": "Need to run sh.stopBalancer() during mongosync process",
+            "url": "https:\/\/forums.percona.com\/t\/need-to-run-sh-stopbalancer-during-mongosync-process",
+            "date": "2025-05-01"
+        },
+        {
+            "title": "Exposing Sharded Cluster on AWS EKS NLB Target Type",
+            "url": "https:\/\/forums.percona.com\/t\/exposing-sharded-cluster-on-aws-eks-nlb-target-type",
+            "date": "2025-05-02"
+        },
+        {
+            "title": "Frequent NoSuchTransaction Errors When Running mongosync with the Percona Kubernetes Operator for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/frequent-nosuchtransaction-errors-when-running-mongosync-with-the-percona-kubernetes-operator-for-mongodb",
+            "date": "2025-05-13"
+        },
+        {
+            "title": "MongoDB Sharded Cluster Stuck Initializing Due to Denylisted Sync Source",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-sharded-cluster-stuck-initializing-due-to-denylisted-sync-source",
+            "date": "2025-06-02"
+        },
+        {
+            "title": "How do we handle vertically scaling mongodb deployment",
+            "url": "https:\/\/forums.percona.com\/t\/how-do-we-handle-vertically-scaling-mongodb-deployment",
+            "date": "2025-06-03"
+        },
+        {
+            "title": "Grafana MongoDB Dashboards Showing Incorrect Data",
+            "url": "https:\/\/forums.percona.com\/t\/grafana-mongodb-dashboards-showing-incorrect-data",
+            "date": "2025-06-11"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,64 @@
+{
+    "user_key": "fo-anjaneyarajus",
+    "display_name": "anjaneyarajus",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/anjaneyarajus\/120\/15125_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=anjaneyarajus",
+    "github_login": null,
+    "forum_username": "anjaneyarajus",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 35,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 35,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Replication failed for drop user if exists",
+            "url": "https:\/\/forums.percona.com\/t\/replication-failed-for-drop-user-if-exists",
+            "date": "2024-02-12"
+        },
+        {
+            "title": "Qpress is not installed during PXC installation",
+            "url": "https:\/\/forums.percona.com\/t\/qpress-is-not-installed-during-pxc-installation",
+            "date": "2024-07-04"
+        },
+        {
+            "title": "Replication from percona 8.0.34 to Mariadb 10.232 & Mariadb 10.6",
+            "url": "https:\/\/forums.percona.com\/t\/replication-from-percona-8-0-34-to-mariadb-10-232-mariadb-10-6",
+            "date": "2024-07-26"
+        },
+        {
+            "title": "Xtrabackup: File '\/var\/log\/mysql\/bin.00001' not found (OS errno 2 - No such file or directory) with remote xtrabackup",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-file-var-log-mysql-bin-00001-not-found-os-errno-2-no-such-file-or-directory-with-remote-xtrabackup",
+            "date": "2024-08-28"
+        },
+        {
+            "title": "Using Compressed row_format in Percona xtradb cluster",
+            "url": "https:\/\/forums.percona.com\/t\/using-compressed-row-format-in-percona-xtradb-cluster",
+            "date": "2024-10-10"
+        },
+        {
+            "title": "Performance of PXC 8.0.34 in RHEL",
+            "url": "https:\/\/forums.percona.com\/t\/performance-of-pxc-8-0-34-in-rhel",
+            "date": "2024-10-18"
+        },
+        {
+            "title": "Difference between data space utilisation between the nodes of the PXC cluster",
+            "url": "https:\/\/forums.percona.com\/t\/difference-between-data-space-utilisation-between-the-nodes-of-the-pxc-cluster",
+            "date": "2024-11-12"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

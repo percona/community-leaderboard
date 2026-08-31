@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-chadr",
+    "display_name": "동렬 차",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/chadr\/120\/3923_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=chadr",
+    "github_login": null,
+    "forum_username": "chadr",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to update the packages that are part of PMM Client's base docker image?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-update-the-packages-that-are-part-of-pmm-clients-base-docker-image",
+            "date": "2024-10-08"
+        },
+        {
+            "title": "Health check logs are not deleted",
+            "url": "https:\/\/forums.percona.com\/t\/health-check-logs-are-not-deleted",
+            "date": "2024-10-21"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

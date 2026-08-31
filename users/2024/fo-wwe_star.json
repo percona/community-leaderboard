@@ -1,0 +1,65 @@
+{
+    "user_key": "fo-wwe_star",
+    "display_name": "Rao N",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/wwe_star\/120\/15673_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Wwe_Star",
+    "github_login": null,
+    "forum_username": "Wwe_Star",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 32,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 32,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 6,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "About the issues on running Percona Xtrabackup",
+            "url": "https:\/\/forums.percona.com\/t\/about-the-issues-on-running-percona-xtrabackup",
+            "date": "2024-03-18"
+        },
+        {
+            "title": "Percona backup for MongoDB 4.4",
+            "url": "https:\/\/forums.percona.com\/t\/percona-backup-for-mongodb-4-4",
+            "date": "2024-03-28"
+        },
+        {
+            "title": "Mongodb querying documents",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-querying-documents",
+            "date": "2024-04-01"
+        },
+        {
+            "title": "Percona Xtrabackup for MySQL",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtrabackup-for-mysql",
+            "date": "2024-04-02"
+        },
+        {
+            "title": "Incremental backup using xtrabackup",
+            "url": "https:\/\/forums.percona.com\/t\/incremental-backup-using-xtrabackup",
+            "date": "2024-04-17"
+        },
+        {
+            "title": "Percona backup for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/percona-backup-for-mongodb",
+            "date": "2024-04-25"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Mysql backup of remote server in my local machine using percona xtrabackup",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-backup-of-remote-server-in-my-local-machine-using-percona-xtrabackup\/19",
+            "date": "2024-04-03"
+        }
+    ],
+    "forum_solutions": []
+}

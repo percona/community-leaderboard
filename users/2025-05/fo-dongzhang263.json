@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-dongzhang263",
+    "display_name": "东 张",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dongzhang263\/120\/21077_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dongzhang263",
+    "github_login": null,
+    "forum_username": "dongzhang263",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona xtradb cluster 1.13 readiness probe failure in kubernetes with kubeadm",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-1-13-readiness-probe-failure-in-kubernetes-with-kubeadm",
+            "date": "2025-05-22"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Percona Cluster helm 1.10.0 start error",
+            "url": "https:\/\/forums.percona.com\/t\/percona-cluster-helm-1-10-0-start-error\/6",
+            "date": "2025-05-22"
+        }
+    ],
+    "forum_solutions": []
+}

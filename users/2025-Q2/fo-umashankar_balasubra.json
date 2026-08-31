@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-umashankar_balasubra",
+    "display_name": "Umashankar Balasubramaniam",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/umashankar_balasubra\/120\/20897_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Umashankar_Balasubra",
+    "github_login": null,
+    "forum_username": "Umashankar_Balasubra",
+    "period": "2025-Q2",
+    "period_label": "Q2 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "High Availability - etcd",
+            "url": "https:\/\/forums.percona.com\/t\/high-availability-etcd",
+            "date": "2025-05-02"
+        },
+        {
+            "title": "Synchronous replication - PostgreSQL 17",
+            "url": "https:\/\/forums.percona.com\/t\/synchronous-replication-postgresql-17",
+            "date": "2025-05-14"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

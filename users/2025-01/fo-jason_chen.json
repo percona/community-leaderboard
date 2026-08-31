@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-jason_chen",
+    "display_name": "jason_chen",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jason_chen\/120\/19686_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jason_chen",
+    "github_login": null,
+    "forum_username": "jason_chen",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona MYSQL 8.0.36 audit log compression and encryption",
+            "url": "https:\/\/forums.percona.com\/t\/percona-mysql-8-0-36-audit-log-compression-and-encryption",
+            "date": "2025-01-06"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Audit log file encryption",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-file-encryption\/3",
+            "date": "2025-01-15"
+        },
+        {
+            "topic_title": "How can compress Percona MySQL8 audit logs",
+            "url": "https:\/\/forums.percona.com\/t\/how-can-compress-percona-mysql8-audit-logs\/3",
+            "date": "2025-01-15"
+        }
+    ],
+    "forum_solutions": []
+}

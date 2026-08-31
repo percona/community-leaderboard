@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-ildarmurtaev",
+    "display_name": "Ильдар Муртаев",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/ildarmurtaev\/120\/20750_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ildarmurtaev",
+    "github_login": null,
+    "forum_username": "ildarmurtaev",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pmm static send authorize\/?client_id=some_id",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-static-send-authorize-client-id-some-id",
+            "date": "2025-05-05"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Unable to expose mongodb replicaset to nodeport Kubernetes",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-expose-mongodb-replicaset-to-nodeport-kubernetes\/3",
+            "date": "2025-05-20"
+        }
+    ],
+    "forum_solutions": []
+}

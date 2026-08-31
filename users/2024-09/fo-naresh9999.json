@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PostgreSQL Query is trimming in the QAN dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-query-is-trimming-in-the-qan-dashboard",
+            "date": "2024-09-03"
+        },
+        {
+            "title": "PostgreSQL High CPU utilization Issue while doing load test",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-high-cpu-utilization-issue-while-doing-load-test",
+            "date": "2024-09-05"
+        },
+        {
+            "title": "Is PMM supports AlloyDB",
+            "url": "https:\/\/forums.percona.com\/t\/is-pmm-supports-alloydb",
+            "date": "2024-09-26"
+        },
+        {
+            "title": "How configure the pgbouncer wth hba auth method",
+            "url": "https:\/\/forums.percona.com\/t\/how-configure-the-pgbouncer-wth-hba-auth-method",
+            "date": "2024-09-30"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

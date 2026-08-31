@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-stateros",
+    "display_name": "Stateros",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/stateros\/120\/2490_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Stateros",
+    "github_login": null,
+    "forum_username": "Stateros",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PSMDB Restore fails on zstd compression",
+            "url": "https:\/\/forums.percona.com\/t\/psmdb-restore-fails-on-zstd-compression",
+            "date": "2025-04-10"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PMM2 client not registering",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-client-not-registering\/7",
+            "date": "2025-04-04"
+        },
+        {
+            "topic_title": "Ssue Connecting to MongoDB via External Addresses (splitHorizons)",
+            "url": "https:\/\/forums.percona.com\/t\/ssue-connecting-to-mongodb-via-external-addresses-splithorizons\/2",
+            "date": "2025-04-24"
+        }
+    ],
+    "forum_solutions": []
+}

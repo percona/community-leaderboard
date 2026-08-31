@@ -1,0 +1,65 @@
+{
+    "user_key": "fo-sumitkumar",
+    "display_name": "Sumit Kumar",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/b77776\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=SumitKumar",
+    "github_login": null,
+    "forum_username": "SumitKumar",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 26,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 26,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Error Pt-archival",
+            "url": "https:\/\/forums.percona.com\/t\/error-pt-archival",
+            "date": "2024-05-28"
+        },
+        {
+            "title": "Errors in command-line arguments:",
+            "url": "https:\/\/forums.percona.com\/t\/errors-in-command-line-arguments",
+            "date": "2024-09-01"
+        },
+        {
+            "title": "Exhausted retries while deleting; rolling back 0 rows",
+            "url": "https:\/\/forums.percona.com\/t\/exhausted-retries-while-deleting-rolling-back-0-rows",
+            "date": "2024-09-03"
+        },
+        {
+            "title": "Log file not generating",
+            "url": "https:\/\/forums.percona.com\/t\/log-file-not-generating",
+            "date": "2024-10-04"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PT- Archiver Error",
+            "url": "https:\/\/forums.percona.com\/t\/pt-archiver-error\/5",
+            "date": "2024-06-04"
+        },
+        {
+            "topic_title": "PT- Archiver Error",
+            "url": "https:\/\/forums.percona.com\/t\/pt-archiver-error\/7",
+            "date": "2024-06-05"
+        },
+        {
+            "topic_title": "PT- Archiver Error",
+            "url": "https:\/\/forums.percona.com\/t\/pt-archiver-error\/8",
+            "date": "2024-06-06"
+        }
+    ],
+    "forum_solutions": []
+}

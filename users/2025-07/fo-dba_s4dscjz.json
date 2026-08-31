@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-dba_s4dscjz",
+    "display_name": "dba_S4dscjz",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/65b543\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dba_S4dscjz",
+    "github_login": null,
+    "forum_username": "dba_S4dscjz",
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM upgrade from 2.44.1 to 3.2.0 - Migrations: Dirty database version 18",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-upgrade-from-2-44-1-to-3-2-0-migrations-dirty-database-version-18",
+            "date": "2025-07-07"
+        },
+        {
+            "title": "Audit_log_filter with version 8.0",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-with-version-8-0",
+            "date": "2025-07-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

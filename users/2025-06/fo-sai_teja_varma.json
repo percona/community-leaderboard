@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-sai_teja_varma",
+    "display_name": "Sai Teja Varma Kantam",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sai_teja_varma\/120\/8941_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Sai_Teja_Varma",
+    "github_login": null,
+    "forum_username": "Sai_Teja_Varma",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Need something similar to integrated alerting from PMM V2 into PMM V3",
+            "url": "https:\/\/forums.percona.com\/t\/need-something-similar-to-integrated-alerting-from-pmm-v2-into-pmm-v3",
+            "date": "2025-06-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

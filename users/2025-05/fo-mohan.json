@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-mohan",
+    "display_name": "Mohan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/mohan\/120\/19798_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Mohan",
+    "github_login": null,
+    "forum_username": "Mohan",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pg_stat_monitor (2.1.0) having issues in Percona Postgres server 16.8",
+            "url": "https:\/\/forums.percona.com\/t\/pg-stat-monitor-2-1-0-having-issues-in-percona-postgres-server-16-8",
+            "date": "2025-05-02"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

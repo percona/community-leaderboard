@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-rainhard",
+    "display_name": "rainhard",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/9111320?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=rainhard",
+    "github_login": "rainhard",
+    "forum_username": null,
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 200,
+    "points_github": 200,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "bugfix: use raw fd to lseek",
+            "url": "https:\/\/github.com\/Percona-Lab\/pg_tde\/pull\/204",
+            "repo": "Percona-Lab\/pg_tde",
+            "date": "2024-06-06",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "bugfix: use raw fd to lseek",
+            "url": "https:\/\/github.com\/percona\/pg_tde\/pull\/204",
+            "repo": "percona\/pg_tde",
+            "date": "2024-06-06",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

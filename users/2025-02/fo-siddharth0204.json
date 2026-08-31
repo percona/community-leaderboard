@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-siddharth0204",
+    "display_name": "Siddharth",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/71e660\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=siddharth0204",
+    "github_login": null,
+    "forum_username": "siddharth0204",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Ready only user to operate PMM for Postgresql",
+            "url": "https:\/\/forums.percona.com\/t\/ready-only-user-to-operate-pmm-for-postgresql",
+            "date": "2025-02-04"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Minimum grant that PMM requires for monitoring postgres with pg_stat_monitor",
+            "url": "https:\/\/forums.percona.com\/t\/minimum-grant-that-pmm-requires-for-monitoring-postgres-with-pg-stat-monitor\/4",
+            "date": "2025-02-03"
+        }
+    ],
+    "forum_solutions": []
+}

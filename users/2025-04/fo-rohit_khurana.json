@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-rohit_khurana",
+    "display_name": "ROHIT KHURANA",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/rohit_khurana\/120\/2760_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ROHIT_KHURANA",
+    "github_login": null,
+    "forum_username": "ROHIT_KHURANA",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Mariadb keeps crashing due to OOM",
+            "url": "https:\/\/forums.percona.com\/t\/mariadb-keeps-crashing-due-to-oom\/6",
+            "date": "2025-04-03"
+        },
+        {
+            "topic_title": "Mariadb keeps crashing due to OOM",
+            "url": "https:\/\/forums.percona.com\/t\/mariadb-keeps-crashing-due-to-oom\/8",
+            "date": "2025-04-04"
+        },
+        {
+            "topic_title": "Mariadb keeps crashing due to OOM",
+            "url": "https:\/\/forums.percona.com\/t\/mariadb-keeps-crashing-due-to-oom\/10",
+            "date": "2025-04-09"
+        },
+        {
+            "topic_title": "Mariadb keeps crashing due to OOM",
+            "url": "https:\/\/forums.percona.com\/t\/mariadb-keeps-crashing-due-to-oom\/12",
+            "date": "2025-04-14"
+        }
+    ],
+    "forum_solutions": []
+}

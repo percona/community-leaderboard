@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-colin_griffin",
+    "display_name": "Colin Griffin",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/colin_griffin\/120\/17467_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Colin_Griffin",
+    "github_login": null,
+    "forum_username": "Colin_Griffin",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Documentation for managing databases via k8s resource",
+            "url": "https:\/\/forums.percona.com\/t\/documentation-for-managing-databases-via-k8s-resource",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Everest Postgres Repo1-Host wrong",
+            "url": "https:\/\/forums.percona.com\/t\/everest-postgres-repo1-host-wrong\/2",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_solutions": []
+}

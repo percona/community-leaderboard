@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-andiv1976",
+    "display_name": "ANDiv1976 ",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/andiv1976\/120\/20170_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ANDiv1976",
+    "github_login": null,
+    "forum_username": "ANDiv1976",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Why was the query not captured in PMM?",
+            "url": "https:\/\/forums.percona.com\/t\/why-was-the-query-not-captured-in-pmm",
+            "date": "2025-12-19"
+        },
+        {
+            "title": "Why does pg_stat_monitor trigger a PostgreSQL restart?",
+            "url": "https:\/\/forums.percona.com\/t\/why-does-pg-stat-monitor-trigger-a-postgresql-restart",
+            "date": "2025-12-26"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

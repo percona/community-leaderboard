@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-gergogalamb",
+    "display_name": "Galamb Gergő",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/gergogalamb\/120\/22780_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=GergoGalamb",
+    "github_login": null,
+    "forum_username": "GergoGalamb",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 5,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Audit_log_filter component and MySQL 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-component-and-mysql-8-4\/12",
+            "date": "2025-05-06"
+        },
+        {
+            "topic_title": "Audit_log_filter component and MySQL 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-component-and-mysql-8-4\/14",
+            "date": "2025-05-06"
+        },
+        {
+            "topic_title": "Audit_log_filter component and MySQL 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-component-and-mysql-8-4\/16",
+            "date": "2025-05-07"
+        },
+        {
+            "topic_title": "Audit_log_filter component and MySQL 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-component-and-mysql-8-4\/18",
+            "date": "2025-05-07"
+        },
+        {
+            "topic_title": "Audit_log_filter component and MySQL 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-component-and-mysql-8-4\/20",
+            "date": "2025-05-07"
+        }
+    ],
+    "forum_solutions": []
+}

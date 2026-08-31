@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-albdv",
+    "display_name": "Anatoly Lebedev",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8123372?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=albdv",
+    "github_login": "albdv",
+    "forum_username": null,
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "[Maintenance] Configuration warning: unknown environment variable \"PMM_ADMIN_PASSWORD=[REDACTED]\"",
+            "url": "https:\/\/github.com\/percona\/pmm\/issues\/3439",
+            "repo": "percona\/pmm",
+            "date": "2025-01-08",
+            "state": "open"
+        },
+        {
+            "title": "PMM environment variables warning",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/464",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-01-08",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

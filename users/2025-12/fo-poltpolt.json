@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-poltpolt",
+    "display_name": "poltpolt",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/ee7513\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=poltpolt",
+    "github_login": null,
+    "forum_username": "poltpolt",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "MariaDB 11.8.5 error Argument \"\" isn't numeric in numeric comparison (<=>) at \/usr\/bin\/pt-deadlock-logger line 5200",
+            "url": "https:\/\/forums.percona.com\/t\/mariadb-11-8-5-error-argument-isnt-numeric-in-numeric-comparison-at-usr-bin-pt-deadlock-logger-line-5200",
+            "date": "2025-12-10"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

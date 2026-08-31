@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-bobleponge",
+    "display_name": "Rey",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/f475e1\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Bobleponge",
+    "github_login": null,
+    "forum_username": "Bobleponge",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "If you're seeing this Grafana has failed to load its application files",
+            "url": "https:\/\/forums.percona.com\/t\/if-youre-seeing-this-grafana-has-failed-to-load-its-application-files",
+            "date": "2025-12-10"
+        },
+        {
+            "title": "Pmm 3 and sqlserver",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-3-and-sqlserver",
+            "date": "2025-12-11"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

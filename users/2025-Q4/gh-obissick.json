@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-obissick",
+    "display_name": "Oren Bissick",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16389074?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=obissick",
+    "github_login": "obissick",
+    "forum_username": null,
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 75,
+    "points_github": 75,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Modify feature compatibility command for 8.0",
+            "url": "https:\/\/github.com\/percona\/psmdb-docs\/pull\/1063",
+            "repo": "percona\/psmdb-docs",
+            "date": "2025-09-30",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

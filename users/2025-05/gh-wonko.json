@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-wonko",
+    "display_name": "Bernard Grymonpon",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3459?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=wonko",
+    "github_login": "wonko",
+    "forum_username": null,
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Haproxy keeps sending queries to non-ready nodes on shutdown",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2074",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-05-09",
+            "state": "open"
+        },
+        {
+            "title": "Backups no longer work after upgrading to 1.17.0",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2066",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-05-04",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

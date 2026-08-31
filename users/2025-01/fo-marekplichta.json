@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-marekplichta",
+    "display_name": "Marek Plichta",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/f6c823\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=MarekPlichta",
+    "github_login": null,
+    "forum_username": "MarekPlichta",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Problem with setting up S3 storage (Artesca)",
+            "url": "https:\/\/forums.percona.com\/t\/problem-with-setting-up-s3-storage-artesca",
+            "date": "2025-01-22"
+        },
+        {
+            "title": "Problem when trying to configure S3 storage for backups",
+            "url": "https:\/\/forums.percona.com\/t\/problem-when-trying-to-configure-s3-storage-for-backups",
+            "date": "2025-01-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

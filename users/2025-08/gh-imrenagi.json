@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-imrenagi",
+    "display_name": "Imre Nagi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5112284?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=imrenagi",
+    "github_login": "imrenagi",
+    "forum_username": null,
+    "period": "2025-08",
+    "period_label": "August 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 50,
+    "points_github": 50,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Add documentation for Alicloud OSS storage configuration",
+            "url": "https:\/\/github.com\/percona\/pbm-docs\/pull\/295",
+            "repo": "percona\/pbm-docs",
+            "date": "2025-08-23",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "PBM-1588 Alicloud OSS Storage Implementation",
+            "url": "https:\/\/github.com\/percona\/percona-backup-mongodb\/pull\/1178",
+            "repo": "percona\/percona-backup-mongodb",
+            "date": "2025-08-18",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

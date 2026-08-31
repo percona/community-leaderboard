@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-p7kdev",
+    "display_name": "p7kdev",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65048824?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=p7kdev",
+    "github_login": "p7kdev",
+    "forum_username": null,
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "[pg-db] Helm Chart is missing grantPublicSchemaAccess option",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/626",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-09-07",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "[pg-db] Add grantPublicSchemaAccess",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/628",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-09-09",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-tomsozolins",
+    "display_name": "Toms Ozolins",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/48243828?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=tomsozolins",
+    "github_login": "tomsozolins",
+    "forum_username": null,
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Re-creating user secret leads to broken mongodb cluster",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1997",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-07-09",
+            "state": "closed"
+        },
+        {
+            "title": "Physical backup restore stuck on version 1.20.1",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1995",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-07-08",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

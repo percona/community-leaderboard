@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-r3cznik",
+    "display_name": "r3cznik",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/r3cznik\/120\/22275_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=r3cznik",
+    "github_login": null,
+    "forum_username": "r3cznik",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Any way to install Percona on Debian 13 Trixie?",
+            "url": "https:\/\/forums.percona.com\/t\/any-way-to-install-percona-on-debian-13-trixie\/7",
+            "date": "2025-10-03"
+        },
+        {
+            "topic_title": "Any way to install Percona on Debian 13 Trixie?",
+            "url": "https:\/\/forums.percona.com\/t\/any-way-to-install-percona-on-debian-13-trixie\/8",
+            "date": "2025-10-06"
+        },
+        {
+            "topic_title": "Any way to install Percona on Debian 13 Trixie?",
+            "url": "https:\/\/forums.percona.com\/t\/any-way-to-install-percona-on-debian-13-trixie\/11",
+            "date": "2025-10-20"
+        },
+        {
+            "topic_title": "Any way to install Percona on Debian 13 Trixie?",
+            "url": "https:\/\/forums.percona.com\/t\/any-way-to-install-percona-on-debian-13-trixie\/13",
+            "date": "2025-12-04"
+        }
+    ],
+    "forum_solutions": []
+}

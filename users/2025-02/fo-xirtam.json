@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-xirtam",
+    "display_name": "xirtam",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/x\/82dd89\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=xirtam",
+    "github_login": null,
+    "forum_username": "xirtam",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PXC load balancing preference and raid question",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-load-balancing-preference-and-raid-question",
+            "date": "2025-02-01"
+        },
+        {
+            "title": "Galera Arbitrator on the same server of a node?",
+            "url": "https:\/\/forums.percona.com\/t\/galera-arbitrator-on-the-same-server-of-a-node",
+            "date": "2025-02-06"
+        },
+        {
+            "title": "PXC Encryption CPU usage",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-encryption-cpu-usage",
+            "date": "2025-02-19"
+        },
+        {
+            "title": "Some questions about PXC bootstrap",
+            "url": "https:\/\/forums.percona.com\/t\/some-questions-about-pxc-bootstrap",
+            "date": "2025-02-23"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

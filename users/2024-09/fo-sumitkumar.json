@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-sumitkumar",
+    "display_name": "Sumit Kumar",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/b77776\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=SumitKumar",
+    "github_login": null,
+    "forum_username": "SumitKumar",
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Errors in command-line arguments:",
+            "url": "https:\/\/forums.percona.com\/t\/errors-in-command-line-arguments",
+            "date": "2024-09-01"
+        },
+        {
+            "title": "Exhausted retries while deleting; rolling back 0 rows",
+            "url": "https:\/\/forums.percona.com\/t\/exhausted-retries-while-deleting-rolling-back-0-rows",
+            "date": "2024-09-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

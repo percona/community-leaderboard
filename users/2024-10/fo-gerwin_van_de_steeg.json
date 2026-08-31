@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-gerwin_van_de_steeg",
+    "display_name": "Gerwin van de Steeg",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/gerwin_van_de_steeg\/120\/3715_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Gerwin_van_de_Steeg",
+    "github_login": null,
+    "forum_username": "Gerwin_van_de_Steeg",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Debug images don't seem to exist",
+            "url": "https:\/\/forums.percona.com\/t\/debug-images-dont-seem-to-exist",
+            "date": "2024-10-04"
+        },
+        {
+            "title": "Automated backups randomly failing, repeating, until they finally succeed",
+            "url": "https:\/\/forums.percona.com\/t\/automated-backups-randomly-failing-repeating-until-they-finally-succeed",
+            "date": "2024-10-21"
+        },
+        {
+            "title": "PXC Operator failed to update service with new annotations on the haproxy created service",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-operator-failed-to-update-service-with-new-annotations-on-the-haproxy-created-service",
+            "date": "2024-10-24"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

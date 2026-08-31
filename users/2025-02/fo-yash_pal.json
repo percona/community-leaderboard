@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-yash_pal",
+    "display_name": "Yash Pal",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/y\/a87d85\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Yash_Pal",
+    "github_login": null,
+    "forum_username": "Yash_Pal",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project",
+            "date": "2025-02-03"
+        },
+        {
+            "title": "Enhancement in documentation confirmation for Percona distribution for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/enhancement-in-documentation-confirmation-for-percona-distribution-for-mongodb",
+            "date": "2025-02-05"
+        },
+        {
+            "title": "GSOC 2025 PBM SDK and Backup Throttling Projects",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-pbm-sdk-and-backup-throttling-projects",
+            "date": "2025-02-07"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

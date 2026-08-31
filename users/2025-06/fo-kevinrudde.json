@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-kevinrudde",
+    "display_name": "kevinrudde",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/kevinrudde\/120\/21183_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=kevinrudde",
+    "github_login": null,
+    "forum_username": "kevinrudde",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Increased amount of deadlocks with Percona XtraDB Cluster with the PXC Operator & ProxySQL",
+            "url": "https:\/\/forums.percona.com\/t\/increased-amount-of-deadlocks-with-percona-xtradb-cluster-with-the-pxc-operator-proxysql",
+            "date": "2025-06-16"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

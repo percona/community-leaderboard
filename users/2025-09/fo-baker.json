@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-baker",
+    "display_name": "baker ",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/baker\/120\/20853_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=baker",
+    "github_login": null,
+    "forum_username": "baker",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pt-archiver When archiving data, when encountering table data containing line breaks, an abnormal export occurs",
+            "url": "https:\/\/forums.percona.com\/t\/pt-archiver-when-archiving-data-when-encountering-table-data-containing-line-breaks-an-abnormal-export-occurs",
+            "date": "2025-09-05"
+        },
+        {
+            "title": "When pt-archiver archives MySQL json fields, garbled characters appear",
+            "url": "https:\/\/forums.percona.com\/t\/when-pt-archiver-archives-mysql-json-fields-garbled-characters-appear",
+            "date": "2025-09-09"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-lalit_choudhary",
+    "display_name": "Lalit Choudhary",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/lalit_choudhary\/120\/22892_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Lalit_Choudhary",
+    "github_login": null,
+    "forum_username": "Lalit_Choudhary",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to change k8-pxc operator Proxysql server weight?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-change-k8-pxc-operator-proxysql-server-weight",
+            "date": "2025-12-30"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PXC on Kubernetes - ProxySQL load balancing",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-on-kubernetes-proxysql-load-balancing\/7",
+            "date": "2025-12-31"
+        }
+    ],
+    "forum_solutions": []
+}

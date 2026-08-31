@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-deimantas_le",
+    "display_name": "Deimantas Le",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/deimantas_le\/120\/20620_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Deimantas_Le",
+    "github_login": null,
+    "forum_username": "Deimantas_Le",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Error: get metadata: get: context deadline exceeded",
+            "url": "https:\/\/forums.percona.com\/t\/error-get-metadata-get-context-deadline-exceeded",
+            "date": "2025-05-13"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

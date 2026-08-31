@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-jonathon2nd",
+    "display_name": "Jonathon Beauregard II",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/52681917?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jonathon2nd",
+    "github_login": "jonathon2nd",
+    "forum_username": null,
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Not able to restore onto new cluster",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1827",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-02-12",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-92fnko",
+    "display_name": "92fnko",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/9\/a698b9\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=92fnko",
+    "github_login": null,
+    "forum_username": "92fnko",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Issues with configuring backup against S3 storage",
+            "url": "https:\/\/forums.percona.com\/t\/issues-with-configuring-backup-against-s3-storage",
+            "date": "2024-11-12"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Cluster-wide installation tips",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-wide-installation-tips\/12",
+            "date": "2024-11-01"
+        },
+        {
+            "topic_title": "Cluster-wide installation tips",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-wide-installation-tips\/14",
+            "date": "2024-11-01"
+        }
+    ],
+    "forum_solutions": []
+}

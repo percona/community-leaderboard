@@ -1,0 +1,60 @@
+{
+    "user_key": "fo-stateros",
+    "display_name": "Stateros",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/stateros\/120\/2490_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Stateros",
+    "github_login": null,
+    "forum_username": "Stateros",
+    "period": "2025-Q2",
+    "period_label": "Q2 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 21,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 21,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PSMDB Restore fails on zstd compression",
+            "url": "https:\/\/forums.percona.com\/t\/psmdb-restore-fails-on-zstd-compression",
+            "date": "2025-04-10"
+        },
+        {
+            "title": "Performance of AWS Graviton instances for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/performance-of-aws-graviton-instances-for-mongodb",
+            "date": "2025-05-22"
+        },
+        {
+            "title": "\"deleting outdated backup job\" spam in the operator log on operator 1.20.0",
+            "url": "https:\/\/forums.percona.com\/t\/deleting-outdated-backup-job-spam-in-the-operator-log-on-operator-1-20-0",
+            "date": "2025-05-22"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PMM2 client not registering",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-client-not-registering\/7",
+            "date": "2025-04-04"
+        },
+        {
+            "topic_title": "Ssue Connecting to MongoDB via External Addresses (splitHorizons)",
+            "url": "https:\/\/forums.percona.com\/t\/ssue-connecting-to-mongodb-via-external-addresses-splithorizons\/2",
+            "date": "2025-04-24"
+        },
+        {
+            "topic_title": "Percona Backup for MongoDB + MongoDB Community 7.0?",
+            "url": "https:\/\/forums.percona.com\/t\/percona-backup-for-mongodb-mongodb-community-7-0\/6",
+            "date": "2025-06-04"
+        }
+    ],
+    "forum_solutions": []
+}

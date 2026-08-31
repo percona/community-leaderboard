@@ -1,0 +1,30 @@
+{
+    "period": "2025-06",
+    "period_type": "month",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "category": "content",
+    "top30": [
+        {
+            "rank": 1,
+            "user_key": "bl-iuliia--julie--slobodian",
+            "name": "Iuliia (Julie) Slobodian",
+            "display_name": "Iuliia (Julie) Slobodian",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Iuliia+%28Julie%29+Slobodian",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        }
+    ]
+}

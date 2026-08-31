@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-asgvitor",
+    "display_name": "VitorAlves",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22199789?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=asgvitor",
+    "github_login": "asgvitor",
+    "forum_username": null,
+    "period": "2025-10",
+    "period_label": "October 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Problems compiling on Rocky Linux 9.6",
+            "url": "https:\/\/github.com\/Percona-Lab\/pg_oidc_validator\/issues\/9",
+            "repo": "Percona-Lab\/pg_oidc_validator",
+            "date": "2025-10-20",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

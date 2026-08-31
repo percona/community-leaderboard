@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-newbenji",
+    "display_name": "Benjamin Andersen",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4226432?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=newbenji",
+    "github_login": "newbenji",
+    "forum_username": null,
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 110,
+    "points_github": 110,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Wrong version of postgresql operator when installed through everest - olm",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/519",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-04-08",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "An ingress for everest server",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/521",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-04-09",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

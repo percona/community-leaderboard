@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-patrickdung",
+    "display_name": "Patrick Dung",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38665827?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=patrickdung",
+    "github_login": "patrickdung",
+    "forum_username": null,
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Not running pmm-agent as root for RPM based installation",
+            "url": "https:\/\/github.com\/percona\/pmm\/issues\/3997",
+            "repo": "percona\/pmm",
+            "date": "2025-05-11",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

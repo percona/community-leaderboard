@@ -1,0 +1,57 @@
+{
+    "user_key": "gh-thijmen",
+    "display_name": "Thijmen Stavenuiter",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/383903?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Thijmen",
+    "github_login": "Thijmen",
+    "forum_username": null,
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 40,
+    "points_github": 40,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 4,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Old xtradb-cluster tag",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/624",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-08-30",
+            "state": "closed"
+        },
+        {
+            "title": "Different lower_case_table_names settings for server ('0') and data dictionary ('1').",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2173",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-08-22",
+            "state": "open"
+        },
+        {
+            "title": "PMM client on pxc-db chart complaining about version 2",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/611",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-08-14",
+            "state": "closed"
+        },
+        {
+            "title": "ETA on PMM3?",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2157",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-08-08",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

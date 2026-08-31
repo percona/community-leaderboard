@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-kakao-jenna-me",
+    "display_name": "kakao-jenna-me",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/192662344?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=kakao-jenna-me",
+    "github_login": "kakao-jenna-me",
+    "forum_username": null,
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 50,
+    "points_github": 50,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PS-10383 [8.4]: ensure  performs phrase search in BOOLEAN MODE with Mecab plugin",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/5788",
+            "repo": "percona\/percona-server",
+            "date": "2025-12-15",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "refactor: custom Mecab plugin for using korean dataset",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/5781",
+            "repo": "percona\/percona-server",
+            "date": "2025-12-09",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

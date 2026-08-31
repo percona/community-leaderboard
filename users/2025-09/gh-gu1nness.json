@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-gu1nness",
+    "display_name": "Neha Oudin",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17551419?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Gu1nness",
+    "github_login": "Gu1nness",
+    "forum_username": null,
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "feat: Prevent SEGFAULT in Cast operations",
+            "url": "https:\/\/github.com\/percona\/percona-backup-mongodb\/pull\/1197",
+            "repo": "percona\/percona-backup-mongodb",
+            "date": "2025-09-18",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

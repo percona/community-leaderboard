@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-liz-rea",
+    "display_name": "Liz",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/ecd19e\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=liz.rea",
+    "github_login": null,
+    "forum_username": "liz.rea",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Xtrabackup failing with [MY-012209] [InnoDB] Multiple files found for the same tablespace ID",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-failing-with-my-012209-innodb-multiple-files-found-for-the-same-tablespace-id",
+            "date": "2024-12-05"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

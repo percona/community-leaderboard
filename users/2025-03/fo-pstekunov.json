@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-pstekunov",
+    "display_name": "Петр Стекунов",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pstekunov\/120\/20328_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pstekunov",
+    "github_login": null,
+    "forum_username": "pstekunov",
+    "period": "2025-03",
+    "period_label": "March 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Is there any way to temporary disable liveness probe on pg operator managed pods?",
+            "url": "https:\/\/forums.percona.com\/t\/is-there-any-way-to-temporary-disable-liveness-probe-on-pg-operator-managed-pods",
+            "date": "2025-03-03"
+        },
+        {
+            "title": "How to enable nonssl connections to primary \/ pgbouncer on PG Operator 2.5?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-enable-nonssl-connections-to-primary-pgbouncer-on-pg-operator-2-5",
+            "date": "2025-03-08"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

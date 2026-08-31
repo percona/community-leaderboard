@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-dylan_moran",
+    "display_name": "dylan moran",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/e19b73\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dylan_moran",
+    "github_login": null,
+    "forum_username": "dylan_moran",
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "SSLHandshakeFailed: SSL peer certificate validation failed: self-signed certificate in certificate chain",
+            "url": "https:\/\/forums.percona.com\/t\/sslhandshakefailed-ssl-peer-certificate-validation-failed-self-signed-certificate-in-certificate-chain",
+            "date": "2025-07-04"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-curiousguy",
+    "display_name": "CuriousGuy",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/b5a626\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=CuriousGuy",
+    "github_login": null,
+    "forum_username": "CuriousGuy",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona Server For Mongodb 6 on almalinux 9 reinstall solved",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-for-mongodb-6-on-almalinux-9-reinstall-solved",
+            "date": "2024-11-14"
+        },
+        {
+            "title": "Mongosh missing?",
+            "url": "https:\/\/forums.percona.com\/t\/mongosh-missing",
+            "date": "2024-11-15"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

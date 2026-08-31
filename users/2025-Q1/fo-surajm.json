@@ -1,0 +1,50 @@
+{
+    "user_key": "fo-surajm",
+    "display_name": "Suraj Muthreja",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/ce7236\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=surajm",
+    "github_login": null,
+    "forum_username": "surajm",
+    "period": "2025-Q1",
+    "period_label": "Q1 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 11,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 11,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Installation of PSMDB resource failed with TLS error",
+            "url": "https:\/\/forums.percona.com\/t\/installation-of-psmdb-resource-failed-with-tls-error",
+            "date": "2025-03-20"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PerconaServerMongoDB CR design considerations around `expose` and `externalNodes`",
+            "url": "https:\/\/forums.percona.com\/t\/perconaservermongodb-cr-design-considerations-around-expose-and-externalnodes\/5",
+            "date": "2025-03-19"
+        },
+        {
+            "topic_title": "PerconaServerMongoDB CR design considerations around `expose` and `externalNodes`",
+            "url": "https:\/\/forums.percona.com\/t\/perconaservermongodb-cr-design-considerations-around-expose-and-externalnodes\/7",
+            "date": "2025-03-20"
+        },
+        {
+            "topic_title": "Connection to an exposed replicaset is not working",
+            "url": "https:\/\/forums.percona.com\/t\/connection-to-an-exposed-replicaset-is-not-working\/16",
+            "date": "2025-03-25"
+        }
+    ],
+    "forum_solutions": []
+}

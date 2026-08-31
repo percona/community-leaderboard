@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-kjordan2001",
+    "display_name": "kjordan2001",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/2452702?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=kjordan2001",
+    "github_login": "kjordan2001",
+    "forum_username": null,
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Kubernetes Cluster is Unavailable",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/903",
+            "repo": "percona\/everest",
+            "date": "2024-12-05",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

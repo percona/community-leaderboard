@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-pim",
+    "display_name": "Pim ",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pim\/120\/22456_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Pim",
+    "github_login": null,
+    "forum_username": "Pim",
+    "period": "2025-10",
+    "period_label": "October 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona Operator for MongoDB endlessly spawning connections until OOMKilled",
+            "url": "https:\/\/forums.percona.com\/t\/percona-operator-for-mongodb-endlessly-spawning-connections-until-oomkilled",
+            "date": "2025-10-28"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Percona MongoDB operator is causing high number of connections to the database",
+            "url": "https:\/\/forums.percona.com\/t\/percona-mongodb-operator-is-causing-high-number-of-connections-to-the-database\/3",
+            "date": "2025-10-28"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-rahul_ambekar",
+    "display_name": "rahul ambekar",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/rahul_ambekar\/120\/18551_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=rahul_ambekar",
+    "github_login": null,
+    "forum_username": "rahul_ambekar",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona xtradb cluster primary node failure",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-primary-node-failure",
+            "date": "2025-01-10"
+        },
+        {
+            "title": "Percona Xtradb Cluster Master node down",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-master-node-down",
+            "date": "2025-01-21"
+        },
+        {
+            "title": "High Memory Usage on One Percona XtraDB Cluster Node (Node A) Post Restart",
+            "url": "https:\/\/forums.percona.com\/t\/high-memory-usage-on-one-percona-xtradb-cluster-node-node-a-post-restart",
+            "date": "2025-04-24"
+        },
+        {
+            "title": "[URGENT] Percona XtraDB Cluster Node Crash",
+            "url": "https:\/\/forums.percona.com\/t\/urgent-percona-xtradb-cluster-node-crash",
+            "date": "2025-05-19"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

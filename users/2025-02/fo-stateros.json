@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-stateros",
+    "display_name": "Stateros",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/stateros\/120\/2490_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Stateros",
+    "github_login": null,
+    "forum_username": "Stateros",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 12,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 12,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "AWS S3 integration",
+            "url": "https:\/\/forums.percona.com\/t\/aws-s3-integration",
+            "date": "2025-02-13"
+        },
+        {
+            "title": "Vulnerability in PMM Open Virtual Appliance (OVA) installations",
+            "url": "https:\/\/forums.percona.com\/t\/vulnerability-in-pmm-open-virtual-appliance-ova-installations",
+            "date": "2025-02-19"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Video tutorial: MongoDB on Amazon EKS using Percona Everest",
+            "url": "https:\/\/forums.percona.com\/t\/video-tutorial-mongodb-on-amazon-eks-using-percona-everest\/4",
+            "date": "2025-02-05"
+        }
+    ],
+    "forum_solutions": []
+}

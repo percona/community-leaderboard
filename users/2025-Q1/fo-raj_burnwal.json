@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-raj_burnwal",
+    "display_name": "Raj Burnwal",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/raj_burnwal\/120\/17183_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Raj_Burnwal",
+    "github_login": null,
+    "forum_username": "Raj_Burnwal",
+    "period": "2025-Q1",
+    "period_label": "Q1 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Facing issue with mongodb cluster in error state due to reconciler errors in operator pod",
+            "url": "https:\/\/forums.percona.com\/t\/facing-issue-with-mongodb-cluster-in-error-state-due-to-reconciler-errors-in-operator-pod",
+            "date": "2025-01-31"
+        },
+        {
+            "title": "Not able to enable QAN for Percona MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/not-able-to-enable-qan-for-percona-mongodb",
+            "date": "2025-02-03"
+        },
+        {
+            "title": "Percona cluster not ready i.e error state after upgrade to mongodb 8",
+            "url": "https:\/\/forums.percona.com\/t\/percona-cluster-not-ready-i-e-error-state-after-upgrade-to-mongodb-8",
+            "date": "2025-03-04"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

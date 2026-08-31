@@ -1,0 +1,46 @@
+{
+    "user_key": "fo-dba_s4dscjz",
+    "display_name": "dba_S4dscjz",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/65b543\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dba_S4dscjz",
+    "github_login": null,
+    "forum_username": "dba_S4dscjz",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 57,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 57,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 1,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Write audit_log_filter definitons",
+            "url": "https:\/\/forums.percona.com\/t\/write-audit-log-filter-definitons",
+            "date": "2025-04-23"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Defining rules for audit log filter component (v8.0 \/ 8.4)",
+            "url": "https:\/\/forums.percona.com\/t\/defining-rules-for-audit-log-filter-component-v8-0-8-4\/2",
+            "date": "2025-04-23"
+        }
+    ],
+    "forum_solutions": [
+        {
+            "topic_title": "Defining rules for audit log filter component (v8.0 \/ 8.4)",
+            "url": "https:\/\/forums.percona.com\/t\/defining-rules-for-audit-log-filter-component-v8-0-8-4\/2",
+            "date": "2025-04-23"
+        }
+    ]
+}

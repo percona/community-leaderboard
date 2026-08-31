@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-pappy-off",
+    "display_name": "Pappy Off",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/7c8e57\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pappy.off",
+    "github_login": null,
+    "forum_username": "pappy.off",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/7",
+            "date": "2024-12-12"
+        },
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/9",
+            "date": "2024-12-12"
+        },
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/11",
+            "date": "2024-12-17"
+        },
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/14",
+            "date": "2024-12-18"
+        }
+    ],
+    "forum_solutions": []
+}

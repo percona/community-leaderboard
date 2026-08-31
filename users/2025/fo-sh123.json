@@ -1,0 +1,60 @@
+{
+    "user_key": "fo-sh123",
+    "display_name": "sh123",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/a9a28c\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=sh123",
+    "github_login": null,
+    "forum_username": "sh123",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 27,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 27,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to create pmm-client in docker container to monitor MySQL database (in seperate a container)",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-create-pmm-client-in-docker-container-to-monitor-mysql-database-in-seperate-a-container",
+            "date": "2025-05-02"
+        },
+        {
+            "title": "How to set node name",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-set-node-name",
+            "date": "2025-05-13"
+        },
+        {
+            "title": "Failing to create pmm-server on docker",
+            "url": "https:\/\/forums.percona.com\/t\/failing-to-create-pmm-server-on-docker",
+            "date": "2025-05-15"
+        },
+        {
+            "title": "Failing to initialise pmm-server version 2",
+            "url": "https:\/\/forums.percona.com\/t\/failing-to-initialise-pmm-server-version-2",
+            "date": "2025-05-16"
+        },
+        {
+            "title": "Pmm-client permission issue",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-client-permission-issue",
+            "date": "2025-05-16"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user\/12",
+            "date": "2025-05-16"
+        }
+    ],
+    "forum_solutions": []
+}

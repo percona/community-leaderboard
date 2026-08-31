@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-alex1989hu",
+    "display_name": "Alex SZAKALY",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/10764100?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=alex1989hu",
+    "github_login": "alex1989hu",
+    "forum_username": null,
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Defined secrets should be treated as existing secrets",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1960",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-05",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "feat: spec.secrets must be existing secrets",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/1961",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-05",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-scott_hooper",
+    "display_name": "Scott Hooper",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/scott_hooper\/120\/18461_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Scott_Hooper",
+    "github_login": null,
+    "forum_username": "Scott_Hooper",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona XtraDB Cluster 8.0.36 [Galera] Failed to apply write set: taking wsrep_ready to OFF",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-8-0-36-galera-failed-to-apply-write-set-taking-wsrep-ready-to-off",
+            "date": "2024-10-14"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Percona XtraDB Cluster 8.0.37 - MDL Conflict Testing Status",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-8-0-37-mdl-conflict-testing-status\/2",
+            "date": "2024-10-10"
+        }
+    ],
+    "forum_solutions": []
+}

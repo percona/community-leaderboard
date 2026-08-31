@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-fragment2",
+    "display_name": "Fragment2",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/b5ac83\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Fragment2",
+    "github_login": null,
+    "forum_username": "Fragment2",
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Public schema options helm chart",
+            "url": "https:\/\/forums.percona.com\/t\/public-schema-options-helm-chart",
+            "date": "2024-09-03"
+        },
+        {
+            "title": "Backups to repo1 not working",
+            "url": "https:\/\/forums.percona.com\/t\/backups-to-repo1-not-working",
+            "date": "2024-09-08"
+        },
+        {
+            "title": "Backup & restore individual databases",
+            "url": "https:\/\/forums.percona.com\/t\/backup-restore-individual-databases",
+            "date": "2024-09-08"
+        },
+        {
+            "title": "Configuring retention times in cr.yaml",
+            "url": "https:\/\/forums.percona.com\/t\/configuring-retention-times-in-cr-yaml",
+            "date": "2024-09-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

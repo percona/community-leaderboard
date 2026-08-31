@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-anjaneyarajus",
+    "display_name": "anjaneyarajus",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/anjaneyarajus\/120\/15125_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=anjaneyarajus",
+    "github_login": null,
+    "forum_username": "anjaneyarajus",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Using Compressed row_format in Percona xtradb cluster",
+            "url": "https:\/\/forums.percona.com\/t\/using-compressed-row-format-in-percona-xtradb-cluster",
+            "date": "2024-10-10"
+        },
+        {
+            "title": "Performance of PXC 8.0.34 in RHEL",
+            "url": "https:\/\/forums.percona.com\/t\/performance-of-pxc-8-0-34-in-rhel",
+            "date": "2024-10-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,85 @@
+{
+    "user_key": "fo-meyerder",
+    "display_name": "meyerder",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/meyerder\/120\/16994_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=meyerder",
+    "github_login": null,
+    "forum_username": "meyerder",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 6,
+    "replies": 5,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Configure Proxy",
+            "url": "https:\/\/forums.percona.com\/t\/configure-proxy",
+            "date": "2025-01-31"
+        },
+        {
+            "title": "How to adjust the Alert history (where is the data?)",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-adjust-the-alert-history-where-is-the-data",
+            "date": "2025-02-14"
+        },
+        {
+            "title": "Upgrade Failed from 2.x to 3",
+            "url": "https:\/\/forums.percona.com\/t\/upgrade-failed-from-2-x-to-3",
+            "date": "2025-03-24"
+        },
+        {
+            "title": "Pmm2 Client\/Pmm3",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-client-pmm3",
+            "date": "2025-06-25"
+        },
+        {
+            "title": "8.4 Audit items Install\/Upgrade",
+            "url": "https:\/\/forums.percona.com\/t\/8-4-audit-items-install-upgrade",
+            "date": "2025-07-16"
+        },
+        {
+            "title": "Request - Or Config setting?",
+            "url": "https:\/\/forums.percona.com\/t\/request-or-config-setting",
+            "date": "2025-10-16"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Cluster freezes if one node's disk is full",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-freezes-if-one-nodes-disk-is-full\/4",
+            "date": "2025-07-16"
+        },
+        {
+            "topic_title": "How to properly setup HAProxy with Percona XtraDB Cluster?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-properly-setup-haproxy-with-percona-xtradb-cluster\/3",
+            "date": "2025-01-21"
+        },
+        {
+            "topic_title": "How to properly setup HAProxy with Percona XtraDB Cluster?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-properly-setup-haproxy-with-percona-xtradb-cluster\/5",
+            "date": "2025-01-24"
+        },
+        {
+            "topic_title": "Why a disk full on a node kill cluster?",
+            "url": "https:\/\/forums.percona.com\/t\/why-a-disk-full-on-a-node-kill-cluster\/4",
+            "date": "2025-07-16"
+        },
+        {
+            "topic_title": "Nodes got aborted one by one when creating\/droping index",
+            "url": "https:\/\/forums.percona.com\/t\/nodes-got-aborted-one-by-one-when-creating-droping-index\/3",
+            "date": "2025-07-16"
+        }
+    ],
+    "forum_solutions": []
+}

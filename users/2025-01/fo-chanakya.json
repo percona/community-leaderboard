@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-chanakya",
+    "display_name": "Chanakya",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/cab0a1\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Chanakya",
+    "github_login": null,
+    "forum_username": "Chanakya",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona Binary issue with libssl.so.1.1",
+            "url": "https:\/\/forums.percona.com\/t\/percona-binary-issue-with-libssl-so-1-1",
+            "date": "2025-01-08"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "MySQL Failover Query",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-failover-query\/6",
+            "date": "2025-01-09"
+        },
+        {
+            "topic_title": "MySQL Failover Query",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-failover-query\/8",
+            "date": "2025-01-09"
+        }
+    ],
+    "forum_solutions": []
+}

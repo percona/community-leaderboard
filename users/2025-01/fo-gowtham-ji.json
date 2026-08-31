@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-gowtham-ji",
+    "display_name": "gowtham-ji",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/g\/3d9bf3\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=gowtham-ji",
+    "github_login": null,
+    "forum_username": "gowtham-ji",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pitr restoration not working properly - Mongodb operator version : 7.0.8-5",
+            "url": "https:\/\/forums.percona.com\/t\/pitr-restoration-not-working-properly-mongodb-operator-version-7-0-8-5",
+            "date": "2025-01-09"
+        },
+        {
+            "title": "Collection creation and removal after restored from full logical backup - Mongodb",
+            "url": "https:\/\/forums.percona.com\/t\/collection-creation-and-removal-after-restored-from-full-logical-backup-mongodb",
+            "date": "2025-01-11"
+        },
+        {
+            "title": "Removed collections under Database, still could see space occupied by database",
+            "url": "https:\/\/forums.percona.com\/t\/removed-collections-under-database-still-could-see-space-occupied-by-database",
+            "date": "2025-01-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

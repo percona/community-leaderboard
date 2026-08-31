@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-duygu",
+    "display_name": "Duygu Erduran",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/2acd7d\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Duygu",
+    "github_login": null,
+    "forum_username": "Duygu",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "\"N\/A\" show but not displaying username on the QAN dashboard for Mysql queries",
+            "url": "https:\/\/forums.percona.com\/t\/n-a-show-but-not-displaying-username-on-the-qan-dashboard-for-mysql-queries",
+            "date": "2024-12-03"
+        },
+        {
+            "title": "Mysql User Details dashboard does not show query when filtering in QAN",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-user-details-dashboard-does-not-show-query-when-filtering-in-qan",
+            "date": "2024-12-09"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

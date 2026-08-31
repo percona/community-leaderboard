@@ -1,0 +1,60 @@
+{
+    "user_key": "fo-asuwini_p",
+    "display_name": "Asuwini P",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/asuwini_p\/120\/9824_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Asuwini_P",
+    "github_login": null,
+    "forum_username": "Asuwini_P",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 27,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 27,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Sorry, no examples found for this query in Example tab(MySQL)",
+            "url": "https:\/\/forums.percona.com\/t\/sorry-no-examples-found-for-this-query-in-example-tab-mysql",
+            "date": "2024-04-12"
+        },
+        {
+            "title": "Getting Extra Replication Channel in PMM",
+            "url": "https:\/\/forums.percona.com\/t\/getting-extra-replication-channel-in-pmm",
+            "date": "2024-06-19"
+        },
+        {
+            "title": "Can pt-kill Log User and Host Details in Log File?",
+            "url": "https:\/\/forums.percona.com\/t\/can-pt-kill-log-user-and-host-details-in-log-file",
+            "date": "2024-07-18"
+        },
+        {
+            "title": "Get Datadir From Mongodb Exporter",
+            "url": "https:\/\/forums.percona.com\/t\/get-datadir-from-mongodb-exporter",
+            "date": "2024-09-19"
+        },
+        {
+            "title": "Identifying Blocked Queries from ClickHouse PMM Data",
+            "url": "https:\/\/forums.percona.com\/t\/identifying-blocked-queries-from-clickhouse-pmm-data",
+            "date": "2024-11-20"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PMM2 - realtime 'full processlist' dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-realtime-full-processlist-dashboard\/5",
+            "date": "2024-05-06"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-jogoossens",
+    "display_name": "jogoossens",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/155979277?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jogoossens",
+    "github_login": "jogoossens",
+    "forum_username": null,
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "pmm helm chart suddenly broken (secret.name)",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/393",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2024-10-16",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

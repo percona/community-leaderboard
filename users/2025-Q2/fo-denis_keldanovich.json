@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-denis_keldanovich",
+    "display_name": "Denis Keldanovich",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/denis_keldanovich\/120\/21100_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Denis_Keldanovich",
+    "github_login": null,
+    "forum_username": "Denis_Keldanovich",
+    "period": "2025-Q2",
+    "period_label": "Q2 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "[Question] Configuring component_keyring_file in Percona XtraDB Cluster 8.4.4 (Debian) — component not activating",
+            "url": "https:\/\/forums.percona.com\/t\/question-configuring-component-keyring-file-in-percona-xtradb-cluster-8-4-4-debian-component-not-activating",
+            "date": "2025-05-23"
+        },
+        {
+            "title": "MySQL 8.4 + Vault Integration via keyring_vault – No Logs, Silent Failure",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-8-4-vault-integration-via-keyring-vault-no-logs-silent-failure",
+            "date": "2025-06-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

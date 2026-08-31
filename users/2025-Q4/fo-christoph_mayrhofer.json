@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-christoph_mayrhofer",
+    "display_name": "Christoph Mayrhofer",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/christoph_mayrhofer\/120\/22746_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Christoph_Mayrhofer",
+    "github_login": null,
+    "forum_username": "Christoph_Mayrhofer",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Series labels missing (series A, series B, ...)",
+            "url": "https:\/\/forums.percona.com\/t\/series-labels-missing-series-a-series-b",
+            "date": "2025-12-07"
+        },
+        {
+            "title": "PMM QAN for prepared statements with AWS RDS mysql",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-qan-for-prepared-statements-with-aws-rds-mysql",
+            "date": "2025-12-08"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

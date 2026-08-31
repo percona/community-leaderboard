@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-wsilva",
+    "display_name": "Wellington F. Silva",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/505139?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=wsilva",
+    "github_login": "wsilva",
+    "forum_username": null,
+    "period": "2025-Q1",
+    "period_label": "Q1 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Run PMM with external grafana",
+            "url": "https:\/\/github.com\/percona\/pmm\/issues\/3829",
+            "repo": "percona\/pmm",
+            "date": "2025-03-25",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix doc with default tag image: 3.0.0",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/506",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-03-24",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

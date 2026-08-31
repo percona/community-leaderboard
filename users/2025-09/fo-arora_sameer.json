@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-arora_sameer",
+    "display_name": "ArorA Sameer",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/arora_sameer\/120\/21982_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ArorA_Sameer",
+    "github_login": null,
+    "forum_username": "ArorA_Sameer",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Open Source MySQL DBA ToolKit coded in PHP - CR[U]D DB",
+            "url": "https:\/\/forums.percona.com\/t\/open-source-mysql-dba-toolkit-coded-in-php-cr-u-d-db",
+            "date": "2025-09-06"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PBM backup not connectiong to GCS error Forbidden",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-backup-not-connectiong-to-gcs-error-forbidden\/3",
+            "date": "2025-09-07"
+        }
+    ],
+    "forum_solutions": []
+}

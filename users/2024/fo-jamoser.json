@@ -1,0 +1,79 @@
+{
+    "user_key": "fo-jamoser",
+    "display_name": "John Moser",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/b2d939\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jamoser",
+    "github_login": null,
+    "forum_username": "jamoser",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 50,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 50,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 10,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PodDisruptionBudget in version \"policy\/v1beta1\"",
+            "url": "https:\/\/forums.percona.com\/t\/poddisruptionbudget-in-version-policy-v1beta1",
+            "date": "2024-06-07"
+        },
+        {
+            "title": "How can predefined PV and PVC assigned to",
+            "url": "https:\/\/forums.percona.com\/t\/how-can-predefined-pv-and-pvc-assigned-to",
+            "date": "2024-06-07"
+        },
+        {
+            "title": "Is Operator for MongoDB and MongoDB (4.x) compatible to cgroup V2?",
+            "url": "https:\/\/forums.percona.com\/t\/is-operator-for-mongodb-and-mongodb-4-x-compatible-to-cgroup-v2",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "GKE, maintenance, Volume is already exclusively attached to one node and can't be attached to another",
+            "url": "https:\/\/forums.percona.com\/t\/gke-maintenance-volume-is-already-exclusively-attached-to-one-node-and-cant-be-attached-to-another",
+            "date": "2024-07-13"
+        },
+        {
+            "title": "Running non-sharding setup with only 1 replica",
+            "url": "https:\/\/forums.percona.com\/t\/running-non-sharding-setup-with-only-1-replica",
+            "date": "2024-10-03"
+        },
+        {
+            "title": "Standard vs regional provisioned disks, for ex. GCP",
+            "url": "https:\/\/forums.percona.com\/t\/standard-vs-regional-provisioned-disks-for-ex-gcp",
+            "date": "2024-10-24"
+        },
+        {
+            "title": "Migrate from Operator v1.11 -> v1.13 \/ v1.14 \/ v1.15",
+            "url": "https:\/\/forums.percona.com\/t\/migrate-from-operator-v1-11-v1-13-v1-14-v1-15",
+            "date": "2024-11-19"
+        },
+        {
+            "title": "spec.preserveUnknownFields nok",
+            "url": "https:\/\/forums.percona.com\/t\/spec-preserveunknownfields-nok",
+            "date": "2024-11-28"
+        },
+        {
+            "title": "clusterServiceDNSMode nok (non sharding setup)",
+            "url": "https:\/\/forums.percona.com\/t\/clusterservicednsmode-nok-non-sharding-setup",
+            "date": "2024-11-29"
+        },
+        {
+            "title": "Startup of replicaset takes very long",
+            "url": "https:\/\/forums.percona.com\/t\/startup-of-replicaset-takes-very-long",
+            "date": "2024-11-30"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

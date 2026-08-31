@@ -1,0 +1,59 @@
+{
+    "user_key": "fo-alexei_fokin",
+    "display_name": "Aleksei Fokin",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/alexei_fokin\/120\/13579_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Alexei_Fokin",
+    "github_login": null,
+    "forum_username": "Alexei_Fokin",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 30,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 30,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 6,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Issues with Percona Everest (enable monitoring, changing cluster)",
+            "url": "https:\/\/forums.percona.com\/t\/issues-with-percona-everest-enable-monitoring-changing-cluster",
+            "date": "2024-01-19"
+        },
+        {
+            "title": "Connection Issue to MongoDB Cluster via Mongo Compass",
+            "url": "https:\/\/forums.percona.com\/t\/connection-issue-to-mongodb-cluster-via-mongo-compass",
+            "date": "2024-01-19"
+        },
+        {
+            "title": "Creating a backup of 1 base or collection",
+            "url": "https:\/\/forums.percona.com\/t\/creating-a-backup-of-1-base-or-collection",
+            "date": "2024-02-02"
+        },
+        {
+            "title": "Mongo doesn't work",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-doesnt-work",
+            "date": "2024-02-15"
+        },
+        {
+            "title": "Backup error for mongo percona operator",
+            "url": "https:\/\/forums.percona.com\/t\/backup-error-for-mongo-percona-operator",
+            "date": "2024-02-19"
+        },
+        {
+            "title": "Migration between MongoDB clusters",
+            "url": "https:\/\/forums.percona.com\/t\/migration-between-mongodb-clusters",
+            "date": "2024-05-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

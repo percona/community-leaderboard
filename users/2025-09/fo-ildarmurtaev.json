@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-ildarmurtaev",
+    "display_name": "Ильдар Муртаев",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/ildarmurtaev\/120\/20750_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ildarmurtaev",
+    "github_login": null,
+    "forum_username": "ildarmurtaev",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Psmdb-operator 1.20.1 not wort kubernetes 1.33.4",
+            "url": "https:\/\/forums.percona.com\/t\/psmdb-operator-1-20-1-not-wort-kubernetes-1-33-4",
+            "date": "2025-09-09"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

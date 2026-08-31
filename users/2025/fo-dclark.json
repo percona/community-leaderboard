@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-dclark",
+    "display_name": "dclark",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/b782af\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dclark",
+    "github_login": null,
+    "forum_username": "dclark",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PSMDB Backup Failing [check cluster for dump done: convergeCluster: backup on shard rs2 failed with: %!s(<nil>)]",
+            "url": "https:\/\/forums.percona.com\/t\/psmdb-backup-failing-check-cluster-for-dump-done-convergecluster-backup-on-shard-rs2-failed-with-s-nil",
+            "date": "2025-04-21"
+        },
+        {
+            "title": "PBM Logical Backup RS Failures",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-logical-backup-rs-failures",
+            "date": "2025-04-22"
+        },
+        {
+            "title": "PBM For Mongo in K8s Restores Failing with Agent > 2.5.0",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-for-mongo-in-k8s-restores-failing-with-agent-2-5-0",
+            "date": "2025-07-09"
+        },
+        {
+            "title": "PBM Physical Restore in K8s Not Working",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-physical-restore-in-k8s-not-working",
+            "date": "2025-07-16"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

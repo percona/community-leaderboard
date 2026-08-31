@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-sujithtee",
+    "display_name": "Sujith T",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sujithtee\/120\/18989_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=sujithtee",
+    "github_login": null,
+    "forum_username": "sujithtee",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "[ERROR: get backup files: create backupCursor: (Location50917) Oplog rolled over while establishing the backup cursor",
+            "url": "https:\/\/forums.percona.com\/t\/error-get-backup-files-create-backupcursor-location50917-oplog-rolled-over-while-establishing-the-backup-cursor",
+            "date": "2025-04-14"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "How to solve backup failed status not found in pmm after changing the storage location?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-solve-backup-failed-status-not-found-in-pmm-after-changing-the-storage-location\/6",
+            "date": "2025-04-14"
+        }
+    ],
+    "forum_solutions": []
+}

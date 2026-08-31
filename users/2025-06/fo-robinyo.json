@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-robinyo",
+    "display_name": "Robinyo",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/dec6dc\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Robinyo",
+    "github_login": null,
+    "forum_username": "Robinyo",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Enable encryption",
+            "url": "https:\/\/forums.percona.com\/t\/enable-encryption",
+            "date": "2025-06-02"
+        },
+        {
+            "title": "Is it possible to automate the steps to enable pg_tde for all new databases?",
+            "url": "https:\/\/forums.percona.com\/t\/is-it-possible-to-automate-the-steps-to-enable-pg-tde-for-all-new-databases",
+            "date": "2025-06-07"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

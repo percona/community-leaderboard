@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-frederic_coelho1",
+    "display_name": "Frédéric Coelho",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/frederic_coelho1\/120\/12460_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Frederic_Coelho1",
+    "github_login": null,
+    "forum_username": "Frederic_Coelho1",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "\"Observed a panic in reconciler\" on the backup restore request [perconaxtradbclusterrestore.pxc.percona.com]",
+            "url": "https:\/\/forums.percona.com\/t\/observed-a-panic-in-reconciler-on-the-backup-restore-request-perconaxtradbclusterrestore-pxc-percona-com\/7",
+            "date": "2024-12-17"
+        },
+        {
+            "topic_title": "Cannot get PITR backup restore to work",
+            "url": "https:\/\/forums.percona.com\/t\/cannot-get-pitr-backup-restore-to-work\/3",
+            "date": "2024-12-12"
+        },
+        {
+            "topic_title": "Cannot get PITR backup restore to work",
+            "url": "https:\/\/forums.percona.com\/t\/cannot-get-pitr-backup-restore-to-work\/4",
+            "date": "2024-12-12"
+        },
+        {
+            "topic_title": "Cannot get PITR backup restore to work",
+            "url": "https:\/\/forums.percona.com\/t\/cannot-get-pitr-backup-restore-to-work\/6",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-pvstekunov",
+    "display_name": "pvstekunov",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/54104752?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=pvstekunov",
+    "github_login": "pvstekunov",
+    "forum_username": null,
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PgBouncer configuration under spec.proxy.pgBouncer.config.global is reset on every reconcile in Percona Everest 1.10.0",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/1735",
+            "repo": "percona\/everest",
+            "date": "2025-12-06",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

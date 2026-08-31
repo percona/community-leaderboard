@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-henry_smearman",
+    "display_name": "Henry Smearman",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/henry_smearman\/120\/18339_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Henry_Smearman",
+    "github_login": null,
+    "forum_username": "Henry_Smearman",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Metadata empty when creating a PVC for sidecar in MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/metadata-empty-when-creating-a-pvc-for-sidecar-in-mongodb",
+            "date": "2025-02-05"
+        },
+        {
+            "title": "Add mount to psmdb rep set for auditing",
+            "url": "https:\/\/forums.percona.com\/t\/add-mount-to-psmdb-rep-set-for-auditing",
+            "date": "2025-02-07"
+        },
+        {
+            "title": "Adding custom user to repsets psmdb",
+            "url": "https:\/\/forums.percona.com\/t\/adding-custom-user-to-repsets-psmdb",
+            "date": "2025-02-21"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

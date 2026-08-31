@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-fabriciopedrosojorge",
+    "display_name": "FabricioPedrosoJorge",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/bbe5ce\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=FabricioPedrosoJorge",
+    "github_login": null,
+    "forum_username": "FabricioPedrosoJorge",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Getting error \"Plugin caching_sha2_password could not be loaded\" on PT-QUERY-DIGEST",
+            "url": "https:\/\/forums.percona.com\/t\/getting-error-plugin-caching-sha2-password-could-not-be-loaded-on-pt-query-digest",
+            "date": "2025-09-09"
+        },
+        {
+            "title": "Pmm-agent running \"strange\" queries",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-agent-running-strange-queries",
+            "date": "2025-09-15"
+        },
+        {
+            "title": "MongoDB crashed twice with \"Invariant failure\"",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-crashed-twice-with-invariant-failure",
+            "date": "2025-09-29"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-pravata_dash",
+    "display_name": "pravata dash",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
+    "github_login": null,
+    "forum_username": "pravata_dash",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Data Inconsistency Between MySQL Master and Read Replica Post Master Failover in Mixed Format Replication",
+            "url": "https:\/\/forums.percona.com\/t\/data-inconsistency-between-mysql-master-and-read-replica-post-master-failover-in-mixed-format-replication",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "Getting error while backing up PMM 2 data",
+            "url": "https:\/\/forums.percona.com\/t\/getting-error-while-backing-up-pmm-2-data",
+            "date": "2024-10-25"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

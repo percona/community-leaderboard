@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-fborgoglio71",
+    "display_name": "Fborgoglio71",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/53a042\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Fborgoglio71",
+    "github_login": null,
+    "forum_username": "Fborgoglio71",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Mysql replica is up and running but I can't see updates on my slave",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-replica-is-up-and-running-but-i-cant-see-updates-on-my-slave",
+            "date": "2025-06-09"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "How to add new database to existing master slave replication in mysql 8",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-add-new-database-to-existing-master-slave-replication-in-mysql-8\/20",
+            "date": "2025-06-06"
+        },
+        {
+            "topic_title": "How to add new database to existing master slave replication in mysql 8",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-add-new-database-to-existing-master-slave-replication-in-mysql-8\/23",
+            "date": "2025-06-09"
+        }
+    ],
+    "forum_solutions": []
+}

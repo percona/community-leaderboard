@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-hpoettker",
+    "display_name": "Henning Pöttker",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/25299532?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=hpoettker",
+    "github_login": "hpoettker",
+    "forum_username": null,
+    "period": "2025-Q1",
+    "period_label": "Q1 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 150,
+    "points_github": 150,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PT-2378 - extended FP precision in pt-table-sync",
+            "url": "https:\/\/github.com\/percona\/percona-toolkit\/pull\/863",
+            "repo": "percona\/percona-toolkit",
+            "date": "2024-09-12",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "PT-2377 - fixed pt-table-sync for JSON utf8 strings",
+            "url": "https:\/\/github.com\/percona\/percona-toolkit\/pull\/861",
+            "repo": "percona\/percona-toolkit",
+            "date": "2024-09-11",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

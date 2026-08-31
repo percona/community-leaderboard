@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-aurimas_niekis",
+    "display_name": "Aurimas Niekis",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/aurimas_niekis\/120\/20904_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Aurimas_Niekis",
+    "github_login": null,
+    "forum_username": "Aurimas_Niekis",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "MySQL Cluster goes into full crash every 5-10mins",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-cluster-goes-into-full-crash-every-5-10mins",
+            "date": "2025-05-19"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Everest questions",
+            "url": "https:\/\/forums.percona.com\/t\/everest-questions\/8",
+            "date": "2025-05-04"
+        },
+        {
+            "topic_title": "Everest questions",
+            "url": "https:\/\/forums.percona.com\/t\/everest-questions\/10",
+            "date": "2025-05-20"
+        }
+    ],
+    "forum_solutions": []
+}

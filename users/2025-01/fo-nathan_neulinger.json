@@ -1,0 +1,55 @@
+{
+    "user_key": "fo-nathan_neulinger",
+    "display_name": "Nathan Neulinger",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/nathan_neulinger\/120\/176_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Nathan_Neulinger",
+    "github_login": null,
+    "forum_username": "Nathan_Neulinger",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 16,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 16,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to restore from a read-only S3 bucket?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-restore-from-a-read-only-s3-bucket",
+            "date": "2025-01-18"
+        },
+        {
+            "title": "PBM restore failure -- missing required partialFilterExpression on the creates",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-restore-failure-missing-required-partialfilterexpression-on-the-creates",
+            "date": "2025-01-18"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PBM-INIT File safe for removal?",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-init-file-safe-for-removal\/4",
+            "date": "2025-01-18"
+        },
+        {
+            "topic_title": "Backups with pbm-agent 2.8.0 can't restore text indices",
+            "url": "https:\/\/forums.percona.com\/t\/backups-with-pbm-agent-2-8-0-cant-restore-text-indices\/3",
+            "date": "2025-01-21"
+        },
+        {
+            "topic_title": "Backups with pbm-agent 2.8.0 can't restore text indices",
+            "url": "https:\/\/forums.percona.com\/t\/backups-with-pbm-agent-2-8-0-cant-restore-text-indices\/4",
+            "date": "2025-01-21"
+        }
+    ],
+    "forum_solutions": []
+}

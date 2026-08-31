@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-redzchris",
+    "display_name": "redzchris",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/ce73a5\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=redzchris",
+    "github_login": null,
+    "forum_username": "redzchris",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Error: You need to specify CLUSTER_NAME",
+            "url": "https:\/\/forums.percona.com\/t\/error-you-need-to-specify-cluster-name",
+            "date": "2025-04-08"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Unable to start docker for Proxysql",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-start-docker-for-proxysql\/4",
+            "date": "2025-04-08"
+        }
+    ],
+    "forum_solutions": []
+}

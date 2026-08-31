@@ -1,0 +1,85 @@
+{
+    "user_key": "fo-mboncalo",
+    "display_name": "mb",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/mboncalo\/120\/16954_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=mboncalo",
+    "github_login": null,
+    "forum_username": "mboncalo",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 6,
+    "replies": 5,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Postgresql backup to S3 Minio from an Istio enabled namespace",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-backup-to-s3-minio-from-an-istio-enabled-namespace",
+            "date": "2024-06-26"
+        },
+        {
+            "title": "How to set annotation for Postgresql Cluster",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-set-annotation-for-postgresql-cluster",
+            "date": "2024-07-04"
+        },
+        {
+            "title": "Backup jobs not created anymore",
+            "url": "https:\/\/forums.percona.com\/t\/backup-jobs-not-created-anymore",
+            "date": "2024-08-28"
+        },
+        {
+            "title": "Migrate from non percona pg to percona g cluster",
+            "url": "https:\/\/forums.percona.com\/t\/migrate-from-non-percona-pg-to-percona-g-cluster",
+            "date": "2024-09-03"
+        },
+        {
+            "title": "Restore from a specific timeline",
+            "url": "https:\/\/forums.percona.com\/t\/restore-from-a-specific-timeline",
+            "date": "2024-11-03"
+        },
+        {
+            "title": "Backup fails after helm upgrade",
+            "url": "https:\/\/forums.percona.com\/t\/backup-fails-after-helm-upgrade",
+            "date": "2024-11-04"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "How to configure S3 backup for PostgreSQL using values.yaml",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-configure-s3-backup-for-postgresql-using-values-yaml\/9",
+            "date": "2024-06-21"
+        },
+        {
+            "topic_title": "Need help with configuring s3 backup with operator 2.2",
+            "url": "https:\/\/forums.percona.com\/t\/need-help-with-configuring-s3-backup-with-operator-2-2\/2",
+            "date": "2024-06-14"
+        },
+        {
+            "topic_title": "V2.4.0 - Backup job pods are not being removed",
+            "url": "https:\/\/forums.percona.com\/t\/v2-4-0-backup-job-pods-are-not-being-removed\/2",
+            "date": "2024-08-22"
+        },
+        {
+            "topic_title": "Issues with configuring backup against S3 storage",
+            "url": "https:\/\/forums.percona.com\/t\/issues-with-configuring-backup-against-s3-storage\/2",
+            "date": "2024-11-13"
+        },
+        {
+            "topic_title": "Issues with configuring backup against S3 storage",
+            "url": "https:\/\/forums.percona.com\/t\/issues-with-configuring-backup-against-s3-storage\/6",
+            "date": "2024-11-19"
+        }
+    ],
+    "forum_solutions": []
+}

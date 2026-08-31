@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-kv-dhyey-moliya",
+    "display_name": "kv-dhyey-moliya",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/135125196?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=kv-dhyey-moliya",
+    "github_login": "kv-dhyey-moliya",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 110,
+    "points_github": 110,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "\/lib64\/libc.so.6: version `GLIBC_2.34' not found Error when restoring physical backup on ARM Servers",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1656",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2024-09-19",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPG-644 - Fix tolerations iteration issue for pg-db cluster template",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/369",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2024-09-04",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

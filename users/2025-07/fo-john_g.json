@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-john_g",
+    "display_name": "John G",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/john_g\/120\/21417_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=John_G",
+    "github_login": null,
+    "forum_username": "John_G",
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Key Management Servers for Pg_tde",
+            "url": "https:\/\/forums.percona.com\/t\/key-management-servers-for-pg-tde",
+            "date": "2025-07-04"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

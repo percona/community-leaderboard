@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-jwnx",
+    "display_name": "Juliana de Oliveira",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4687817?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jwnx",
+    "github_login": "jwnx",
+    "forum_username": null,
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "jwnx\/flyio 2.6.0 introduce patroni rest api",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1292",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-09-29",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,105 @@
+{
+    "user_key": "fo-kay_khan",
+    "display_name": "Kay Khan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/kay_khan\/120\/17023_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Kay_Khan",
+    "github_login": null,
+    "forum_username": "Kay_Khan",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 60,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 60,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 10,
+    "replies": 5,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Get database collection document metrics using percona\/mongodb_exporter:0.36",
+            "url": "https:\/\/forums.percona.com\/t\/get-database-collection-document-metrics-using-percona-mongodb-exporter-0-36",
+            "date": "2024-02-22"
+        },
+        {
+            "title": "AWS ARM EC2 Graviton - Exec \/opt\/percona\/ps-entry.sh: exec format error",
+            "url": "https:\/\/forums.percona.com\/t\/aws-arm-ec2-graviton-exec-opt-percona-ps-entry-sh-exec-format-error",
+            "date": "2024-06-24"
+        },
+        {
+            "title": "MongoDB Exporter Grafana Dashboards No Longer Showing Metric Data",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-exporter-grafana-dashboards-no-longer-showing-metric-data",
+            "date": "2024-06-26"
+        },
+        {
+            "title": "Making change to expose.serviceAnnotations does not update service",
+            "url": "https:\/\/forums.percona.com\/t\/making-change-to-expose-serviceannotations-does-not-update-service",
+            "date": "2024-06-28"
+        },
+        {
+            "title": "Require deterministic name",
+            "url": "https:\/\/forums.percona.com\/t\/require-deterministic-name",
+            "date": "2024-07-01"
+        },
+        {
+            "title": "ConfigMap to Substitute values",
+            "url": "https:\/\/forums.percona.com\/t\/configmap-to-substitute-values",
+            "date": "2024-07-03"
+        },
+        {
+            "title": "\/opt\/percona\/ps-entry.sh: line 509: exec: numactl --interleave=all: not found",
+            "url": "https:\/\/forums.percona.com\/t\/opt-percona-ps-entry-sh-line-509-exec-numactl-interleave-all-not-found",
+            "date": "2024-07-11"
+        },
+        {
+            "title": "Liveness probe failed causing production pod to reboot",
+            "url": "https:\/\/forums.percona.com\/t\/liveness-probe-failed-causing-production-pod-to-reboot",
+            "date": "2024-07-18"
+        },
+        {
+            "title": "EBS vs EFS Peristance Volume Storage Class",
+            "url": "https:\/\/forums.percona.com\/t\/ebs-vs-efs-peristance-volume-storage-class",
+            "date": "2024-10-07"
+        },
+        {
+            "title": "Recommended Instance Family \/ Type",
+            "url": "https:\/\/forums.percona.com\/t\/recommended-instance-family-type",
+            "date": "2024-11-28"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Mongo Operator and ARM",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-operator-and-arm\/6",
+            "date": "2024-06-25"
+        },
+        {
+            "topic_title": "Mongo Operator and ARM",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-operator-and-arm\/8",
+            "date": "2024-06-25"
+        },
+        {
+            "topic_title": "Mongo Operator and ARM",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-operator-and-arm\/10",
+            "date": "2024-06-27"
+        },
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/5",
+            "date": "2024-11-19"
+        },
+        {
+            "topic_title": "MongoDB 8 + arm support?",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-8-arm-support\/13",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_solutions": []
+}

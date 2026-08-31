@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-alfredogangemi",
+    "display_name": "Alfredo",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/90ced4\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=alfredogangemi",
+    "github_login": null,
+    "forum_username": "alfredogangemi",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Liveness check failed: failed to rotate logs: operation not permitted",
+            "url": "https:\/\/forums.percona.com\/t\/liveness-check-failed-failed-to-rotate-logs-operation-not-permitted",
+            "date": "2025-10-31"
+        },
+        {
+            "title": "Best way to connect to Percona Server for MongoDB deployed via the official operator",
+            "url": "https:\/\/forums.percona.com\/t\/best-way-to-connect-to-percona-server-for-mongodb-deployed-via-the-official-operator",
+            "date": "2025-11-06"
+        },
+        {
+            "title": "How to bind specific PVs or PVCs in Percona Server for MongoDB Operator (NetApp backend)",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-bind-specific-pvs-or-pvcs-in-percona-server-for-mongodb-operator-netapp-backend",
+            "date": "2025-11-12"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

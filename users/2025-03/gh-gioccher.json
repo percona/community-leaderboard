@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-gioccher",
+    "display_name": "Claudio Beretta",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/921538?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=gioccher",
+    "github_login": "gioccher",
+    "forum_username": null,
+    "period": "2025-03",
+    "period_label": "March 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 100,
+    "points_github": 100,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "TLS docs: clarify renewal requirement for default option, fix resource name",
+            "url": "https:\/\/github.com\/percona\/k8spxc-docs\/pull\/210",
+            "repo": "percona\/k8spxc-docs",
+            "date": "2025-03-19",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

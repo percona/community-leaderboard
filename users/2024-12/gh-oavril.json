@@ -1,0 +1,50 @@
+{
+    "user_key": "gh-oavril",
+    "display_name": "oavril",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/76199996?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=oavril",
+    "github_login": "oavril",
+    "forum_username": null,
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 30,
+    "points_github": 30,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 3,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Database creation issue with fr_FR encoding in a PostgreSQL cluster",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/955",
+            "repo": "percona\/everest",
+            "date": "2024-12-20",
+            "state": "open"
+        },
+        {
+            "title": "postgres operator 2.5.0 upgrade from everest 1.3.0",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/920",
+            "repo": "percona\/everest",
+            "date": "2024-12-10",
+            "state": "closed"
+        },
+        {
+            "title": "local network proxy interface configuration",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/919",
+            "repo": "percona\/everest",
+            "date": "2024-12-10",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

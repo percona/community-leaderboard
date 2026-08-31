@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-tanuj_bolisetty",
+    "display_name": "Tanuj Bolisetty",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/tanuj_bolisetty\/120\/4092_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Tanuj_Bolisetty",
+    "github_login": null,
+    "forum_username": "Tanuj_Bolisetty",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 6,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 6,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "PMM2 not able to connect MongoDB Atlas Servers",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-not-able-to-connect-mongodb-atlas-servers\/4",
+            "date": "2025-04-21"
+        },
+        {
+            "topic_title": "PMM2 not able to connect MongoDB Atlas Servers",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-not-able-to-connect-mongodb-atlas-servers\/6",
+            "date": "2025-04-21"
+        },
+        {
+            "topic_title": "PMM2 not able to connect MongoDB Atlas Servers",
+            "url": "https:\/\/forums.percona.com\/t\/pmm2-not-able-to-connect-mongodb-atlas-servers\/8",
+            "date": "2025-04-21"
+        }
+    ],
+    "forum_solutions": []
+}

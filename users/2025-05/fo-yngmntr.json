@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-yngmntr",
+    "display_name": "yngmntr",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/y\/85f322\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=yngmntr",
+    "github_login": null,
+    "forum_username": "yngmntr",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pmm3 can connect to database, throws pg_hba error on pt-pg-summary",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-can-connect-to-database-throws-pg-hba-error-on-pt-pg-summary",
+            "date": "2025-05-12"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

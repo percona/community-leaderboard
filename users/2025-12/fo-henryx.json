@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-henryx",
+    "display_name": "Henryx",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/henryx\/120\/13625_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Henryx",
+    "github_login": null,
+    "forum_username": "Henryx",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pbm oplog-replay skips entire endpoint second; --end timestamp behaves inconsistently (PBM 2.12.0) | failing reconciliation tests",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-oplog-replay-skips-entire-endpoint-second-end-timestamp-behaves-inconsistently-pbm-2-12-0-failing-reconciliation-tests",
+            "date": "2025-12-01"
+        },
+        {
+            "title": "Question: oplogOnly removal in PBM 3.0 ? Is that for real or joke?",
+            "url": "https:\/\/forums.percona.com\/t\/question-oplogonly-removal-in-pbm-3-0-is-that-for-real-or-joke",
+            "date": "2025-12-02"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-jostrus",
+    "display_name": "Jostrus",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/c77e96\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Jostrus",
+    "github_login": null,
+    "forum_username": "Jostrus",
+    "period": "2025-03",
+    "period_label": "March 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 5,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Upgrade from percona 5.7.44 to 8.0.39 will not complete",
+            "url": "https:\/\/forums.percona.com\/t\/upgrade-from-percona-5-7-44-to-8-0-39-will-not-complete\/2",
+            "date": "2025-03-15"
+        },
+        {
+            "topic_title": "Percona xtraDB Cluster 8.x Setup With proxysql and keepalived as HA",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-8-x-setup-with-proxysql-and-keepalived-as-ha\/2",
+            "date": "2025-03-15"
+        },
+        {
+            "topic_title": "Percona xtraDB Cluster 8.x Setup With proxysql and keepalived as HA",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-8-x-setup-with-proxysql-and-keepalived-as-ha\/4",
+            "date": "2025-03-17"
+        },
+        {
+            "topic_title": "Percona xtraDB Cluster 8.x Setup With proxysql and keepalived as HA",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-8-x-setup-with-proxysql-and-keepalived-as-ha\/6",
+            "date": "2025-03-18"
+        },
+        {
+            "topic_title": "Problems with mySQL backup automation",
+            "url": "https:\/\/forums.percona.com\/t\/problems-with-mysql-backup-automation\/2",
+            "date": "2025-03-15"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-bezio",
+    "display_name": "Ingo Bez",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19343837?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=bezio",
+    "github_login": "bezio",
+    "forum_username": null,
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Enable sql_require_primary_key per default in Group Replication setup",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/912",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2025-05-23",
+            "state": "closed"
+        },
+        {
+            "title": "sleep-forever is a fully-engaged polling thing",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/900",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2025-05-16",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

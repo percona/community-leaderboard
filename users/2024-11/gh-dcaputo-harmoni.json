@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-dcaputo-harmoni",
+    "display_name": "dcaputo-harmoni",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65166251?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=dcaputo-harmoni",
+    "github_login": "dcaputo-harmoni",
+    "forum_username": null,
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 175,
+    "points_github": 175,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Allow proxysql entrypoint to work with helm config",
+            "url": "https:\/\/github.com\/percona\/percona-docker\/pull\/1065",
+            "repo": "percona\/percona-docker",
+            "date": "2024-11-30",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPXC-1502: Fix additional pitr azure newline issue",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1842",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-10-10",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPXC-1503: Fix exec in pitr and proxysql pods",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1838",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-10-06",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

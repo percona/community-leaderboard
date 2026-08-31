@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-semantic",
+    "display_name": "Semantic",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/semantic\/120\/9104_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Semantic",
+    "github_login": null,
+    "forum_username": "Semantic",
+    "period": "2025-10",
+    "period_label": "October 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 12,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 12,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM 3.0 Support",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-3-0-support",
+            "date": "2025-10-07"
+        },
+        {
+            "title": "Percona Link Mongodb Feedback",
+            "url": "https:\/\/forums.percona.com\/t\/percona-link-mongodb-feedback",
+            "date": "2025-10-07"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "What are your reasons and risks preventing you to upgrade to MongoDB 7.0?",
+            "url": "https:\/\/forums.percona.com\/t\/what-are-your-reasons-and-risks-preventing-you-to-upgrade-to-mongodb-7-0\/2",
+            "date": "2025-10-08"
+        }
+    ],
+    "forum_solutions": []
+}

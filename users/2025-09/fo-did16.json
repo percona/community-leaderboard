@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-did16",
+    "display_name": "did16",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/dfb087\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=did16",
+    "github_login": null,
+    "forum_username": "did16",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Access to source code",
+            "url": "https:\/\/forums.percona.com\/t\/access-to-source-code",
+            "date": "2025-09-10"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Pg_tde – We invite you to contribute to developing a new extension for PostgreSQL",
+            "url": "https:\/\/forums.percona.com\/t\/pg-tde-we-invite-you-to-contribute-to-developing-a-new-extension-for-postgresql\/2",
+            "date": "2025-09-02"
+        }
+    ],
+    "forum_solutions": []
+}

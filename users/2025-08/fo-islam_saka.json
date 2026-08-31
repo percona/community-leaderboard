@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-islam_saka",
+    "display_name": "İslam Saka",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/islam_saka\/120\/19570_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Islam_Saka",
+    "github_login": null,
+    "forum_username": "Islam_Saka",
+    "period": "2025-08",
+    "period_label": "August 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PerconaServerMongoDBRestore stuck in resync loop – “backup not found in PBM metadata” after renaming S3 path",
+            "url": "https:\/\/forums.percona.com\/t\/perconaservermongodbrestore-stuck-in-resync-loop-backup-not-found-in-pbm-metadata-after-renaming-s3-path",
+            "date": "2025-08-03"
+        },
+        {
+            "title": "PerconaServerMongoDBRestore fails at storage-validation stage on iDrive E2 (HEAD request returns EOF)",
+            "url": "https:\/\/forums.percona.com\/t\/perconaservermongodbrestore-fails-at-storage-validation-stage-on-idrive-e2-head-request-returns-eof",
+            "date": "2025-08-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

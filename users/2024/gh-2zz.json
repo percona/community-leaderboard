@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-2zz",
+    "display_name": "Ian Driver",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/5006129?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=2ZZ",
+    "github_login": "2ZZ",
+    "forum_username": null,
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 150,
+    "points_github": 150,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "CLOUD-838 - Allow setting env vars on the pxc-operator deployment",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/257",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2023-11-08",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPXC-1307: Configurable verbosity in HAProxy status script",
+            "url": "https:\/\/github.com\/percona\/percona-docker\/pull\/859",
+            "repo": "percona\/percona-docker",
+            "date": "2023-11-01",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

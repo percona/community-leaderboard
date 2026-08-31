@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-fan",
+    "display_name": "Fan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/fan\/120\/40_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Fan",
+    "github_login": null,
+    "forum_username": "Fan",
+    "period": "2025-11",
+    "period_label": "November 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Vmalert in PMM 3.4.1 Docker Cannot Start Due to Missing Notifier Configuration",
+            "url": "https:\/\/forums.percona.com\/t\/vmalert-in-pmm-3-4-1-docker-cannot-start-due-to-missing-notifier-configuration",
+            "date": "2025-11-10"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Is the vmalert still available in PMM v3?",
+            "url": "https:\/\/forums.percona.com\/t\/is-the-vmalert-still-available-in-pmm-v3\/3",
+            "date": "2025-11-10"
+        }
+    ],
+    "forum_solutions": []
+}

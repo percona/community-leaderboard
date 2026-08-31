@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-skipper_technicolor",
+    "display_name": "Skipper Technicolor",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/skipper_technicolor\/120\/18781_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Skipper_Technicolor",
+    "github_login": null,
+    "forum_username": "Skipper_Technicolor",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Impossible to track application slow query in PMM on RDS Amazon",
+            "url": "https:\/\/forums.percona.com\/t\/impossible-to-track-application-slow-query-in-pmm-on-rds-amazon",
+            "date": "2024-11-05"
+        },
+        {
+            "title": "Data lost after Kubernetes pod drop",
+            "url": "https:\/\/forums.percona.com\/t\/data-lost-after-kubernetes-pod-drop",
+            "date": "2024-11-12"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-asamofal",
+    "display_name": "Anton Samofal",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/asamofal\/120\/3712_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=asamofal",
+    "github_login": null,
+    "forum_username": "asamofal",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "NUMA (Function not implemented)",
+            "url": "https:\/\/forums.percona.com\/t\/numa-function-not-implemented",
+            "date": "2024-12-28"
+        },
+        {
+            "title": "Pxb 8.4 is missing in RPM repo",
+            "url": "https:\/\/forums.percona.com\/t\/pxb-8-4-is-missing-in-rpm-repo",
+            "date": "2024-12-31"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-nvsajeeva",
+    "display_name": "Sajeeva Lakmal",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22984158?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=nvsajeeva",
+    "github_login": "nvsajeeva",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Information request: How to connect to the database",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/713",
+            "repo": "percona\/everest",
+            "date": "2024-09-24",
+            "state": "closed"
+        },
+        {
+            "title": "Stuck at Install Percona OLM Catalog",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/703",
+            "repo": "percona\/everest",
+            "date": "2024-09-19",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,70 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 31,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 31,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Update button is showing latest version 2.43.0 instead 2.43.1",
+            "url": "https:\/\/forums.percona.com\/t\/update-button-is-showing-latest-version-2-43-0-instead-2-43-1",
+            "date": "2024-10-03"
+        },
+        {
+            "title": "How to fetch the slow queries from the QAN database",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-fetch-the-slow-queries-from-the-qan-database",
+            "date": "2024-10-10"
+        },
+        {
+            "title": "PostgreSQL custom query is not working",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-custom-query-is-not-working",
+            "date": "2024-10-15"
+        },
+        {
+            "title": "Clickhouse FATAL can't find command '\/usr\/bin\/clickhouse-server'",
+            "url": "https:\/\/forums.percona.com\/t\/clickhouse-fatal-cant-find-command-usr-bin-clickhouse-server",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "QAN MariaDB Example query is trimmed",
+            "url": "https:\/\/forums.percona.com\/t\/qan-mariadb-example-query-is-trimmed",
+            "date": "2024-10-28"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "MySQL Query Performance Troubleshooting doesn't show queries",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-query-performance-troubleshooting-doesnt-show-queries\/6",
+            "date": "2024-10-08"
+        },
+        {
+            "topic_title": "We want your feedback to make PMM even better!",
+            "url": "https:\/\/forums.percona.com\/t\/we-want-your-feedback-to-make-pmm-even-better\/5",
+            "date": "2024-10-26"
+        },
+        {
+            "topic_title": "We want your feedback to make PMM even better!",
+            "url": "https:\/\/forums.percona.com\/t\/we-want-your-feedback-to-make-pmm-even-better\/7",
+            "date": "2024-10-28"
+        }
+    ],
+    "forum_solutions": []
+}

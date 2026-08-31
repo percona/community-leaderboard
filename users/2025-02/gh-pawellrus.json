@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-pawellrus",
+    "display_name": "pawellrus",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20677956?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=pawellrus",
+    "github_login": "pawellrus",
+    "forum_username": null,
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Need clarification about permissions for PBM Metrics",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1039",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-02-26",
+            "state": "closed"
+        },
+        {
+            "title": "Exporter cannot fetch collstats data since version 0.43",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1038",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-02-26",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

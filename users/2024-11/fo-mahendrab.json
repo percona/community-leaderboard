@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-mahendrab",
+    "display_name": "MahendraB",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/mahendrab\/120\/9108_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=MahendraB",
+    "github_login": null,
+    "forum_username": "MahendraB",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Using pt-osc(online schema change) in Multi-Master(Active\/Passive) environment",
+            "url": "https:\/\/forums.percona.com\/t\/using-pt-osc-online-schema-change-in-multi-master-active-passive-environment",
+            "date": "2024-11-15"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Error \/ Disconnections with pt-online-schema-change",
+            "url": "https:\/\/forums.percona.com\/t\/error-disconnections-with-pt-online-schema-change\/19",
+            "date": "2024-11-21"
+        }
+    ],
+    "forum_solutions": []
+}

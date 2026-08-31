@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-jamoser",
+    "display_name": "John Moser",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/b2d939\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jamoser",
+    "github_login": null,
+    "forum_username": "jamoser",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Running non-sharding setup with only 1 replica",
+            "url": "https:\/\/forums.percona.com\/t\/running-non-sharding-setup-with-only-1-replica",
+            "date": "2024-10-03"
+        },
+        {
+            "title": "Standard vs regional provisioned disks, for ex. GCP",
+            "url": "https:\/\/forums.percona.com\/t\/standard-vs-regional-provisioned-disks-for-ex-gcp",
+            "date": "2024-10-24"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-lobo_lobo20919",
+    "display_name": "Lobo Lobo20919",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/lobo_lobo20919\/120\/14572_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Lobo_Lobo20919",
+    "github_login": null,
+    "forum_username": "Lobo_Lobo20919",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 25,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 25,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Automation to manage users and create api keys",
+            "url": "https:\/\/forums.percona.com\/t\/automation-to-manage-users-and-create-api-keys",
+            "date": "2024-01-10"
+        },
+        {
+            "title": "Crash loop in percona operator Observed a panic in reconciler",
+            "url": "https:\/\/forums.percona.com\/t\/crash-loop-in-percona-operator-observed-a-panic-in-reconciler",
+            "date": "2024-03-21"
+        },
+        {
+            "title": "Cronjobs not created in 2.3.1",
+            "url": "https:\/\/forums.percona.com\/t\/cronjobs-not-created-in-2-3-1",
+            "date": "2024-04-08"
+        },
+        {
+            "title": "Trouble with smtp contact point in pmm 2.42.0",
+            "url": "https:\/\/forums.percona.com\/t\/trouble-with-smtp-contact-point-in-pmm-2-42-0",
+            "date": "2024-08-28"
+        },
+        {
+            "title": "Segment fault causing database to restart every minuet",
+            "url": "https:\/\/forums.percona.com\/t\/segment-fault-causing-database-to-restart-every-minuet",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

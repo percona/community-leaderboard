@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-shah_harshil_kiranku",
+    "display_name": "Shah Harshil Kirankumar .",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/shah_harshil_kiranku\/120\/19932_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Shah_Harshil_Kiranku",
+    "github_login": null,
+    "forum_username": "Shah_Harshil_Kiranku",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "My ProxySQL is getting unhealthy client connections and for that same query also get process_all_sessions() . How to fix this issue, Please help me with this ProxySQL issue",
+            "url": "https:\/\/forums.percona.com\/t\/my-proxysql-is-getting-unhealthy-client-connections-and-for-that-same-query-also-get-process-all-sessions-how-to-fix-this-issue-please-help-me-with-this-proxysql-issue",
+            "date": "2025-12-24"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Facing Connection Closure Issues with Percona MySQL and ProxySQL Load Balancing",
+            "url": "https:\/\/forums.percona.com\/t\/facing-connection-closure-issues-with-percona-mysql-and-proxysql-load-balancing\/13",
+            "date": "2025-12-29"
+        }
+    ],
+    "forum_solutions": []
+}

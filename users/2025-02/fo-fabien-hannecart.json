@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-fabien-hannecart",
+    "display_name": "Fah olome",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/fabien.hannecart\/120\/18835_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=fabien.hannecart",
+    "github_login": null,
+    "forum_username": "fabien.hannecart",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 12,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 12,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PerconaServerMongoDBRestore selective not possible in K8s with psmdb-db 1.18.0",
+            "url": "https:\/\/forums.percona.com\/t\/perconaservermongodbrestore-selective-not-possible-in-k8s-with-psmdb-db-1-18-0",
+            "date": "2025-02-04"
+        },
+        {
+            "title": "Physical restore never finish",
+            "url": "https:\/\/forums.percona.com\/t\/physical-restore-never-finish",
+            "date": "2025-02-05"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Can I put bucket path instead of bucket name in backup",
+            "url": "https:\/\/forums.percona.com\/t\/can-i-put-bucket-path-instead-of-bucket-name-in-backup\/2",
+            "date": "2025-02-05"
+        }
+    ],
+    "forum_solutions": []
+}

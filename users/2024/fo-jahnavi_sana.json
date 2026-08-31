@@ -1,0 +1,65 @@
+{
+    "user_key": "fo-jahnavi_sana",
+    "display_name": "Jahnavi Sana",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jahnavi_sana\/120\/12987_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Jahnavi_Sana",
+    "github_login": null,
+    "forum_username": "Jahnavi_Sana",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 29,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 29,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Upgrade of mongodb operator and the mongodb version",
+            "url": "https:\/\/forums.percona.com\/t\/upgrade-of-mongodb-operator-and-the-mongodb-version",
+            "date": "2024-02-02"
+        },
+        {
+            "title": "Mongodb is stuck after auto renew of certificates",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-is-stuck-after-auto-renew-of-certificates",
+            "date": "2024-02-06"
+        },
+        {
+            "title": "Regarding certificate renewal",
+            "url": "https:\/\/forums.percona.com\/t\/regarding-certificate-renewal",
+            "date": "2024-03-26"
+        },
+        {
+            "title": "Unable to delete psmdb backp",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-delete-psmdb-backp",
+            "date": "2024-05-15"
+        },
+        {
+            "title": "Error while restoring the psmdb backup",
+            "url": "https:\/\/forums.percona.com\/t\/error-while-restoring-the-psmdb-backup",
+            "date": "2024-05-17"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "How to collect metrics and ship to existing prometheus grafana setup",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-collect-metrics-and-ship-to-existing-prometheus-grafana-setup\/7",
+            "date": "2024-02-12"
+        },
+        {
+            "topic_title": "Certficates created cert-manager with own CA: cluster not starting",
+            "url": "https:\/\/forums.percona.com\/t\/certficates-created-cert-manager-with-own-ca-cluster-not-starting\/4",
+            "date": "2024-03-26"
+        }
+    ],
+    "forum_solutions": []
+}

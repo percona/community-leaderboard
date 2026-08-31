@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-liolay",
+    "display_name": "liolay",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/liolay\/120\/18215_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=liolay",
+    "github_login": null,
+    "forum_username": "liolay",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "What is \"binlog gap\" mean?",
+            "url": "https:\/\/forums.percona.com\/t\/what-is-binlog-gap-mean",
+            "date": "2024-11-26"
+        },
+        {
+            "title": "Logcollector document is not detailed enough",
+            "url": "https:\/\/forums.percona.com\/t\/logcollector-document-is-not-detailed-enough",
+            "date": "2024-11-28"
+        },
+        {
+            "title": "Why pitr should be disabled first before Restore the cluster",
+            "url": "https:\/\/forums.percona.com\/t\/why-pitr-should-be-disabled-first-before-restore-the-cluster",
+            "date": "2024-11-29"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

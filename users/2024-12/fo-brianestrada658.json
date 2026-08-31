@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-brianestrada658",
+    "display_name": "Brian Estrada",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/839c29\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=brianestrada658",
+    "github_login": null,
+    "forum_username": "brianestrada658",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona Toolkit 3.6.0 Usage Issue with MySQL Client 9.0 on Mac OS Sonoma",
+            "url": "https:\/\/forums.percona.com\/t\/percona-toolkit-3-6-0-usage-issue-with-mysql-client-9-0-on-mac-os-sonoma",
+            "date": "2024-12-06"
+        },
+        {
+            "title": "Pt-online-schema-change: MySQL Warning 1062",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-change-mysql-warning-1062",
+            "date": "2024-12-10"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

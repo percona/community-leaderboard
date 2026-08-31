@@ -1,0 +1,88 @@
+{
+    "user_key": "gh-rojinebrahimi",
+    "display_name": "Rojin Ebrahimi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/44529498?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=rojinebrahimi",
+    "github_login": "rojinebrahimi",
+    "forum_username": null,
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 185,
+    "points_github": 185,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 6,
+    "prs_created": 2,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PMM 2.44.0 \"invalid API key\" In PMM-Client",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/1370",
+            "repo": "percona\/everest",
+            "date": "2025-05-14",
+            "state": "closed"
+        },
+        {
+            "title": "Issue With pxc-init Container Permissions",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/538",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-05-06",
+            "state": "closed"
+        },
+        {
+            "title": "Issue with pg-operator Deployment Name",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/1351",
+            "repo": "percona\/everest",
+            "date": "2025-05-05",
+            "state": "closed"
+        },
+        {
+            "title": "Everest Does Not Recognize pg-operator Deployment",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/488",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-02-16",
+            "state": "closed"
+        },
+        {
+            "title": "How Can I Build The Whole Image Locally?",
+            "url": "https:\/\/github.com\/percona\/everest\/issues\/1048",
+            "repo": "percona\/everest",
+            "date": "2025-01-25",
+            "state": "open"
+        },
+        {
+            "title": "Why Cannot Namspace Name \"everest-system\" Be Changed?",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/470",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-01-15",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Remove Extra creationTimestamp:null in OLM CRD",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/468",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-01-14",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Make securityContext Optional for psmdb and pg Operators",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/466",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-01-13",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

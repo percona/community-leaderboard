@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-jon-hartley",
+    "display_name": "Jonathan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jon.hartley\/120\/22132_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jon.hartley",
+    "github_login": null,
+    "forum_username": "jon.hartley",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "I cant raise a Percona Jira even with an account",
+            "url": "https:\/\/forums.percona.com\/t\/i-cant-raise-a-percona-jira-even-with-an-account",
+            "date": "2025-09-18"
+        },
+        {
+            "title": "Xbcloud get incorrect listing on GET",
+            "url": "https:\/\/forums.percona.com\/t\/xbcloud-get-incorrect-listing-on-get",
+            "date": "2025-09-18"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

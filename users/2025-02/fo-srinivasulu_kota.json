@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-srinivasulu_kota",
+    "display_name": "Srinivasulu Kota",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/srinivasulu_kota\/120\/9886_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Srinivasulu_Kota",
+    "github_login": null,
+    "forum_username": "Srinivasulu_Kota",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 9,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 9,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Secret data changed. Updating users",
+            "url": "https:\/\/forums.percona.com\/t\/secret-data-changed-updating-users",
+            "date": "2025-02-04"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Kubernetes: PBM not working with GCS bucket",
+            "url": "https:\/\/forums.percona.com\/t\/kubernetes-pbm-not-working-with-gcs-bucket\/11",
+            "date": "2025-02-05"
+        },
+        {
+            "topic_title": "Psmdb-db-rs0 in crashloop after Upgrade",
+            "url": "https:\/\/forums.percona.com\/t\/psmdb-db-rs0-in-crashloop-after-upgrade\/11",
+            "date": "2025-02-03"
+        }
+    ],
+    "forum_solutions": []
+}

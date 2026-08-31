@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-daccetturi",
+    "display_name": "Davide",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/a9a28c\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=daccetturi",
+    "github_login": null,
+    "forum_username": "daccetturi",
+    "period": "2025-Q2",
+    "period_label": "Q2 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Unable to change disk size in Everest UI after PV resize",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-change-disk-size-in-everest-ui-after-pv-resize",
+            "date": "2025-04-13"
+        },
+        {
+            "title": "PITR pod error - context deadline exceded",
+            "url": "https:\/\/forums.percona.com\/t\/pitr-pod-error-context-deadline-exceded",
+            "date": "2025-06-24"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

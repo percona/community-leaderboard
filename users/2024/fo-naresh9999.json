@@ -1,0 +1,130 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 88,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 88,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 16,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to find most locking tables from QAN dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-find-most-locking-tables-from-qan-dashboard",
+            "date": "2024-04-30"
+        },
+        {
+            "title": "Postgresql cannot execute CREATE EXTENSION in a read-only transaction",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-cannot-execute-create-extension-in-a-read-only-transaction",
+            "date": "2024-04-30"
+        },
+        {
+            "title": "After upgrading from 2.41.1 to 2.41.2 PostgreSQL DB(Grafana DB) is empty inside PMM server container",
+            "url": "https:\/\/forums.percona.com\/t\/after-upgrading-from-2-41-1-to-2-41-2-postgresql-db-grafana-db-is-empty-inside-pmm-server-container",
+            "date": "2024-05-09"
+        },
+        {
+            "title": "QAN PostgreSQL explain plan is not user friendly like MySQL or MariaDB",
+            "url": "https:\/\/forums.percona.com\/t\/qan-postgresql-explain-plan-is-not-user-friendly-like-mysql-or-mariadb",
+            "date": "2024-07-01"
+        },
+        {
+            "title": "How can we check per process CPU utilization",
+            "url": "https:\/\/forums.percona.com\/t\/how-can-we-check-per-process-cpu-utilization",
+            "date": "2024-07-26"
+        },
+        {
+            "title": "PostgreSQL Query is trimming in the QAN dashboard",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-query-is-trimming-in-the-qan-dashboard",
+            "date": "2024-09-03"
+        },
+        {
+            "title": "PostgreSQL High CPU utilization Issue while doing load test",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-high-cpu-utilization-issue-while-doing-load-test",
+            "date": "2024-09-05"
+        },
+        {
+            "title": "Is PMM supports AlloyDB",
+            "url": "https:\/\/forums.percona.com\/t\/is-pmm-supports-alloydb",
+            "date": "2024-09-26"
+        },
+        {
+            "title": "How configure the pgbouncer wth hba auth method",
+            "url": "https:\/\/forums.percona.com\/t\/how-configure-the-pgbouncer-wth-hba-auth-method",
+            "date": "2024-09-30"
+        },
+        {
+            "title": "Update button is showing latest version 2.43.0 instead 2.43.1",
+            "url": "https:\/\/forums.percona.com\/t\/update-button-is-showing-latest-version-2-43-0-instead-2-43-1",
+            "date": "2024-10-03"
+        },
+        {
+            "title": "How to fetch the slow queries from the QAN database",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-fetch-the-slow-queries-from-the-qan-database",
+            "date": "2024-10-10"
+        },
+        {
+            "title": "PostgreSQL custom query is not working",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-custom-query-is-not-working",
+            "date": "2024-10-15"
+        },
+        {
+            "title": "Clickhouse FATAL can't find command '\/usr\/bin\/clickhouse-server'",
+            "url": "https:\/\/forums.percona.com\/t\/clickhouse-fatal-cant-find-command-usr-bin-clickhouse-server",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "QAN MariaDB Example query is trimmed",
+            "url": "https:\/\/forums.percona.com\/t\/qan-mariadb-example-query-is-trimmed",
+            "date": "2024-10-28"
+        },
+        {
+            "title": "QAN does not show the PostgreSQL queries with Full Table scan",
+            "url": "https:\/\/forums.percona.com\/t\/qan-does-not-show-the-postgresql-queries-with-full-table-scan",
+            "date": "2024-11-06"
+        },
+        {
+            "title": "Unfortunately, PMM2 Data Source Default is unchecked",
+            "url": "https:\/\/forums.percona.com\/t\/unfortunately-pmm2-data-source-default-is-unchecked",
+            "date": "2024-11-13"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "In Query Analytics, the same statement executed in different databases will only be counted once",
+            "url": "https:\/\/forums.percona.com\/t\/in-query-analytics-the-same-statement-executed-in-different-databases-will-only-be-counted-once\/11",
+            "date": "2024-05-06"
+        },
+        {
+            "topic_title": "MySQL Query Performance Troubleshooting doesn't show queries",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-query-performance-troubleshooting-doesnt-show-queries\/6",
+            "date": "2024-10-08"
+        },
+        {
+            "topic_title": "We want your feedback to make PMM even better!",
+            "url": "https:\/\/forums.percona.com\/t\/we-want-your-feedback-to-make-pmm-even-better\/5",
+            "date": "2024-10-26"
+        },
+        {
+            "topic_title": "We want your feedback to make PMM even better!",
+            "url": "https:\/\/forums.percona.com\/t\/we-want-your-feedback-to-make-pmm-even-better\/7",
+            "date": "2024-10-28"
+        }
+    ],
+    "forum_solutions": []
+}

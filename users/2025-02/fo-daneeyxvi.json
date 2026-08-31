@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-daneeyxvi",
+    "display_name": "Danielle Anne De Guzman",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/6f9a4e\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=daneeyxvi",
+    "github_login": null,
+    "forum_username": "daneeyxvi",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Can't Bootstrap the Node. Upgrade from Percona Xtradb Cluster 5.7 to 8.0",
+            "url": "https:\/\/forums.percona.com\/t\/cant-bootstrap-the-node-upgrade-from-percona-xtradb-cluster-5-7-to-8-0",
+            "date": "2025-02-06"
+        },
+        {
+            "title": "Looking for Percona 5.7.41-44",
+            "url": "https:\/\/forums.percona.com\/t\/looking-for-percona-5-7-41-44",
+            "date": "2025-02-12"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

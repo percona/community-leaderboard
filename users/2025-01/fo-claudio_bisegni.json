@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-claudio_bisegni",
+    "display_name": "Claudio Bisegni",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/claudio_bisegni\/120\/13488_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Claudio_Bisegni",
+    "github_login": null,
+    "forum_username": "Claudio_Bisegni",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Get metrics from percona backup mongodb to use grafana to monitor it",
+            "url": "https:\/\/forums.percona.com\/t\/get-metrics-from-percona-backup-mongodb-to-use-grafana-to-monitor-it",
+            "date": "2025-01-22"
+        },
+        {
+            "title": "Error on secret not found upgrading to operator 1.19.0",
+            "url": "https:\/\/forums.percona.com\/t\/error-on-secret-not-found-upgrading-to-operator-1-19-0",
+            "date": "2025-01-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

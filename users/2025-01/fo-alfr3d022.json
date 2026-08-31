@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-alfr3d022",
+    "display_name": "Alfredo",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/f08c70\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ALFR3D022",
+    "github_login": null,
+    "forum_username": "ALFR3D022",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM Agent error",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-agent-error",
+            "date": "2025-01-16"
+        },
+        {
+            "title": "XtraBackup 8.0 not compatible",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-8-0-not-compatible",
+            "date": "2025-01-21"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

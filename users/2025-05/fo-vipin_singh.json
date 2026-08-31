@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-vipin_singh",
+    "display_name": "Vipin Singh",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/vipin_singh\/120\/20874_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Vipin_Singh",
+    "github_login": null,
+    "forum_username": "Vipin_Singh",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Title: Issue with percona-release on BOSS GNU\/Linux 10 (Pragya): Unsupported Operating System",
+            "url": "https:\/\/forums.percona.com\/t\/title-issue-with-percona-release-on-boss-gnu-linux-10-pragya-unsupported-operating-system",
+            "date": "2025-05-01"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

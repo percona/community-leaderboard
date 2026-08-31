@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-dcaputo-harmoni",
+    "display_name": "dcaputo-harmoni",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65166251?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=dcaputo-harmoni",
+    "github_login": "dcaputo-harmoni",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 60,
+    "points_github": 60,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Restore fails using Azure storage with message \"no info files in sst dir\"",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/1812",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-09-01",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "GITHUB-ISSUE-1812: Fix azure storage restore by removing hardcoded trailing slash",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1813",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-09-01",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "GITHUB-ISSUE-1810: Fix newline in last set filename",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1811",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-09-01",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

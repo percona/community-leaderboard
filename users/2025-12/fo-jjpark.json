@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-jjpark",
+    "display_name": "재진 박",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jjpark\/120\/22812_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jjpark",
+    "github_login": null,
+    "forum_username": "jjpark",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pmm-client cannot connect to pmm3.0",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-client-cannot-connect-to-pmm3-0",
+            "date": "2025-12-16"
+        },
+        {
+            "title": "Using everest deploying pg error",
+            "url": "https:\/\/forums.percona.com\/t\/using-everest-deploying-pg-error",
+            "date": "2025-12-16"
+        },
+        {
+            "title": "How to monitor mongodb using pmm running on external host",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-monitor-mongodb-using-pmm-running-on-external-host",
+            "date": "2025-12-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

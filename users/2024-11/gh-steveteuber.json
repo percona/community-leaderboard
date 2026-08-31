@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-steveteuber",
+    "display_name": "Steve Teuber",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/326565?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=steveteuber",
+    "github_login": "steveteuber",
+    "forum_username": null,
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 125,
+    "points_github": 125,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Just run the tests",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/946",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-11-04",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Add shard label in collstats metrics",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/942",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-11-01",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-akshaysuryawanshi",
+    "display_name": "Akshay Suryawanshi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4044131?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=akshaysuryawanshi",
+    "github_login": "akshaysuryawanshi",
+    "forum_username": null,
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 50,
+    "points_github": 50,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Add configurable Gap Lock support to MyRocks",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/5706",
+            "repo": "percona\/percona-server",
+            "date": "2025-09-16",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "PS-10098 Configurable Gap Lock Detection for MyRocks",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/5675",
+            "repo": "percona\/percona-server",
+            "date": "2025-07-27",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

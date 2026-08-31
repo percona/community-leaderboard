@@ -1,0 +1,69 @@
+{
+    "user_key": "fo-idan_ahal",
+    "display_name": "Idan Ahal",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/idan_ahal\/120\/13477_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Idan_Ahal",
+    "github_login": null,
+    "forum_username": "Idan_Ahal",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 8,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Adjusting redo log capacity to the right size",
+            "url": "https:\/\/forums.percona.com\/t\/adjusting-redo-log-capacity-to-the-right-size",
+            "date": "2024-07-03"
+        },
+        {
+            "title": "Percona toolkit find where load is coming from",
+            "url": "https:\/\/forums.percona.com\/t\/percona-toolkit-find-where-load-is-coming-from",
+            "date": "2024-08-20"
+        },
+        {
+            "title": "Pt-query-digest does not group queries",
+            "url": "https:\/\/forums.percona.com\/t\/pt-query-digest-does-not-group-queries",
+            "date": "2024-08-21"
+        },
+        {
+            "title": "Analyze MySQL load with Percona toolkit pt-query-digest",
+            "url": "https:\/\/forums.percona.com\/t\/analyze-mysql-load-with-percona-toolkit-pt-query-digest",
+            "date": "2024-08-25"
+        },
+        {
+            "title": "Understanding --limit in percona toolkit pt-query-digest",
+            "url": "https:\/\/forums.percona.com\/t\/understanding-limit-in-percona-toolkit-pt-query-digest",
+            "date": "2024-08-28"
+        },
+        {
+            "title": "Can pt-query-digest work if I log slow queries to table?",
+            "url": "https:\/\/forums.percona.com\/t\/can-pt-query-digest-work-if-i-log-slow-queries-to-table",
+            "date": "2024-09-01"
+        },
+        {
+            "title": "Why I see so many \"ROLLBACK\" in slow log",
+            "url": "https:\/\/forums.percona.com\/t\/why-i-see-so-many-rollback-in-slow-log",
+            "date": "2024-12-11"
+        },
+        {
+            "title": "Sanitizing pt-query-digest output",
+            "url": "https:\/\/forums.percona.com\/t\/sanitizing-pt-query-digest-output",
+            "date": "2024-12-25"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

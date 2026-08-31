@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-dhivya",
+    "display_name": "Dhivya",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/73ab20\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Dhivya",
+    "github_login": null,
+    "forum_username": "Dhivya",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Mongos seems to be down in percona but actually the node is up and serveice is running",
+            "url": "https:\/\/forums.percona.com\/t\/mongos-seems-to-be-down-in-percona-but-actually-the-node-is-up-and-serveice-is-running",
+            "date": "2025-04-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,59 @@
+{
+    "user_key": "fo-virin_t",
+    "display_name": "itiswhatitis",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/v\/b38774\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=virin_t",
+    "github_login": null,
+    "forum_username": "virin_t",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 30,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 30,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 6,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona mysql 8.0.34 packaged needed",
+            "url": "https:\/\/forums.percona.com\/t\/percona-mysql-8-0-34-packaged-needed",
+            "date": "2024-04-08"
+        },
+        {
+            "title": "Recommended pt-toolkit for percona mysql 8.0.34",
+            "url": "https:\/\/forums.percona.com\/t\/recommended-pt-toolkit-for-percona-mysql-8-0-34",
+            "date": "2024-07-30"
+        },
+        {
+            "title": "Pt-online-schema-change - failed with \"Cannot determine the key_len of the chunk index\"",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-change-failed-with-cannot-determine-the-key-len-of-the-chunk-index",
+            "date": "2024-08-21"
+        },
+        {
+            "title": "Number of rows drastically increased of upgrade to Percona MySQL 8.0.34",
+            "url": "https:\/\/forums.percona.com\/t\/number-of-rows-drastically-increased-of-upgrade-to-percona-mysql-8-0-34",
+            "date": "2024-09-17"
+        },
+        {
+            "title": "Xtrabackup in Percona for MySQL 8.0.34",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-in-percona-for-mysql-8-0-34",
+            "date": "2024-09-30"
+        },
+        {
+            "title": "QAN not showing any data in PMM2 x Percona MySQL 8.0.34",
+            "url": "https:\/\/forums.percona.com\/t\/qan-not-showing-any-data-in-pmm2-x-percona-mysql-8-0-34",
+            "date": "2024-11-07"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

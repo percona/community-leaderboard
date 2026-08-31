@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-idan_ahal",
+    "display_name": "Idan Ahal",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/idan_ahal\/120\/13477_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Idan_Ahal",
+    "github_login": null,
+    "forum_username": "Idan_Ahal",
+    "period": "2024-12",
+    "period_label": "December 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Why I see so many \"ROLLBACK\" in slow log",
+            "url": "https:\/\/forums.percona.com\/t\/why-i-see-so-many-rollback-in-slow-log",
+            "date": "2024-12-11"
+        },
+        {
+            "title": "Sanitizing pt-query-digest output",
+            "url": "https:\/\/forums.percona.com\/t\/sanitizing-pt-query-digest-output",
+            "date": "2024-12-25"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

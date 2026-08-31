@@ -1,0 +1,69 @@
+{
+    "user_key": "fo-pramod_kumar_gupta",
+    "display_name": "Pramod Kumar Gupta",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pramod_kumar_gupta\/120\/19488_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Pramod_Kumar_Gupta",
+    "github_login": null,
+    "forum_username": "Pramod_Kumar_Gupta",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 40,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 40,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 8,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Ready, write latency mongodb",
+            "url": "https:\/\/forums.percona.com\/t\/ready-write-latency-mongodb",
+            "date": "2025-02-05"
+        },
+        {
+            "title": "Percona 3 ppm-server error",
+            "url": "https:\/\/forums.percona.com\/t\/percona-3-ppm-server-error",
+            "date": "2025-02-12"
+        },
+        {
+            "title": "Upgrade pmm-2-client to pmm3-client",
+            "url": "https:\/\/forums.percona.com\/t\/upgrade-pmm-2-client-to-pmm3-client",
+            "date": "2025-02-13"
+        },
+        {
+            "title": "Where to find these these in mongodb monitoring in pmm dashboards",
+            "url": "https:\/\/forums.percona.com\/t\/where-to-find-these-these-in-mongodb-monitoring-in-pmm-dashboards",
+            "date": "2025-02-14"
+        },
+        {
+            "title": "Percona 3 watch tower",
+            "url": "https:\/\/forums.percona.com\/t\/percona-3-watch-tower",
+            "date": "2025-02-17"
+        },
+        {
+            "title": "Alert Message in PMM",
+            "url": "https:\/\/forums.percona.com\/t\/alert-message-in-pmm",
+            "date": "2025-02-18"
+        },
+        {
+            "title": "Extract value form alert",
+            "url": "https:\/\/forums.percona.com\/t\/extract-value-form-alert",
+            "date": "2025-02-19"
+        },
+        {
+            "title": "Default notification template code",
+            "url": "https:\/\/forums.percona.com\/t\/default-notification-template-code",
+            "date": "2025-02-20"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

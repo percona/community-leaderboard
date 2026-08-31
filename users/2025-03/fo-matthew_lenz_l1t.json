@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-matthew_lenz_l1t",
+    "display_name": "Matthew Lenz (L1T)",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/matthew_lenz_l1t\/120\/19302_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Matthew_Lenz_L1T",
+    "github_login": null,
+    "forum_username": "Matthew_Lenz_L1T",
+    "period": "2025-03",
+    "period_label": "March 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Finding statement based replication in the binlog vs row based",
+            "url": "https:\/\/forums.percona.com\/t\/finding-statement-based-replication-in-the-binlog-vs-row-based",
+            "date": "2025-03-27"
+        },
+        {
+            "title": "App armor changes during recent update",
+            "url": "https:\/\/forums.percona.com\/t\/app-armor-changes-during-recent-update",
+            "date": "2025-03-29"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-berkan",
+    "display_name": "Berkan Özgür",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/b\/d6d6ee\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=berkan",
+    "github_login": null,
+    "forum_username": "berkan",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "MongoDB Remote Backup",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-remote-backup",
+            "date": "2025-02-03"
+        },
+        {
+            "title": "About MongoDB Incremental Backup",
+            "url": "https:\/\/forums.percona.com\/t\/about-mongodb-incremental-backup",
+            "date": "2025-02-13"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-fideloper",
+    "display_name": "Chris Fidao",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/467411?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=fideloper",
+    "github_login": "fideloper",
+    "forum_username": null,
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Proxysql auto-generated password for `proxysqladmin` can start with an invalid character",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/1961",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-01-29",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPXC-1616 first char of a proxyadmin user password must not be a * ",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1962",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-01-29",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

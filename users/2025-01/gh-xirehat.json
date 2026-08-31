@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-xirehat",
+    "display_name": "Mohammad Amin Taheri",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/179973580?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=xirehat",
+    "github_login": "xirehat",
+    "forum_username": null,
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 110,
+    "points_github": 110,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PS-Operator cannot create ps-db-mysql and ps-db-orc StatefulSet when Resource Quota is enabled.",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/issues\/460",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2025-01-02",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPS-388: fix resources amount when resource quota is enabled",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/pull\/806",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2025-01-15",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-judasz121",
+    "display_name": "Judas",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/56927621?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Judasz121",
+    "github_login": "Judasz121",
+    "forum_username": null,
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Links at percona-monitoring-and-management-300-beta-has-been-released lead to 404",
+            "url": "https:\/\/github.com\/percona\/docs-home\/issues\/55",
+            "repo": "percona\/docs-home",
+            "date": "2025-01-17",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

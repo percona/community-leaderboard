@@ -1,0 +1,59 @@
+{
+    "user_key": "gh-kajot-dev",
+    "display_name": "Jakub Jaruszewski",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/17925111?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Kajot-dev",
+    "github_login": "Kajot-dev",
+    "forum_username": null,
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 130,
+    "points_github": 130,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 3,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "[2.8.0] Operator panics if proxy section is not defined",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1367",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-11-20",
+            "state": "closed"
+        },
+        {
+            "title": "Patroni Version check does not respect default images defined in env variables",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1148",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-05-08",
+            "state": "closed"
+        },
+        {
+            "title": "Operator panics when scheduling a backup if crVersion is not present",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1147",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-05-08",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPG-792 Make patroni check check respect default image settings",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1167",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2025-06-10",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

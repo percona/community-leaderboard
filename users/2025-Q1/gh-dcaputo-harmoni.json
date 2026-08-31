@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-dcaputo-harmoni",
+    "display_name": "dcaputo-harmoni",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/65166251?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=dcaputo-harmoni",
+    "github_login": "dcaputo-harmoni",
+    "forum_username": null,
+    "period": "2025-Q1",
+    "period_label": "Q1 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 75,
+    "points_github": 75,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Allow proxysql entrypoint to work with helm config",
+            "url": "https:\/\/github.com\/percona\/percona-docker\/pull\/1065",
+            "repo": "percona\/percona-docker",
+            "date": "2024-11-30",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPXC-1542: Fix Azure binlog upload for large files",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/1848",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2024-10-16",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPG-702: Fix pod exec failing intermittently with retry logic",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/926",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2024-10-10",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

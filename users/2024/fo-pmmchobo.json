@@ -1,0 +1,89 @@
+{
+    "user_key": "fo-pmmchobo",
+    "display_name": "chobo",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/p\/5f8ce5\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pmmChobo",
+    "github_login": null,
+    "forum_username": "pmmChobo",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 60,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 60,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 12,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "The node that has already been deleted is shown in grafana node list",
+            "url": "https:\/\/forums.percona.com\/t\/the-node-that-has-already-been-deleted-is-shown-in-grafana-node-list",
+            "date": "2024-01-04"
+        },
+        {
+            "title": "Separating users by node",
+            "url": "https:\/\/forums.percona.com\/t\/separating-users-by-node",
+            "date": "2024-01-09"
+        },
+        {
+            "title": "I'd like to download the dashboard json file",
+            "url": "https:\/\/forums.percona.com\/t\/id-like-to-download-the-dashboard-json-file",
+            "date": "2024-01-11"
+        },
+        {
+            "title": "Pmm dashboard data and query data",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-dashboard-data-and-query-data",
+            "date": "2024-01-18"
+        },
+        {
+            "title": "Change time UTC to KST",
+            "url": "https:\/\/forums.percona.com\/t\/change-time-utc-to-kst",
+            "date": "2024-02-26"
+        },
+        {
+            "title": "Install pmm in kubernetes",
+            "url": "https:\/\/forums.percona.com\/t\/install-pmm-in-kubernetes",
+            "date": "2024-03-29"
+        },
+        {
+            "title": "Pmm backup issue",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-backup-issue",
+            "date": "2024-04-17"
+        },
+        {
+            "title": "Pmm xbcloud backup test",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-xbcloud-backup-test",
+            "date": "2024-06-03"
+        },
+        {
+            "title": "Pmm mysql backup",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-mysql-backup",
+            "date": "2024-06-04"
+        },
+        {
+            "title": "Pmm restore error occured",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-restore-error-occured",
+            "date": "2024-06-10"
+        },
+        {
+            "title": "How PMM node and service match",
+            "url": "https:\/\/forums.percona.com\/t\/how-pmm-node-and-service-match",
+            "date": "2024-06-12"
+        },
+        {
+            "title": "Pmm \/src\/logs Delete cycle",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-src-logs-delete-cycle",
+            "date": "2024-08-26"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

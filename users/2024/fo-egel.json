@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-egel",
+    "display_name": "Evgeni",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/e36b37\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=egel",
+    "github_login": null,
+    "forum_username": "egel",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 25,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 25,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Which version of percona sever for mysql should I use for production",
+            "url": "https:\/\/forums.percona.com\/t\/which-version-of-percona-sever-for-mysql-should-i-use-for-production",
+            "date": "2024-01-10"
+        },
+        {
+            "title": "Percona server 8.0.35-27 crash on temporary tables",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-8-0-35-27-crash-on-temporary-tables",
+            "date": "2024-02-05"
+        },
+        {
+            "title": "Group replication slow down existing asynchronous replication",
+            "url": "https:\/\/forums.percona.com\/t\/group-replication-slow-down-existing-asynchronous-replication",
+            "date": "2024-02-20"
+        },
+        {
+            "title": "Performance of the asynchronous replication",
+            "url": "https:\/\/forums.percona.com\/t\/performance-of-the-asynchronous-replication",
+            "date": "2024-03-07"
+        },
+        {
+            "title": "MySQL Replication Summary, PMM",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-replication-summary-pmm",
+            "date": "2024-07-26"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

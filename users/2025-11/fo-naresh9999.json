@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2025-11",
+    "period_label": "November 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PostgreSQL:PMM agent queries are consuming more CPU's",
+            "url": "https:\/\/forums.percona.com\/t\/postgresql-pmm-agent-queries-are-consuming-more-cpus",
+            "date": "2025-11-18"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Choose a monitoring extension pg_stat_monitor",
+            "url": "https:\/\/forums.percona.com\/t\/choose-a-monitoring-extension-pg-stat-monitor\/3",
+            "date": "2025-11-18"
+        }
+    ],
+    "forum_solutions": []
+}

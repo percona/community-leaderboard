@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-sqlcaesar",
+    "display_name": "SQLCaesar",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/9fc348\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=SQLCaesar",
+    "github_login": null,
+    "forum_username": "SQLCaesar",
+    "period": "2025-11",
+    "period_label": "November 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 25,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Handling concurrent writes on multiple nodes without coordination",
+            "url": "https:\/\/forums.percona.com\/t\/handling-concurrent-writes-on-multiple-nodes-without-coordination",
+            "date": "2025-11-10"
+        },
+        {
+            "title": "Impact of large write transactions on cluster performance and stability",
+            "url": "https:\/\/forums.percona.com\/t\/impact-of-large-write-transactions-on-cluster-performance-and-stability",
+            "date": "2025-11-11"
+        },
+        {
+            "title": "What is the difference between MyISAM and InnoDB tables?",
+            "url": "https:\/\/forums.percona.com\/t\/what-is-the-difference-between-myisam-and-innodb-tables",
+            "date": "2025-11-13"
+        },
+        {
+            "title": "Impact of large write transactions on cluster performance",
+            "url": "https:\/\/forums.percona.com\/t\/impact-of-large-write-transactions-on-cluster-performance",
+            "date": "2025-11-17"
+        },
+        {
+            "title": "Network latency, delays, and related factors",
+            "url": "https:\/\/forums.percona.com\/t\/network-latency-delays-and-related-factors",
+            "date": "2025-11-20"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

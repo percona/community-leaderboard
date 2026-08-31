@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-geert",
+    "display_name": "Geert",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/g\/848f3c\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Geert",
+    "github_login": null,
+    "forum_username": "Geert",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PMM3.3.1 in Open Virtual Appliance: Failed to send test alert.: SMTP not configured, check your grafana.ini config file's [SMTP] section",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-3-1-in-open-virtual-appliance-failed-to-send-test-alert-smtp-not-configured-check-your-grafana-ini-config-files-smtp-section",
+            "date": "2025-09-02"
+        },
+        {
+            "title": "PMM3.3.1 Alert rule templates for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-3-1-alert-rule-templates-for-mongodb",
+            "date": "2025-09-04"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

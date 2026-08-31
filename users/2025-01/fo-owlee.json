@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-owlee",
+    "display_name": "Seb G",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/owlee\/120\/16279_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=owlee",
+    "github_login": null,
+    "forum_username": "owlee",
+    "period": "2025-01",
+    "period_label": "January 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pods occasionally fail readiness check, can't find out why, but cluster otherwise works?",
+            "url": "https:\/\/forums.percona.com\/t\/pods-occasionally-fail-readiness-check-cant-find-out-why-but-cluster-otherwise-works",
+            "date": "2025-01-07"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Mongo pods constantly restart due to failed liveness probe",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-pods-constantly-restart-due-to-failed-liveness-probe\/10",
+            "date": "2025-01-09"
+        }
+    ],
+    "forum_solutions": []
+}

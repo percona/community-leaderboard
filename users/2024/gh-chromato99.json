@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-chromato99",
+    "display_name": "Beomgi Kim | 김범기",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20539422?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=chromato99",
+    "github_login": "chromato99",
+    "forum_username": null,
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 200,
+    "points_github": 200,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Fix some option notations",
+            "url": "https:\/\/github.com\/percona\/pxb-docs\/pull\/252",
+            "repo": "percona\/pxb-docs",
+            "date": "2024-02-28",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Fix typo on create-full-backup.md",
+            "url": "https:\/\/github.com\/percona\/pxb-docs\/pull\/251",
+            "repo": "percona\/pxb-docs",
+            "date": "2024-02-21",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,64 @@
+{
+    "user_key": "fo-midson",
+    "display_name": "midson",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/f14d63\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=midson",
+    "github_login": null,
+    "forum_username": "midson",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 35,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 35,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Replace Percona MySQL Server with MySQL Community Server",
+            "url": "https:\/\/forums.percona.com\/t\/replace-percona-mysql-server-with-mysql-community-server",
+            "date": "2024-04-25"
+        },
+        {
+            "title": "Selection of Proxy & Replication",
+            "url": "https:\/\/forums.percona.com\/t\/selection-of-proxy-replication",
+            "date": "2024-05-13"
+        },
+        {
+            "title": "Migration between Percona MySQL <=> Oracle MySQL",
+            "url": "https:\/\/forums.percona.com\/t\/migration-between-percona-mysql-oracle-mysql",
+            "date": "2024-05-14"
+        },
+        {
+            "title": "Single StatefulSet for all replica",
+            "url": "https:\/\/forums.percona.com\/t\/single-statefulset-for-all-replica",
+            "date": "2024-06-24"
+        },
+        {
+            "title": "Run only on MySQL Secondary",
+            "url": "https:\/\/forums.percona.com\/t\/run-only-on-mysql-secondary",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "Restore strategy",
+            "url": "https:\/\/forums.percona.com\/t\/restore-strategy",
+            "date": "2024-06-25"
+        },
+        {
+            "title": "MySQL Operator Log Verbosity",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-operator-log-verbosity",
+            "date": "2024-07-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

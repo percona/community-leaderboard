@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-rajbahadurgupta",
+    "display_name": "rajbahadurgupta",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/8c91f0\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=rajbahadurgupta",
+    "github_login": null,
+    "forum_username": "rajbahadurgupta",
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "While setting Pmm-Client3 using docker getting below error",
+            "url": "https:\/\/forums.percona.com\/t\/while-setting-pmm-client3-using-docker-getting-below-error",
+            "date": "2025-07-03"
+        },
+        {
+            "title": "I m getting below error while Adding RDS server in PMM3 for monitoring",
+            "url": "https:\/\/forums.percona.com\/t\/i-m-getting-below-error-while-adding-rds-server-in-pmm3-for-monitoring",
+            "date": "2025-08-07"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,69 @@
+{
+    "user_key": "fo-pranith",
+    "display_name": "Pranith",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pranith\/120\/20123_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Pranith",
+    "github_login": null,
+    "forum_username": "Pranith",
+    "period": "2025-02",
+    "period_label": "February 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 16,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 16,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 8,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/5",
+            "date": "2025-02-12"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/8",
+            "date": "2025-02-13"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/9",
+            "date": "2025-02-13"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/10",
+            "date": "2025-02-17"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/12",
+            "date": "2025-02-17"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/13",
+            "date": "2025-02-22"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/14",
+            "date": "2025-02-27"
+        },
+        {
+            "topic_title": "[GSoC 2025] Interested in contributing to the PBM project",
+            "url": "https:\/\/forums.percona.com\/t\/gsoc-2025-interested-in-contributing-to-the-pbm-project\/16",
+            "date": "2025-02-27"
+        }
+    ],
+    "forum_solutions": []
+}

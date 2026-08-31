@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-the-wunmi",
+    "display_name": "Adewunmi Akinsanya",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/12461844?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=the-wunmi",
+    "github_login": "the-wunmi",
+    "forum_username": null,
+    "period": "2025-08",
+    "period_label": "August 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 75,
+    "points_github": 75,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 3,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Backup: Replace deprecated qpress with configurable compression options",
+            "url": "https:\/\/github.com\/Percona-Lab\/pmm-submodules\/pull\/4010",
+            "repo": "Percona-Lab\/pmm-submodules",
+            "date": "2025-08-10",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Backup: Replace deprecated qpress with configurable compression options",
+            "url": "https:\/\/github.com\/percona\/grafana\/pull\/839",
+            "repo": "percona\/grafana",
+            "date": "2025-08-10",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "feat: Replace deprecated qpress with configurable compression options for backups",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/4340",
+            "repo": "percona\/pmm",
+            "date": "2025-08-10",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-rsodhia",
+    "display_name": "rsodhia",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/2acd7d\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=rsodhia",
+    "github_login": null,
+    "forum_username": "rsodhia",
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Connecting XtraBackup in docker to a container running in compose",
+            "url": "https:\/\/forums.percona.com\/t\/connecting-xtrabackup-in-docker-to-a-container-running-in-compose",
+            "date": "2025-07-22"
+        },
+        {
+            "title": "Restoring DB is resulting in errors",
+            "url": "https:\/\/forums.percona.com\/t\/restoring-db-is-resulting-in-errors",
+            "date": "2025-07-28"
+        },
+        {
+            "title": "Prepare seems to fail",
+            "url": "https:\/\/forums.percona.com\/t\/prepare-seems-to-fail",
+            "date": "2025-07-29"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-pkm2112",
+    "display_name": "pkm2112",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pkm2112\/120\/21433_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pkm2112",
+    "github_login": null,
+    "forum_username": "pkm2112",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Tarball not found for mysql XtraDB cluster 8.4.6",
+            "url": "https:\/\/forums.percona.com\/t\/tarball-not-found-for-mysql-xtradb-cluster-8-4-6",
+            "date": "2025-10-28"
+        },
+        {
+            "title": "Unable to join node to Percona XtraDB Cluster 8.4.6",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-join-node-to-percona-xtradb-cluster-8-4-6",
+            "date": "2025-10-31"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

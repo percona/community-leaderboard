@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-chaerring",
+    "display_name": "chaerring",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/chaerring\/120\/20365_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=chaerring",
+    "github_login": null,
+    "forum_username": "chaerring",
+    "period": "2025-03",
+    "period_label": "March 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user",
+            "date": "2025-03-04"
+        },
+        {
+            "title": "Comparing pmm-agent config to pmm-admin config",
+            "url": "https:\/\/forums.percona.com\/t\/comparing-pmm-agent-config-to-pmm-admin-config",
+            "date": "2025-03-26"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

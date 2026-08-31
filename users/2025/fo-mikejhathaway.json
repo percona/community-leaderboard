@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-mikejhathaway",
+    "display_name": "Mike Hathaway",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/ecc23a\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=mikejhathaway",
+    "github_login": null,
+    "forum_username": "mikejhathaway",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Change location of Percona XtraDB",
+            "url": "https:\/\/forums.percona.com\/t\/change-location-of-percona-xtradb",
+            "date": "2025-04-24"
+        },
+        {
+            "title": "Percona 8.4 installation documentation",
+            "url": "https:\/\/forums.percona.com\/t\/percona-8-4-installation-documentation",
+            "date": "2025-07-16"
+        },
+        {
+            "title": "Is XtraBackup required for ever Percona XtraDB Cluster Member?",
+            "url": "https:\/\/forums.percona.com\/t\/is-xtrabackup-required-for-ever-percona-xtradb-cluster-member",
+            "date": "2025-07-16"
+        },
+        {
+            "title": "ProxySQL2 instllation guidance",
+            "url": "https:\/\/forums.percona.com\/t\/proxysql2-instllation-guidance",
+            "date": "2025-07-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

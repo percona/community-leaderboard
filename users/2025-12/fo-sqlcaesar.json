@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-sqlcaesar",
+    "display_name": "SQLCaesar",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/9fc348\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=SQLCaesar",
+    "github_login": null,
+    "forum_username": "SQLCaesar",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PXC backup and restore workflow",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-backup-and-restore-workflow",
+            "date": "2025-12-05"
+        },
+        {
+            "title": "How is backup consistency guaranteed and checked in PXC?",
+            "url": "https:\/\/forums.percona.com\/t\/how-is-backup-consistency-guaranteed-and-checked-in-pxc",
+            "date": "2025-12-16"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-_chandrika_pokuri",
+    "display_name": " Chandrika Pokuri",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/_chandrika_pokuri\/120\/18745_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=_Chandrika_Pokuri",
+    "github_login": null,
+    "forum_username": "_Chandrika_Pokuri",
+    "period": "2024-11",
+    "period_label": "November 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Issue On PBM Backup",
+            "url": "https:\/\/forums.percona.com\/t\/issue-on-pbm-backup",
+            "date": "2024-11-03"
+        },
+        {
+            "title": "MongoDB service failed with an Abort6 error on version 3.6.13",
+            "url": "https:\/\/forums.percona.com\/t\/mongodb-service-failed-with-an-abort6-error-on-version-3-6-13",
+            "date": "2024-11-21"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

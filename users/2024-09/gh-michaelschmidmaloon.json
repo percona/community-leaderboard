@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-michaelschmidmaloon",
+    "display_name": "michaelSchmidMaloon",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/98623770?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=michaelSchmidMaloon",
+    "github_login": "michaelSchmidMaloon",
+    "forum_username": null,
+    "period": "2024-09",
+    "period_label": "September 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "psmdb-backup irregularly fails to complete due to various reasons",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1637",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2024-09-02",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

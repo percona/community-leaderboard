@@ -1,0 +1,76 @@
+{
+    "user_key": "gh-linpr",
+    "display_name": "Lin",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/56944601?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=LinPr",
+    "github_login": "LinPr",
+    "forum_username": null,
+    "period": "2025-08",
+    "period_label": "August 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 120,
+    "points_github": 120,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 4,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Bug report  of checkNamespacesForViews function",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1144",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-13",
+            "state": "open"
+        },
+        {
+            "title": "The instance label has a collision with the prometheus hidden label",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1143",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-12",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix: Skip the non-exist namespaces when there are multiple mongo instance metrics to scrape",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1146",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-13",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Fix: Skip the non-exist namespaces when there are multiple mongo instance metrics to scrape",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1145",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-13",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "CHORE: Support build docker image locally with make docker-build command",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1138",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-11",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Fix: Make the case []interface{} processed consist with the case primitve.A",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1135",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-08-08",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

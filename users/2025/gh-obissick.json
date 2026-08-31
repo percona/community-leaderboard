@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-obissick",
+    "display_name": "Oren Bissick",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16389074?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=obissick",
+    "github_login": "obissick",
+    "forum_username": null,
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 200,
+    "points_github": 200,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Modify feature compatibility command for 8.0",
+            "url": "https:\/\/github.com\/percona\/psmdb-docs\/pull\/1063",
+            "repo": "percona\/psmdb-docs",
+            "date": "2025-09-30",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Update disadvantages section for point-in-time recovery",
+            "url": "https:\/\/github.com\/percona\/pbm-docs\/pull\/304",
+            "repo": "percona\/pbm-docs",
+            "date": "2025-09-23",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

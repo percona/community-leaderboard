@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-notandd",
+    "display_name": "Andrea Dolfi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/14574992?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=NotAndD",
+    "github_login": "NotAndD",
+    "forum_username": null,
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Backup procedure can fail when Istio is in the cluster, probably related to timings on sending sst_info from the donor",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2217",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-10-21",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPXC-1732 Change ordering of operations in backup scripts to begin listening for SST earlier",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2221",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2025-10-23",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

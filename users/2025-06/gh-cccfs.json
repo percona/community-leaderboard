@@ -1,0 +1,60 @@
+{
+    "user_key": "gh-cccfs",
+    "display_name": "cccfs",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/73505347?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=cccfs",
+    "github_login": "cccfs",
+    "forum_username": null,
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 70,
+    "points_github": 70,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Support snapshot backup with restore",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1980",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-25",
+            "state": "closed"
+        },
+        {
+            "title": "Support separate mounting of data, journal logs, and running logs using multiple PVC files",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/1959",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-05",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "feat: support containers env paramater setting",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/1987",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-30",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Fix < 1.20.0 version physical restore error",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/1972",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2025-06-19",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-naresh9999",
+    "display_name": "Naresh9999",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/naresh9999\/120\/5568_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Naresh9999",
+    "github_login": null,
+    "forum_username": "Naresh9999",
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 6,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 6,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Pmm v3 update not possible",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-v3-update-not-possible\/12",
+            "date": "2025-07-10"
+        },
+        {
+            "topic_title": "Pmm v3 update not possible",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-v3-update-not-possible\/14",
+            "date": "2025-07-11"
+        },
+        {
+            "topic_title": "Pmm v3 update not possible",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-v3-update-not-possible\/15",
+            "date": "2025-07-11"
+        }
+    ],
+    "forum_solutions": []
+}

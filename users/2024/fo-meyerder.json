@@ -1,0 +1,121 @@
+{
+    "user_key": "fo-meyerder",
+    "display_name": "meyerder",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/meyerder\/120\/16994_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=meyerder",
+    "github_login": null,
+    "forum_username": "meyerder",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 120,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 120,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 12,
+    "replies": 5,
+    "solutions": 1,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Detection\/Alert\/Failover",
+            "url": "https:\/\/forums.percona.com\/t\/detection-alert-failover",
+            "date": "2024-01-15"
+        },
+        {
+            "title": "PMM Alerting Labels\/format",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-alerting-labels-format",
+            "date": "2024-01-21"
+        },
+        {
+            "title": "PMM install Non Docker\/Podman",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-install-non-docker-podman",
+            "date": "2024-02-23"
+        },
+        {
+            "title": "Virtual Image\/Repos - Updates?",
+            "url": "https:\/\/forums.percona.com\/t\/virtual-image-repos-updates",
+            "date": "2024-04-05"
+        },
+        {
+            "title": "Appliance File(s) Updates needed",
+            "url": "https:\/\/forums.percona.com\/t\/appliance-file-s-updates-needed",
+            "date": "2024-04-05"
+        },
+        {
+            "title": "Datasource Timeouts",
+            "url": "https:\/\/forums.percona.com\/t\/datasource-timeouts",
+            "date": "2024-05-07"
+        },
+        {
+            "title": "PMM Settings - Metrics Resolution - Help Im Down",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-settings-metrics-resolution-help-im-down",
+            "date": "2024-05-29"
+        },
+        {
+            "title": "PT-Online-schema errors",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-errors",
+            "date": "2024-05-31"
+        },
+        {
+            "title": "Alert Rule Templates - Native Grafana",
+            "url": "https:\/\/forums.percona.com\/t\/alert-rule-templates-native-grafana",
+            "date": "2024-07-09"
+        },
+        {
+            "title": "Audit Logging - help?",
+            "url": "https:\/\/forums.percona.com\/t\/audit-logging-help",
+            "date": "2024-08-12"
+        },
+        {
+            "title": "Add Service Leverage Proxy",
+            "url": "https:\/\/forums.percona.com\/t\/add-service-leverage-proxy",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "PMM 2.43.2 Upgrade?",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-2-43-2-upgrade",
+            "date": "2024-10-30"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Minor update xtraDB cluster 8.0.34 -> 8.0.35",
+            "url": "https:\/\/forums.percona.com\/t\/minor-update-xtradb-cluster-8-0-34-8-0-35\/2",
+            "date": "2024-02-19"
+        },
+        {
+            "topic_title": "Single pane of glass to check replication status across all servers",
+            "url": "https:\/\/forums.percona.com\/t\/single-pane-of-glass-to-check-replication-status-across-all-servers\/2",
+            "date": "2024-06-21"
+        },
+        {
+            "topic_title": "Rollback Mysql version after upgrade",
+            "url": "https:\/\/forums.percona.com\/t\/rollback-mysql-version-after-upgrade\/5",
+            "date": "2024-07-22"
+        },
+        {
+            "topic_title": "Data sync between 2 percona xtradb mysql clusters",
+            "url": "https:\/\/forums.percona.com\/t\/data-sync-between-2-percona-xtradb-mysql-clusters\/5",
+            "date": "2024-08-12"
+        },
+        {
+            "topic_title": "Table alter to drop a partition takes 10mins or more to complete",
+            "url": "https:\/\/forums.percona.com\/t\/table-alter-to-drop-a-partition-takes-10mins-or-more-to-complete\/10",
+            "date": "2024-10-04"
+        }
+    ],
+    "forum_solutions": [
+        {
+            "topic_title": "Single pane of glass to check replication status across all servers",
+            "url": "https:\/\/forums.percona.com\/t\/single-pane-of-glass-to-check-replication-status-across-all-servers\/2",
+            "date": "2024-06-21"
+        }
+    ]
+}

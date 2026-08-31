@@ -1,0 +1,70 @@
+{
+    "user_key": "fo-hussain_patel",
+    "display_name": "Hussain Patel",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/hussain_patel\/120\/17808_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Hussain_Patel",
+    "github_login": null,
+    "forum_username": "Hussain_Patel",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 31,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 31,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Replica crashed with MY-012869,MY-013183",
+            "url": "https:\/\/forums.percona.com\/t\/replica-crashed-with-my-012869-my-013183",
+            "date": "2024-01-02"
+        },
+        {
+            "title": "Slow_query_log_file issue",
+            "url": "https:\/\/forums.percona.com\/t\/slow-query-log-file-issue",
+            "date": "2024-03-20"
+        },
+        {
+            "title": "How to configure MTLS for mysqld_exporter?",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-configure-mtls-for-mysqld-exporter",
+            "date": "2024-06-27"
+        },
+        {
+            "title": "Error while loading shared libraries: libssl.so.10: cannot open shared object file",
+            "url": "https:\/\/forums.percona.com\/t\/error-while-loading-shared-libraries-libssl-so-10-cannot-open-shared-object-file",
+            "date": "2024-08-19"
+        },
+        {
+            "title": "Xtrabackup compress using STREAM: ZSTD not found",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-compress-using-stream-zstd-not-found",
+            "date": "2024-08-27"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Replication ERROR: Missing transaction in replicas",
+            "url": "https:\/\/forums.percona.com\/t\/replication-error-missing-transaction-in-replicas\/7",
+            "date": "2024-03-08"
+        },
+        {
+            "topic_title": "Percona Server MySQL 8.0.37 Linux generic version has missing Libs",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-mysql-8-0-37-linux-generic-version-has-missing-libs\/9",
+            "date": "2024-08-19"
+        },
+        {
+            "topic_title": "Percona Server MySQL 8.0.37 Linux generic version has missing Libs",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-mysql-8-0-37-linux-generic-version-has-missing-libs\/11",
+            "date": "2024-08-19"
+        }
+    ],
+    "forum_solutions": []
+}

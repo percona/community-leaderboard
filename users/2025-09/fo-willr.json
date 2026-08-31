@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-willr",
+    "display_name": "Will Ross",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/willr\/120\/21916_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=willr",
+    "github_login": null,
+    "forum_username": "willr",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Replica set fails: pmm-client to blame?",
+            "url": "https:\/\/forums.percona.com\/t\/replica-set-fails-pmm-client-to-blame",
+            "date": "2025-09-01"
+        },
+        {
+            "title": "Operator cannot start PMM because keys don't exist in the secrets, or secrets and internal secrets are out of sync?",
+            "url": "https:\/\/forums.percona.com\/t\/operator-cannot-start-pmm-because-keys-dont-exist-in-the-secrets-or-secrets-and-internal-secrets-are-out-of-sync",
+            "date": "2025-09-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

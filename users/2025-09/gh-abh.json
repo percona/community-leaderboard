@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-abh",
+    "display_name": "Ask Bjørn Hansen",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16861?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=abh",
+    "github_login": "abh",
+    "forum_username": null,
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Readiness Probe Causes Infinite Restart Loop During Group Replication Recovery",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/1099",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2025-09-27",
+            "state": "closed"
+        },
+        {
+            "title": "endless \"failed to update status\"",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/1097",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2025-09-26",
+            "state": "closed"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

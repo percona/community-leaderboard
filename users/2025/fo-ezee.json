@@ -1,0 +1,51 @@
+{
+    "user_key": "fo-ezee",
+    "display_name": "Ezhilan Ulaganathan",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/bbe5ce\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ezee",
+    "github_login": null,
+    "forum_username": "ezee",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 59,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 59,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 2,
+    "solutions": 1,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PBM sharded cluster 100 TB",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-sharded-cluster-100-tb",
+            "date": "2025-07-28"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Table partitioning - is there any way to crate partition table manually",
+            "url": "https:\/\/forums.percona.com\/t\/table-partitioning-is-there-any-way-to-crate-partition-table-manually\/3",
+            "date": "2025-07-30"
+        },
+        {
+            "topic_title": "Mongo 7.0.15-9 and Release of Open Files",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-7-0-15-9-and-release-of-open-files\/4",
+            "date": "2025-08-06"
+        }
+    ],
+    "forum_solutions": [
+        {
+            "topic_title": "Mongo 7.0.15-9 and Release of Open Files",
+            "url": "https:\/\/forums.percona.com\/t\/mongo-7-0-15-9-and-release-of-open-files\/4",
+            "date": "2025-08-06"
+        }
+    ]
+}

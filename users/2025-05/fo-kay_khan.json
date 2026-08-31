@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-kay_khan",
+    "display_name": "Kay Khan",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/kay_khan\/120\/17023_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Kay_Khan",
+    "github_login": null,
+    "forum_username": "Kay_Khan",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Need to run sh.stopBalancer() during mongosync process",
+            "url": "https:\/\/forums.percona.com\/t\/need-to-run-sh-stopbalancer-during-mongosync-process",
+            "date": "2025-05-01"
+        },
+        {
+            "title": "Exposing Sharded Cluster on AWS EKS NLB Target Type",
+            "url": "https:\/\/forums.percona.com\/t\/exposing-sharded-cluster-on-aws-eks-nlb-target-type",
+            "date": "2025-05-02"
+        },
+        {
+            "title": "Frequent NoSuchTransaction Errors When Running mongosync with the Percona Kubernetes Operator for MongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/frequent-nosuchtransaction-errors-when-running-mongosync-with-the-percona-kubernetes-operator-for-mongodb",
+            "date": "2025-05-13"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

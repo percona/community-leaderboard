@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-giannic",
+    "display_name": "Shoks one",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/giannic\/120\/22459_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=GianniC",
+    "github_login": null,
+    "forum_username": "GianniC",
+    "period": "2025-10",
+    "period_label": "October 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Percona Operator for MongoDB endlessly spawning connections until OOMKilled",
+            "url": "https:\/\/forums.percona.com\/t\/percona-operator-for-mongodb-endlessly-spawning-connections-until-oomkilled\/2",
+            "date": "2025-10-28"
+        },
+        {
+            "topic_title": "Percona Operator for MongoDB endlessly spawning connections until OOMKilled",
+            "url": "https:\/\/forums.percona.com\/t\/percona-operator-for-mongodb-endlessly-spawning-connections-until-oomkilled\/4",
+            "date": "2025-10-28"
+        },
+        {
+            "topic_title": "Percona Operator for MongoDB endlessly spawning connections until OOMKilled",
+            "url": "https:\/\/forums.percona.com\/t\/percona-operator-for-mongodb-endlessly-spawning-connections-until-oomkilled\/7",
+            "date": "2025-10-28"
+        },
+        {
+            "topic_title": "Percona Operator for MongoDB endlessly spawning connections until OOMKilled",
+            "url": "https:\/\/forums.percona.com\/t\/percona-operator-for-mongodb-endlessly-spawning-connections-until-oomkilled\/13",
+            "date": "2025-10-30"
+        }
+    ],
+    "forum_solutions": []
+}

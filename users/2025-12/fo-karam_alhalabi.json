@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-karam_alhalabi",
+    "display_name": "karam alhalabi",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/karam_alhalabi\/120\/22724_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=karam_alhalabi",
+    "github_login": null,
+    "forum_username": "karam_alhalabi",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "[pitr] oplog slicer is paused for lock",
+            "url": "https:\/\/forums.percona.com\/t\/pitr-oplog-slicer-is-paused-for-lock",
+            "date": "2025-12-03"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

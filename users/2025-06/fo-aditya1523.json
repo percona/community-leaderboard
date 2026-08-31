@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-aditya1523",
+    "display_name": "Aditya Raj",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/aditya1523\/120\/20039_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Aditya1523",
+    "github_login": null,
+    "forum_username": "Aditya1523",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Disaster recovery for mysql database",
+            "url": "https:\/\/forums.percona.com\/t\/disaster-recovery-for-mysql-database",
+            "date": "2025-06-11"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

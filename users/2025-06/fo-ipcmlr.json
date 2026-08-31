@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-ipcmlr",
+    "display_name": "ipcmlr",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/i\/df705f\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ipcmlr",
+    "github_login": null,
+    "forum_username": "ipcmlr",
+    "period": "2025-06",
+    "period_label": "June 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "ERROR: Authentication plugin 'caching_sha2_password' when using mysqlsh",
+            "url": "https:\/\/forums.percona.com\/t\/error-authentication-plugin-caching-sha2-password-when-using-mysqlsh",
+            "date": "2025-06-02"
+        },
+        {
+            "title": "Unable to run util.checkForServerUpgrade()",
+            "url": "https:\/\/forums.percona.com\/t\/unable-to-run-util-checkforserverupgrade",
+            "date": "2025-06-02"
+        },
+        {
+            "title": "Need to create a new database and load a lot of data with replication",
+            "url": "https:\/\/forums.percona.com\/t\/need-to-create-a-new-database-and-load-a-lot-of-data-with-replication",
+            "date": "2025-06-09"
+        },
+        {
+            "title": "Getting weird warnings on mysql upgrade checker 8.4 \"references a non unique key\"",
+            "url": "https:\/\/forums.percona.com\/t\/getting-weird-warnings-on-mysql-upgrade-checker-8-4-references-a-non-unique-key",
+            "date": "2025-06-23"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

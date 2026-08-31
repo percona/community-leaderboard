@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-skp15",
+    "display_name": "skp15",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/skp15\/120\/19681_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=skp15",
+    "github_login": null,
+    "forum_username": "skp15",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Running PMM\/Percona in production to monitor Amazon RDS DBs",
+            "url": "https:\/\/forums.percona.com\/t\/running-pmm-percona-in-production-to-monitor-amazon-rds-dbs",
+            "date": "2024-10-16"
+        },
+        {
+            "title": "Pmm default admin password not working",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-default-admin-password-not-working",
+            "date": "2024-10-24"
+        },
+        {
+            "title": "Add PMM as a datasource in Grafana",
+            "url": "https:\/\/forums.percona.com\/t\/add-pmm-as-a-datasource-in-grafana",
+            "date": "2024-10-25"
+        },
+        {
+            "title": "Auth issues while adding pmm as a datasource in Grafana",
+            "url": "https:\/\/forums.percona.com\/t\/auth-issues-while-adding-pmm-as-a-datasource-in-grafana",
+            "date": "2024-10-28"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

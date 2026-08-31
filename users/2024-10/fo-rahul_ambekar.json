@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-rahul_ambekar",
+    "display_name": "rahul ambekar",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/rahul_ambekar\/120\/18551_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=rahul_ambekar",
+    "github_login": null,
+    "forum_username": "rahul_ambekar",
+    "period": "2024-10",
+    "period_label": "October 2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona cluster abnormality version: 5.7",
+            "url": "https:\/\/forums.percona.com\/t\/percona-cluster-abnormality-version-5-7",
+            "date": "2024-10-17"
+        },
+        {
+            "title": "Percona Master-Master-Slave Replication with ProxySQL setup",
+            "url": "https:\/\/forums.percona.com\/t\/percona-master-master-slave-replication-with-proxysql-setup",
+            "date": "2024-10-22"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

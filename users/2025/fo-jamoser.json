@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-jamoser",
+    "display_name": "John Moser",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/b2d939\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jamoser",
+    "github_login": null,
+    "forum_username": "jamoser",
+    "period": "2025",
+    "period_label": "2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 20,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 20,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 4,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "GKE \/ MongoDB cluster under \"stress\" not accepting changes from cr.yaml",
+            "url": "https:\/\/forums.percona.com\/t\/gke-mongodb-cluster-under-stress-not-accepting-changes-from-cr-yaml",
+            "date": "2025-04-30"
+        },
+        {
+            "title": "allowVolumeExpansion and autoResizePolicy",
+            "url": "https:\/\/forums.percona.com\/t\/allowvolumeexpansion-and-autoresizepolicy",
+            "date": "2025-08-14"
+        },
+        {
+            "title": "Bitnami\/kubectl gone after Sept 29 ... also a problem here?",
+            "url": "https:\/\/forums.percona.com\/t\/bitnami-kubectl-gone-after-sept-29-also-a-problem-here",
+            "date": "2025-09-26"
+        },
+        {
+            "title": "Multi-zone setup failure, if one zone is not avail",
+            "url": "https:\/\/forums.percona.com\/t\/multi-zone-setup-failure-if-one-zone-is-not-avail",
+            "date": "2025-10-06"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

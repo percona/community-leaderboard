@@ -1,0 +1,50 @@
+{
+    "user_key": "fo-meyerder",
+    "display_name": "meyerder",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/meyerder\/120\/16994_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=meyerder",
+    "github_login": null,
+    "forum_username": "meyerder",
+    "period": "2025-Q3",
+    "period_label": "Q3 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 11,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 11,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "8.4 Audit items Install\/Upgrade",
+            "url": "https:\/\/forums.percona.com\/t\/8-4-audit-items-install-upgrade",
+            "date": "2025-07-16"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Cluster freezes if one node's disk is full",
+            "url": "https:\/\/forums.percona.com\/t\/cluster-freezes-if-one-nodes-disk-is-full\/4",
+            "date": "2025-07-16"
+        },
+        {
+            "topic_title": "Why a disk full on a node kill cluster?",
+            "url": "https:\/\/forums.percona.com\/t\/why-a-disk-full-on-a-node-kill-cluster\/4",
+            "date": "2025-07-16"
+        },
+        {
+            "topic_title": "Nodes got aborted one by one when creating\/droping index",
+            "url": "https:\/\/forums.percona.com\/t\/nodes-got-aborted-one-by-one-when-creating-droping-index\/3",
+            "date": "2025-07-16"
+        }
+    ],
+    "forum_solutions": []
+}

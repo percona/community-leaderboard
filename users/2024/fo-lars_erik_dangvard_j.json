@@ -1,0 +1,75 @@
+{
+    "user_key": "fo-lars_erik_dangvard_j",
+    "display_name": "Lars Erik Dangvard Jensen",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/lars_erik_dangvard_j\/120\/14572_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Lars_Erik_Dangvard_J",
+    "github_login": null,
+    "forum_username": "Lars_Erik_Dangvard_J",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 39,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 39,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 7,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Cloud providers TCP load balancer for Proxysql HA",
+            "url": "https:\/\/forums.percona.com\/t\/cloud-providers-tcp-load-balancer-for-proxysql-ha",
+            "date": "2024-03-10"
+        },
+        {
+            "title": "Percona docker image of ProxySQL 2.6?",
+            "url": "https:\/\/forums.percona.com\/t\/percona-docker-image-of-proxysql-2-6",
+            "date": "2024-03-15"
+        },
+        {
+            "title": "\"Missing version string in comparison\" error",
+            "url": "https:\/\/forums.percona.com\/t\/missing-version-string-in-comparison-error",
+            "date": "2024-03-18"
+        },
+        {
+            "title": "Delete old backups in object storage",
+            "url": "https:\/\/forums.percona.com\/t\/delete-old-backups-in-object-storage",
+            "date": "2024-03-30"
+        },
+        {
+            "title": "Xtrabackup version vs. xtradb-cluster version",
+            "url": "https:\/\/forums.percona.com\/t\/xtrabackup-version-vs-xtradb-cluster-version",
+            "date": "2024-04-05"
+        },
+        {
+            "title": "Read\/write split vs. weight in Proxysql",
+            "url": "https:\/\/forums.percona.com\/t\/read-write-split-vs-weight-in-proxysql",
+            "date": "2024-04-06"
+        },
+        {
+            "title": "Can a XtraBackup process crash another node than the node it's backing up?",
+            "url": "https:\/\/forums.percona.com\/t\/can-a-xtrabackup-process-crash-another-node-than-the-node-its-backing-up",
+            "date": "2024-05-13"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "How to change existing Percona generated user's auth plugin to caching_sha2_password",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-change-existing-percona-generated-users-auth-plugin-to-caching-sha2-password\/7",
+            "date": "2024-03-11"
+        },
+        {
+            "topic_title": "How to change existing Percona generated user's auth plugin to caching_sha2_password",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-change-existing-percona-generated-users-auth-plugin-to-caching-sha2-password\/9",
+            "date": "2024-03-11"
+        }
+    ],
+    "forum_solutions": []
+}

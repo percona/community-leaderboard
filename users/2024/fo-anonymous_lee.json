@@ -1,0 +1,54 @@
+{
+    "user_key": "fo-anonymous_lee",
+    "display_name": "anonymous lee",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/anonymous_lee\/120\/12659_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=anonymous_lee",
+    "github_login": null,
+    "forum_username": "anonymous_lee",
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 25,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 25,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 5,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Failed to register pmm-agent on PMM Server: Internal server error",
+            "url": "https:\/\/forums.percona.com\/t\/failed-to-register-pmm-agent-on-pmm-server-internal-server-error",
+            "date": "2024-02-05"
+        },
+        {
+            "title": "Failed to register pmm-agent on PMM Server: Internal server error (2.32.0)",
+            "url": "https:\/\/forums.percona.com\/t\/failed-to-register-pmm-agent-on-pmm-server-internal-server-error-2-32-0",
+            "date": "2024-02-05"
+        },
+        {
+            "title": "The node information of the aws rds recently created in pmm is not visible",
+            "url": "https:\/\/forums.percona.com\/t\/the-node-information-of-the-aws-rds-recently-created-in-pmm-is-not-visible",
+            "date": "2024-08-26"
+        },
+        {
+            "title": "Pmm client 2.40.1 on Ubuntu 22.04",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-client-2-40-1-on-ubuntu-22-04",
+            "date": "2024-09-09"
+        },
+        {
+            "title": "Pmm custom query not working",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-custom-query-not-working",
+            "date": "2024-12-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

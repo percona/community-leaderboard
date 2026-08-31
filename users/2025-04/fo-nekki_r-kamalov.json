@@ -1,0 +1,60 @@
+{
+    "user_key": "fo-nekki_r-kamalov",
+    "display_name": "Rinat",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/n\/f14d63\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=nekki_r.kamalov",
+    "github_login": null,
+    "forum_username": "nekki_r.kamalov",
+    "period": "2025-04",
+    "period_label": "April 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 18,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 18,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Add custom lines into vmagent under pmm-agent",
+            "url": "https:\/\/forums.percona.com\/t\/add-custom-lines-into-vmagent-under-pmm-agent",
+            "date": "2025-04-11"
+        },
+        {
+            "title": "Run Pmm on VM WITHROUT DOCKER",
+            "url": "https:\/\/forums.percona.com\/t\/run-pmm-on-vm-withrout-docker",
+            "date": "2025-04-21"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user\/5",
+            "date": "2025-04-24"
+        },
+        {
+            "topic_title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user\/7",
+            "date": "2025-04-24"
+        },
+        {
+            "topic_title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user\/9",
+            "date": "2025-04-24"
+        },
+        {
+            "topic_title": "Pmm3.00 \/srv is not writable for pmm user",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-00-srv-is-not-writable-for-pmm-user\/10",
+            "date": "2025-04-24"
+        }
+    ],
+    "forum_solutions": []
+}

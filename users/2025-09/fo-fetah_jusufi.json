@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-fetah_jusufi",
+    "display_name": "Fetah Jusufi",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/fetah_jusufi\/120\/21991_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Fetah_Jusufi",
+    "github_login": null,
+    "forum_username": "Fetah_Jusufi",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PBM backup not connectiong to GCS error Forbidden",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-backup-not-connectiong-to-gcs-error-forbidden",
+            "date": "2025-09-06"
+        },
+        {
+            "title": "TLS mode requireTLS not working",
+            "url": "https:\/\/forums.percona.com\/t\/tls-mode-requiretls-not-working",
+            "date": "2025-09-09"
+        },
+        {
+            "title": "Pbm backups from the operator",
+            "url": "https:\/\/forums.percona.com\/t\/pbm-backups-from-the-operator",
+            "date": "2025-09-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

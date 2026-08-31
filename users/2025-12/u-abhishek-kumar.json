@@ -1,0 +1,37 @@
+{
+    "user_key": "u-abhishek-kumar",
+    "display_name": "Abhishek Kumar",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11428435?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?user_id=auto-abhishek-kumar",
+    "github_login": "abhi021",
+    "forum_username": "abhi271",
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "feat: Add fsync lock state metrics from currentOp",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1221",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-12-31",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

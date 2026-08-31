@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-ramunas-omnisend",
+    "display_name": "Ramunas Balukonis ",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/95075496?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=ramunas-omnisend",
+    "github_login": "ramunas-omnisend",
+    "forum_username": null,
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 150,
+    "points_github": 150,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 3,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Remove system colections from index stats",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/893",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-08-16",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Fix\/ignore views for list collections",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/892",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-08-16",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Fix\/index stats exclude system collections",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/891",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2024-08-16",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

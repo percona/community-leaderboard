@@ -1,0 +1,45 @@
+{
+    "user_key": "fo-pstekunov",
+    "display_name": "Петр Стекунов",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pstekunov\/120\/20328_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=pstekunov",
+    "github_login": null,
+    "forum_username": "pstekunov",
+    "period": "2025-Q2",
+    "period_label": "Q2 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 12,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 12,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Stale GroupVersion discovery: packages.operators.coreos.com\/v1 after Upgrade to Everest 1.6",
+            "url": "https:\/\/forums.percona.com\/t\/stale-groupversion-discovery-packages-operators-coreos-com-v1-after-upgrade-to-everest-1-6",
+            "date": "2025-04-23"
+        },
+        {
+            "title": "Can't start backup. Previous backup is still in progress",
+            "url": "https:\/\/forums.percona.com\/t\/cant-start-backup-previous-backup-is-still-in-progress",
+            "date": "2025-05-12"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PMM sub-chart with Everest 1.6.0",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-sub-chart-with-everest-1-6-0\/7",
+            "date": "2025-05-29"
+        }
+    ],
+    "forum_solutions": []
+}

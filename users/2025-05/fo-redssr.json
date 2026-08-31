@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-redssr",
+    "display_name": "redssr",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/r\/a9a28c\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=redssr",
+    "github_login": null,
+    "forum_username": "redssr",
+    "period": "2025-05",
+    "period_label": "May 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 10,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 10,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 2,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "How to skip select or all read operation in audit_log_filter in percona 8.4",
+            "url": "https:\/\/forums.percona.com\/t\/how-to-skip-select-or-all-read-operation-in-audit-log-filter-in-percona-8-4",
+            "date": "2025-05-15"
+        },
+        {
+            "title": "Audit log filter not working after upgrade from Percona 8.0.41 to 8.4.4",
+            "url": "https:\/\/forums.percona.com\/t\/audit-log-filter-not-working-after-upgrade-from-percona-8-0-41-to-8-4-4",
+            "date": "2025-05-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

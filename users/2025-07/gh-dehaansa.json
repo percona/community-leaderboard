@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-dehaansa",
+    "display_name": "Sam DeHaan",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/563558?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=dehaansa",
+    "github_login": "dehaansa",
+    "forum_username": null,
+    "period": "2025-07",
+    "period_label": "July 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Update PBM to update the AWS SDK version",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1110",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2025-07-15",
+            "merged": false,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

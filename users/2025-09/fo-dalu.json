@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-dalu",
+    "display_name": "dalu",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/7bcc69\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dalu",
+    "github_login": null,
+    "forum_username": "dalu",
+    "period": "2025-09",
+    "period_label": "September 2025",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Single rs possible?",
+            "url": "https:\/\/forums.percona.com\/t\/single-rs-possible",
+            "date": "2025-09-08"
+        },
+        {
+            "title": "Dark mode please",
+            "url": "https:\/\/forums.percona.com\/t\/dark-mode-please",
+            "date": "2025-09-08"
+        },
+        {
+            "title": "Operator fails to use xfs storageclass for kind: PerconaServerMongoDB",
+            "url": "https:\/\/forums.percona.com\/t\/operator-fails-to-use-xfs-storageclass-for-kind-perconaservermongodb",
+            "date": "2025-09-08"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

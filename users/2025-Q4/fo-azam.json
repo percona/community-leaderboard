@@ -1,0 +1,49 @@
+{
+    "user_key": "fo-azam",
+    "display_name": "azam",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/ea666f\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=azam",
+    "github_login": null,
+    "forum_username": "azam",
+    "period": "2025-Q4",
+    "period_label": "Q4 2025",
+    "generated_at": "2026-08-31T07:55:07+00:00",
+    "points_total": 8,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 8,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Error in backup-agent container: failed to refresh cached credentials",
+            "url": "https:\/\/forums.percona.com\/t\/error-in-backup-agent-container-failed-to-refresh-cached-credentials\/3",
+            "date": "2025-11-18"
+        },
+        {
+            "topic_title": "Error in backup-agent container: failed to refresh cached credentials",
+            "url": "https:\/\/forums.percona.com\/t\/error-in-backup-agent-container-failed-to-refresh-cached-credentials\/5",
+            "date": "2025-11-19"
+        },
+        {
+            "topic_title": "Error in backup-agent container: failed to refresh cached credentials",
+            "url": "https:\/\/forums.percona.com\/t\/error-in-backup-agent-container-failed-to-refresh-cached-credentials\/7",
+            "date": "2025-11-20"
+        },
+        {
+            "topic_title": "Error in backup-agent container: failed to refresh cached credentials",
+            "url": "https:\/\/forums.percona.com\/t\/error-in-backup-agent-container-failed-to-refresh-cached-credentials\/8",
+            "date": "2025-11-27"
+        }
+    ],
+    "forum_solutions": []
+}

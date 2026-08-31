@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-fmbiete",
+    "display_name": "Francisco Miguel Biete Banon",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1531783?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=fmbiete",
+    "github_login": "fmbiete",
+    "forum_username": null,
+    "period": "2024",
+    "period_label": "2024",
+    "generated_at": "2026-08-31T08:04:32+00:00",
+    "points_total": 125,
+    "points_github": 125,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 2,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PXB-3359 - PXC concurrent backups - metadata lock hang with xtrabackup_history",
+            "url": "https:\/\/github.com\/percona\/percona-xtrabackup\/pull\/1608",
+            "repo": "percona\/percona-xtrabackup",
+            "date": "2024-09-03",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Backup History: save to remote server for backup in RO replica",
+            "url": "https:\/\/github.com\/percona\/percona-xtrabackup\/pull\/1549",
+            "repo": "percona\/percona-xtrabackup",
+            "date": "2024-04-11",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "pg_replication_slots in standby",
+            "url": "https:\/\/github.com\/percona\/postgres_exporter\/pull\/147",
+            "repo": "percona\/postgres_exporter",
+            "date": "2023-08-30",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
