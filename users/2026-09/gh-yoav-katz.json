@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-yoav-katz",
+    "display_name": "yoav-katz",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
+    "github_login": "yoav-katz",
+    "forum_username": null,
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-06T04:12:08+00:00",
+    "points_total": 60,
+    "points_github": 60,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 2,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Allow user-defined SANs in operator-generated TLS certificates via spec.tls.SANs",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/issues\/1811",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-09-01",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPG-1150: added spec.tls.SANs",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1813",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-09-01",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "K8SPG-1149: expose.externalDNS",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1812",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-09-01",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

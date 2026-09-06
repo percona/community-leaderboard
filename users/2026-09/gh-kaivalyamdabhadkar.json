@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-kaivalyamdabhadkar",
+    "display_name": "KaivalyaMDabhadkar",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/232606929?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=KaivalyaMDabhadkar",
+    "github_login": "KaivalyaMDabhadkar",
+    "forum_username": null,
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-06T04:12:08+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "[psmdb-db] render metadata.finalizers only when the list is non-empty",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/948",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-09-04",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

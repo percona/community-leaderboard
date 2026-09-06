@@ -1,0 +1,30 @@
+{
+    "period": "2026-09",
+    "period_type": "month",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-06T04:12:08+00:00",
+    "category": "forum",
+    "top30": [
+        {
+            "rank": 1,
+            "user_key": "fo-jnicol",
+            "name": "jnicol",
+            "display_name": "Jonathan Nicol",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/j\/73ab20\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=jnicol",
+            "github_login": null,
+            "forum_username": "jnicol",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        }
+    ]
+}

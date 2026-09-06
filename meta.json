@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-31T08:04:32+00:00",
+    "generated_at": "2026-09-06T04:12:08+00:00",
     "default_period": "2026",
     "periods": [
         {
@@ -56,6 +56,11 @@
             "key": "2026-Q3",
             "label": "Q3 2026",
             "type": "quarter"
+        },
+        {
+            "key": "2026-09",
+            "label": "September 2026",
+            "type": "month"
         },
         {
             "key": "2026-08",
@@ -170,11 +175,6 @@
         {
             "key": "2024-10",
             "label": "October 2024",
-            "type": "month"
-        },
-        {
-            "key": "2024-09",
-            "label": "September 2024",
             "type": "month"
         }
     ],

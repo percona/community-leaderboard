@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-08-31T08:04:32+00:00",
+    "generated_at": "2026-09-06T04:12:08+00:00",
     "category": "github",
     "top30": [
         {
@@ -322,6 +322,27 @@
         },
         {
             "rank": 16,
+            "user_key": "gh-yoav-katz",
+            "name": "yoav-katz",
+            "display_name": "yoav-katz",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
+            "github_login": "yoav-katz",
+            "forum_username": null,
+            "points_total": 325,
+            "points_github": 325,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 5,
+            "prs_created": 8,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 17,
             "user_key": "gh-l2dy",
             "name": "l2dy",
             "display_name": "Zero King",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-t-yrka",
             "name": "t-yrka",
             "display_name": "t-yrka",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-japinli",
             "name": "japinli",
             "display_name": "Japin Li",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-ebuildy",
             "name": "ebuildy",
             "display_name": "Thomas Decaux",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-dimitrioslisenko",
             "name": "DimitriosLisenko",
             "display_name": "DimitriosLisenko",
@@ -420,27 +441,6 @@
             "issues_created": 3,
             "prs_created": 4,
             "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 21,
-            "user_key": "gh-yoav-katz",
-            "name": "yoav-katz",
-            "display_name": "yoav-katz",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/111126160?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=yoav-katz",
-            "github_login": "yoav-katz",
-            "forum_username": null,
-            "points_total": 255,
-            "points_github": 255,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 3,
-            "prs_created": 6,
-            "prs_merged": 1,
             "blog_posts": 0,
             "topics_created": 0,
             "replies": 0,
