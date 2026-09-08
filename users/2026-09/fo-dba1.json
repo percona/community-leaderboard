@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-dba1",
+    "display_name": "Marto",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dba1\/120\/24223_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Dba1",
+    "github_login": null,
+    "forum_username": "Dba1",
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-08T04:11:58+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Reaching for pg_repack, pg_squeeze, or VACUUM FULL first is usually the wrong move , change my mind",
+            "url": "https:\/\/forums.percona.com\/t\/reaching-for-pg-repack-pg-squeeze-or-vacuum-full-first-is-usually-the-wrong-move-change-my-mind",
+            "date": "2026-09-07"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

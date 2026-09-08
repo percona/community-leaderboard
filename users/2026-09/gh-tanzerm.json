@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-tanzerm",
+    "display_name": "Moritz Tanzer",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/27706483?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=tanzerm",
+    "github_login": "tanzerm",
+    "forum_username": null,
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-08T04:11:58+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Compatibility replication lag reports false positives when secondary optime is newer than cached primary",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/issues\/1362",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2026-09-07",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Fix compatibility replication lag sign for stale primary optimes",
+            "url": "https:\/\/github.com\/percona\/mongodb_exporter\/pull\/1363",
+            "repo": "percona\/mongodb_exporter",
+            "date": "2026-09-07",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
