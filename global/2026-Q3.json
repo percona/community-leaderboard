@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-09-08T04:11:58+00:00",
+    "generated_at": "2026-09-09T04:12:29+00:00",
     "category": "global",
     "top30": [
         {
@@ -315,6 +315,28 @@
         },
         {
             "rank": 15,
+            "user_key": "bl-yi",
+            "name": "Yi",
+            "display_name": "Yi",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Yi",
+            "source": "Blog",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
             "user_key": "gh-avinashtanniru",
             "name": "avinashtanniru",
             "display_name": "Avinash Tanniru",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-giezi",
             "name": "giezi",
             "display_name": "giezi",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-mohag",
             "name": "mohag",
             "display_name": "Gert van den Berg",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-rajaie7",
             "name": "rajaie7",
             "display_name": "Rajaie Alkorani",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-sielaq",
             "name": "sielaq",
             "display_name": "Wojciech Sielski",
@@ -424,7 +446,29 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
+            "user_key": "gh-yzangeren",
+            "name": "yZangEren",
+            "display_name": "yZangEren",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/153528164?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=yZangEren",
+            "source": "GitHub",
+            "github_login": "yZangEren",
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 100,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 22,
             "user_key": "gh-adutra",
             "name": "adutra",
             "display_name": "Alexandre Dutra",
@@ -446,7 +490,29 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
+            "user_key": "gh-arpitjain099",
+            "name": "arpitjain099",
+            "display_name": "Arpit Jain",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3242828?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=arpitjain099",
+            "source": "GitHub",
+            "github_login": "arpitjain099",
+            "forum_username": null,
+            "points_total": 50,
+            "points_github": 50,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 24,
             "user_key": "gh-aswath-pt",
             "name": "aswath-pt",
             "display_name": "Aswath PT",
@@ -468,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 25,
             "user_key": "gh-fergalhk",
             "name": "fergalhk",
             "display_name": "Fergal Kearns",
@@ -490,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 26,
             "user_key": "gh-jstack-godaddy",
             "name": "jstack-godaddy",
             "display_name": "Joey Stack",
@@ -512,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 27,
             "user_key": "gh-nerijus",
             "name": "nerijus",
             "display_name": "Nerijus Baliūnas",
@@ -534,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 28,
             "user_key": "gh-geoheil",
             "name": "geoHeil",
             "display_name": "geoHeil",
@@ -556,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 29,
             "user_key": "gh-rkferreira",
             "name": "rkferreira",
             "display_name": "Rodrigo Kellermann",
@@ -578,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 30,
             "user_key": "gh-tanzerm",
             "name": "tanzerm",
             "display_name": "Moritz Tanzer",
@@ -592,72 +658,6 @@
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 1,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 28,
-            "user_key": "gh-chaohuang2018",
-            "name": "ChaoHuang2018",
-            "display_name": "Chao Huang",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/40215103?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=ChaoHuang2018",
-            "source": "GitHub",
-            "github_login": "ChaoHuang2018",
-            "forum_username": null,
-            "points_total": 30,
-            "points_github": 30,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 3,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 29,
-            "user_key": "gh-deviprasadambati",
-            "name": "DeviprasadAmbati",
-            "display_name": "DeviprasadAmbati",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/128715277?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=DeviprasadAmbati",
-            "source": "GitHub",
-            "github_login": "DeviprasadAmbati",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-kyriosgn0",
-            "name": "KyriosGN0",
-            "display_name": "AvivGuiser",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/39168048?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=KyriosGN0",
-            "source": "GitHub",
-            "github_login": "KyriosGN0",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
             "prs_created": 1,
             "prs_merged": 0,
             "blog_posts": 0,

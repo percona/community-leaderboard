@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-09",
     "period_label": "September 2026",
-    "generated_at": "2026-09-08T04:11:58+00:00",
-    "points_total": 25,
-    "points_github": 25,
+    "generated_at": "2026-09-09T04:12:29+00:00",
+    "points_total": 50,
+    "points_github": 50,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 1,
+    "prs_created": 2,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
@@ -21,6 +21,14 @@
     "solutions": 0,
     "github_issues": [],
     "github_prs": [
+        {
+            "title": "Render the pt-mysql-summary option file with text\/template",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/5907",
+            "repo": "percona\/pmm",
+            "date": "2026-09-08",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "K8SPSMDB-1798: Ignore NotFound when deleting CA secrets during TLS cleanup",
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2533",

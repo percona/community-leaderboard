@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-therealdwright",
+    "display_name": "Daniel Wright",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/15135979?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=therealdwright",
+    "github_login": "therealdwright",
+    "forum_username": null,
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-09T04:12:29+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Make the backup controller reconciliation interval configurable",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2538",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-08",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "feat: make backup-controller reconcile interval configurable",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2539",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-08",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

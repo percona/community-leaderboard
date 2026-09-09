@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-09-08T04:11:58+00:00",
+    "generated_at": "2026-09-09T04:12:29+00:00",
     "category": "content",
     "top30": [
         {
@@ -133,6 +133,27 @@
         },
         {
             "rank": 7,
+            "user_key": "bl-yi",
+            "name": "Yi",
+            "display_name": "Yi",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Yi",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 8,
             "user_key": "bl-mysql-admin-scripts",
             "name": "MySQL Admin Scripts",
             "display_name": "MySQL Admin Scripts",
