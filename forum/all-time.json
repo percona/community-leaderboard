@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-09-09T04:12:29+00:00",
+    "generated_at": "2026-09-10T04:12:31+00:00",
     "category": "forum",
     "top30": [
         {
@@ -511,6 +511,27 @@
         },
         {
             "rank": 25,
+            "user_key": "fo-pravata_dash",
+            "name": "pravata_dash",
+            "display_name": "pravata dash",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
+            "github_login": null,
+            "forum_username": "pravata_dash",
+            "points_total": 54,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 54,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 10,
+            "replies": 2,
+            "solutions": 0
+        },
+        {
+            "rank": 26,
             "user_key": "fo-chilinut",
             "name": "chiliNUT",
             "display_name": "chiliNUT",
@@ -531,7 +552,7 @@
             "solutions": 1
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "fo-shirisha",
             "name": "shirisha",
             "display_name": "shirisha",
@@ -552,7 +573,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "fo-nunop",
             "name": "nunop",
             "display_name": "N P",
@@ -573,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "fo-lars_erik_dangvard_j",
             "name": "Lars_Erik_Dangvard_J",
             "display_name": "Lars Erik Dangvard Jensen",
@@ -581,27 +602,6 @@
             "profile_url": "\/web\/leaderboard\/profile?forum=Lars_Erik_Dangvard_J",
             "github_login": null,
             "forum_username": "Lars_Erik_Dangvard_J",
-            "points_total": 49,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 49,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 9,
-            "replies": 2,
-            "solutions": 0
-        },
-        {
-            "rank": 29,
-            "user_key": "fo-pravata_dash",
-            "name": "pravata_dash",
-            "display_name": "pravata dash",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
-            "github_login": null,
-            "forum_username": "pravata_dash",
             "points_total": 49,
             "points_github": 0,
             "points_content": 0,

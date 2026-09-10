@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-kr-ravindra",
+    "display_name": "KR Ravindra",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42912207?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=KR-Ravindra",
+    "github_login": "KR-Ravindra",
+    "forum_username": null,
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-10T04:12:31+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "K8SPG-1099 clear inner PostgresCluster standby when spec.standby removed",
+            "url": "https:\/\/github.com\/percona\/percona-postgresql-operator\/pull\/1823",
+            "repo": "percona\/percona-postgresql-operator",
+            "date": "2026-09-09",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

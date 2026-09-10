@@ -7,16 +7,16 @@
     "forum_username": "pravata_dash",
     "period": "2026-Q3",
     "period_label": "Q3 2026",
-    "generated_at": "2026-09-09T04:12:29+00:00",
-    "points_total": 5,
+    "generated_at": "2026-09-10T04:12:31+00:00",
+    "points_total": 10,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 10,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 2,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "Native Solution for Per-Query Latency Percentiles (P90\/P95\/P99) at DB Level in MySQL 8.0\/8.4 with PMM — Request for Guidance",
             "url": "https:\/\/forums.percona.com\/t\/native-solution-for-per-query-latency-percentiles-p90-p95-p99-at-db-level-in-mysql-8-0-8-4-with-pmm-request-for-guidance",
             "date": "2026-08-02"
+        },
+        {
+            "title": "Percona Server 5.7 - ERROR 3185 on one DRE encrypted table only; others work fine",
+            "url": "https:\/\/forums.percona.com\/t\/percona-server-5-7-error-3185-on-one-dre-encrypted-table-only-others-work-fine",
+            "date": "2026-09-09"
         }
     ],
     "forum_replies": [],

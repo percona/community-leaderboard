@@ -2,7 +2,7 @@
     "period": "2026-09",
     "period_type": "month",
     "period_label": "September 2026",
-    "generated_at": "2026-09-09T04:12:29+00:00",
+    "generated_at": "2026-09-10T04:12:31+00:00",
     "category": "global",
     "top30": [
         {
@@ -293,6 +293,50 @@
         },
         {
             "rank": 14,
+            "user_key": "gh-kr-ravindra",
+            "name": "KR-Ravindra",
+            "display_name": "KR Ravindra",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42912207?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=KR-Ravindra",
+            "source": "GitHub",
+            "github_login": "KR-Ravindra",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 15,
+            "user_key": "gh-btriller",
+            "name": "btriller",
+            "display_name": "Bastian Triller",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/851727?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=btriller",
+            "source": "GitHub",
+            "github_login": "btriller",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
             "user_key": "gh-bvalente",
             "name": "bvalente",
             "display_name": "bvalente",
@@ -314,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 17,
             "user_key": "gh-jackvansickle1",
             "name": "jackvansickle1",
             "display_name": "Jack VanSickle",
@@ -336,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 18,
             "user_key": "gh-lefred",
             "name": "lefred",
             "display_name": "Frédéric Descamps",
@@ -358,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 19,
             "user_key": "gh-shivankpndy",
             "name": "shivankpndy",
             "display_name": "Shivank Pandey ",
@@ -380,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 20,
             "user_key": "gh-simakink",
             "name": "Simakink",
             "display_name": "Kirill Simakin",
@@ -402,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 21,
             "user_key": "gh-jessebye",
             "name": "jessebye",
             "display_name": "Jesse Bye",
@@ -424,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 22,
             "user_key": "gh-karam-sudo",
             "name": "karam-sudo",
             "display_name": "karam alhalabi",
@@ -446,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
             "user_key": "gh-nbb-content",
             "name": "nbb-content",
             "display_name": "nbb-content",
@@ -468,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 24,
             "user_key": "gh-raphideb",
             "name": "raphideb",
             "display_name": "raphi",
@@ -490,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 25,
             "user_key": "gh-uavg",
             "name": "uavg",
             "display_name": "uavg",
@@ -512,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 26,
             "user_key": "fo-dba1",
             "name": "Dba1",
             "display_name": "Marto",
@@ -534,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 27,
             "user_key": "fo-dbaengg",
             "name": "dbaengg",
             "display_name": "dba",
@@ -556,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 28,
             "user_key": "fo-grill",
             "name": "grill",
             "display_name": "grill",
@@ -578,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 29,
             "user_key": "fo-jnicol",
             "name": "jnicol",
             "display_name": "Jonathan Nicol",
@@ -587,6 +631,28 @@
             "source": "Forum",
             "github_login": null,
             "forum_username": "jnicol",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 30,
+            "user_key": "fo-pravata_dash",
+            "name": "pravata_dash",
+            "display_name": "pravata dash",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
+            "source": "Forum",
+            "github_login": null,
+            "forum_username": "pravata_dash",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,
