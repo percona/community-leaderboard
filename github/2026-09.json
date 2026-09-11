@@ -2,7 +2,7 @@
     "period": "2026-09",
     "period_type": "month",
     "period_label": "September 2026",
-    "generated_at": "2026-09-10T04:12:31+00:00",
+    "generated_at": "2026-09-11T04:12:41+00:00",
     "category": "github",
     "top30": [
         {
@@ -49,6 +49,27 @@
         },
         {
             "rank": 3,
+            "user_key": "gh-shivankpndy",
+            "name": "shivankpndy",
+            "display_name": "Shivank Pandey ",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/314400733?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=shivankpndy",
+            "github_login": "shivankpndy",
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 100,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "gh-kaivalyamdabhadkar",
             "name": "KaivalyaMDabhadkar",
             "display_name": "KaivalyaMDabhadkar",
@@ -69,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "gh-guanchzhou",
             "name": "guanchzhou",
             "display_name": "Andrey Maltsev",
@@ -90,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -111,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "gh-yzangeren",
             "name": "yZangEren",
             "display_name": "yZangEren",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-yoav-katz",
             "name": "yoav-katz",
             "display_name": "yoav-katz",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "gh-arpitjain099",
             "name": "arpitjain099",
             "display_name": "Arpit Jain",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "gh-tanzerm",
             "name": "tanzerm",
             "display_name": "Moritz Tanzer",
@@ -195,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-therealdwright",
             "name": "therealdwright",
             "display_name": "Daniel Wright",
@@ -208,27 +229,6 @@
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 1,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 11,
-            "user_key": "gh-shivankpndy",
-            "name": "shivankpndy",
-            "display_name": "Shivank Pandey ",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/314400733?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=shivankpndy",
-            "github_login": "shivankpndy",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
             "prs_created": 1,
             "prs_merged": 0,
             "blog_posts": 0,
@@ -343,6 +343,27 @@
         },
         {
             "rank": 17,
+            "user_key": "gh-chandanshukla1989",
+            "name": "chandanshukla1989",
+            "display_name": "chandanshukla1989",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/50393216?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=chandanshukla1989",
+            "github_login": "chandanshukla1989",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 18,
             "user_key": "gh-raphideb",
             "name": "raphideb",
             "display_name": "raphi",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-nbb-content",
             "name": "nbb-content",
             "display_name": "nbb-content",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-uavg",
             "name": "uavg",
             "display_name": "uavg",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-simakink",
             "name": "Simakink",
             "display_name": "Kirill Simakin",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-karam-sudo",
             "name": "karam-sudo",
             "display_name": "karam alhalabi",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-jessebye",
             "name": "jessebye",
             "display_name": "Jesse Bye",

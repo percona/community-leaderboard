@@ -2,7 +2,7 @@
     "period": "2026-09",
     "period_type": "month",
     "period_label": "September 2026",
-    "generated_at": "2026-09-10T04:12:31+00:00",
+    "generated_at": "2026-09-11T04:12:41+00:00",
     "category": "forum",
     "top30": [
         {
@@ -112,6 +112,27 @@
         },
         {
             "rank": 6,
+            "user_key": "fo-a-veselov-s",
+            "name": "a.veselov.s",
+            "display_name": "Андрей Веселов",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/a.veselov.s\/120\/24237_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=a.veselov.s",
+            "github_login": null,
+            "forum_username": "a.veselov.s",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 7,
             "user_key": "fo-mkl262",
             "name": "mkl262",
             "display_name": "mkl262",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "fo-frankfil",
             "name": "frankfil",
             "display_name": "frankfil",
