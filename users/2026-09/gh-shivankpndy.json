@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-09",
     "period_label": "September 2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
-    "points_total": 100,
-    "points_github": 100,
+    "generated_at": "2026-09-12T04:12:22+00:00",
+    "points_total": 125,
+    "points_github": 125,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 1,
+    "prs_created": 2,
     "prs_merged": 1,
     "blog_posts": 0,
     "topics_created": 0,
@@ -21,6 +21,14 @@
     "solutions": 0,
     "github_issues": [],
     "github_prs": [
+        {
+            "title": "updated bio of shivank_pandey.md",
+            "url": "https:\/\/github.com\/percona\/community\/pull\/1275",
+            "repo": "percona\/community",
+            "date": "2026-09-11",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "Blog the perfect serve.",
             "url": "https:\/\/github.com\/percona\/community\/pull\/1269",

@@ -2,7 +2,7 @@
     "period": "2026-09",
     "period_type": "month",
     "period_label": "September 2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
+    "generated_at": "2026-09-12T04:12:22+00:00",
     "category": "forum",
     "top30": [
         {
@@ -133,6 +133,27 @@
         },
         {
             "rank": 7,
+            "user_key": "fo-angel_vilardell",
+            "name": "Angel_Vilardell",
+            "display_name": "Angel Vilardell",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/angel_vilardell\/120\/24238_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Angel_Vilardell",
+            "github_login": null,
+            "forum_username": "Angel_Vilardell",
+            "points_total": 2,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 2,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 1,
+            "solutions": 0
+        },
+        {
+            "rank": 8,
             "user_key": "fo-mkl262",
             "name": "mkl262",
             "display_name": "mkl262",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "fo-frankfil",
             "name": "frankfil",
             "display_name": "frankfil",

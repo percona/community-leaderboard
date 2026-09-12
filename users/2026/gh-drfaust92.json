@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
-    "points_total": 595,
-    "points_github": 595,
+    "generated_at": "2026-09-12T04:12:22+00:00",
+    "points_total": 620,
+    "points_github": 620,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 2,
-    "prs_created": 5,
+    "prs_created": 6,
     "prs_merged": 6,
     "blog_posts": 0,
     "topics_created": 0,
@@ -36,6 +36,14 @@
         }
     ],
     "github_prs": [
+        {
+            "title": "Stop restarting PMM on every chart version bump",
+            "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/965",
+            "repo": "percona\/percona-helm-charts",
+            "date": "2026-09-12",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "K8SPSMDB-1633 - protect CRDs from deletion via preserveCrds",
             "url": "https:\/\/github.com\/percona\/percona-helm-charts\/pull\/901",

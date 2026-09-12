@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
+    "generated_at": "2026-09-12T04:12:22+00:00",
     "category": "global",
     "top30": [
         {
@@ -15,12 +15,12 @@
             "source": "GitHub",
             "github_login": "DrFaust92",
             "forum_username": null,
-            "points_total": 595,
-            "points_github": 595,
+            "points_total": 620,
+            "points_github": 620,
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 2,
-            "prs_created": 5,
+            "prs_created": 6,
             "prs_merged": 6,
             "blog_posts": 0,
             "topics_created": 0,
@@ -447,6 +447,28 @@
         },
         {
             "rank": 21,
+            "user_key": "gh-shivankpndy",
+            "name": "shivankpndy",
+            "display_name": "Shivank Pandey ",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/314400733?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=shivankpndy",
+            "source": "GitHub",
+            "github_login": "shivankpndy",
+            "forum_username": null,
+            "points_total": 125,
+            "points_github": 125,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 22,
             "user_key": "gh-amerello",
             "name": "amerello",
             "display_name": "amerello",
@@ -468,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-belfhi",
             "name": "belfhi",
             "display_name": "Johannes Reppin",
@@ -490,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-squallman",
             "name": "Squallman",
             "display_name": "Serhii Shepel",
@@ -512,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-tineoc",
             "name": "TineoC",
             "display_name": "Christopher Tineo",
@@ -534,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-vinh1507",
             "name": "Vinh1507",
             "display_name": "Vinh1507",
@@ -556,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-zpascal",
             "name": "ZPascal",
             "display_name": "Pascal Zimmermann",
@@ -578,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-kzinas-adv",
             "name": "kzinas-adv",
             "display_name": "Domantas Speciunas",
@@ -600,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-matan77",
             "name": "matan77",
             "display_name": "matan77",
@@ -622,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-sfoulkes",
             "name": "sfoulkes",
             "display_name": "Stephen Foulkes",
@@ -630,28 +652,6 @@
             "profile_url": "\/web\/leaderboard\/profile?github=sfoulkes",
             "source": "GitHub",
             "github_login": "sfoulkes",
-            "forum_username": null,
-            "points_total": 110,
-            "points_github": 110,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 1,
-            "prs_created": 1,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-tariktunahanakan",
-            "name": "tariktunahanakan",
-            "display_name": "tariktunahanakan",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/88598348?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=tariktunahanakan",
-            "source": "GitHub",
-            "github_login": "tariktunahanakan",
             "forum_username": null,
             "points_total": 110,
             "points_github": 110,

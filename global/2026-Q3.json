@@ -2,7 +2,7 @@
     "period": "2026-Q3",
     "period_type": "quarter",
     "period_label": "Q3 2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
+    "generated_at": "2026-09-12T04:12:22+00:00",
     "category": "global",
     "top30": [
         {
@@ -15,12 +15,12 @@
             "source": "GitHub",
             "github_login": "DrFaust92",
             "forum_username": null,
-            "points_total": 325,
-            "points_github": 325,
+            "points_total": 350,
+            "points_github": 350,
             "points_content": 0,
             "points_forum": 0,
             "issues_created": 0,
-            "prs_created": 1,
+            "prs_created": 2,
             "prs_merged": 4,
             "blog_posts": 0,
             "topics_created": 0,
@@ -95,6 +95,28 @@
         },
         {
             "rank": 5,
+            "user_key": "gh-shivankpndy",
+            "name": "shivankpndy",
+            "display_name": "Shivank Pandey ",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/314400733?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=shivankpndy",
+            "source": "GitHub",
+            "github_login": "shivankpndy",
+            "forum_username": null,
+            "points_total": 125,
+            "points_github": 125,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 6,
             "user_key": "gh-belfhi",
             "name": "belfhi",
             "display_name": "Johannes Reppin",
@@ -116,7 +138,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "gh-kzinas-adv",
             "name": "kzinas-adv",
             "display_name": "Domantas Speciunas",
@@ -138,7 +160,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "bl-andrea-gnemmi",
             "name": "Andrea Gnemmi",
             "display_name": "Andrea Gnemmi",
@@ -160,7 +182,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "bl-daniel-guzman-burgos",
             "name": "Daniel Guzman Burgos",
             "display_name": "Daniel Guzman Burgos",
@@ -182,7 +204,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "bl-isobel-smith",
             "name": "Isobel Smith",
             "display_name": "Isobel Smith",
@@ -204,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -226,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "gh-kaivalyamdabhadkar",
             "name": "KaivalyaMDabhadkar",
             "display_name": "KaivalyaMDabhadkar",
@@ -248,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "bl-marno-krahmer",
             "name": "Marno Krahmer",
             "display_name": "Marno Krahmer",
@@ -270,7 +292,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "bl-przemek-malkowski",
             "name": "Przemek Malkowski",
             "display_name": "Przemek Malkowski",
@@ -292,7 +314,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "bl-shivank-pandey",
             "name": "Shivank Pandey",
             "display_name": "Shivank Pandey",
@@ -314,7 +336,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-starfox64",
             "name": "Starfox64",
             "display_name": "Starfox64",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "bl-yi",
             "name": "Yi",
             "display_name": "Yi",
@@ -358,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-avinashtanniru",
             "name": "avinashtanniru",
             "display_name": "Avinash Tanniru",
@@ -380,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-giezi",
             "name": "giezi",
             "display_name": "giezi",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-mohag",
             "name": "mohag",
             "display_name": "Gert van den Berg",
@@ -424,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-rajaie7",
             "name": "rajaie7",
             "display_name": "Rajaie Alkorani",
@@ -432,28 +454,6 @@
             "profile_url": "\/web\/leaderboard\/profile?github=rajaie7",
             "source": "GitHub",
             "github_login": "rajaie7",
-            "forum_username": null,
-            "points_total": 100,
-            "points_github": 100,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 21,
-            "user_key": "gh-shivankpndy",
-            "name": "shivankpndy",
-            "display_name": "Shivank Pandey ",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/314400733?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=shivankpndy",
-            "source": "GitHub",
-            "github_login": "shivankpndy",
             "forum_username": null,
             "points_total": 100,
             "points_github": 100,
@@ -645,13 +645,13 @@
         },
         {
             "rank": 30,
-            "user_key": "gh-geoheil",
-            "name": "geoHeil",
-            "display_name": "geoHeil",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1694964?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=geoHeil",
+            "user_key": "gh-3uzbcqje",
+            "name": "3uzbcqje",
+            "display_name": "3uzbcqje",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20584445?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=3uzbcqje",
             "source": "GitHub",
-            "github_login": "geoHeil",
+            "github_login": "3uzbcqje",
             "forum_username": null,
             "points_total": 35,
             "points_github": 35,
