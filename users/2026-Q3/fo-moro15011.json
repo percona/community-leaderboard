@@ -7,16 +7,16 @@
     "forum_username": "moro15011",
     "period": "2026-Q3",
     "period_label": "Q3 2026",
-    "generated_at": "2026-09-13T04:12:05+00:00",
-    "points_total": 5,
+    "generated_at": "2026-09-21T04:11:54+00:00",
+    "points_total": 10,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 5,
+    "points_forum": 10,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 1,
+    "topics_created": 2,
     "replies": 0,
     "solutions": 0,
     "github_issues": [],
@@ -27,6 +27,11 @@
             "title": "Percona-xtradb-cluster-server 1:8.4.10-10-1.noble now uses libperconaserverclient22 instead of libperconaserverclient24?",
             "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-cluster-server-1-8-4-10-10-1-noble-now-uses-libperconaserverclient22-instead-of-libperconaserverclient24",
             "date": "2026-08-06"
+        },
+        {
+            "title": "Percona XtraDB 84 - Clone SST joiner aborts with “Operation not permitted” on Ubuntu 24.04: mv -n exits 1 under errexit when datadir already has *.pem",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-84-clone-sst-joiner-aborts-with-operation-not-permitted-on-ubuntu-24-04-mv-n-exits-1-under-errexit-when-datadir-already-has-pem",
+            "date": "2026-09-16"
         }
     ],
     "forum_replies": [],

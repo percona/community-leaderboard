@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-moro15011",
+    "display_name": "moro15011",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/m\/0ea827\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=moro15011",
+    "github_login": null,
+    "forum_username": "moro15011",
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-09-21T04:11:54+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Percona XtraDB 84 - Clone SST joiner aborts with “Operation not permitted” on Ubuntu 24.04: mv -n exits 1 under errexit when datadir already has *.pem",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtradb-84-clone-sst-joiner-aborts-with-operation-not-permitted-on-ubuntu-24-04-mv-n-exits-1-under-errexit-when-datadir-already-has-pem",
+            "date": "2026-09-16"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
