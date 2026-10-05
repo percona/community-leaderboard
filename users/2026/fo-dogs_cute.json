@@ -1,0 +1,84 @@
+{
+    "user_key": "fo-dogs_cute",
+    "display_name": "dogs Cute",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dogs_cute\/120\/12754_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dogs_Cute",
+    "github_login": null,
+    "forum_username": "dogs_Cute",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-10-05T14:59:33+00:00",
+    "points_total": 22,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 22,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 11,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "MySQL 8.0 information_schema Corruption - Cannot Expand PXC Cluster",
+            "url": "https:\/\/forums.percona.com\/t\/mysql-8-0-information-schema-corruption-cannot-expand-pxc-cluster\/2",
+            "date": "2026-01-31"
+        },
+        {
+            "topic_title": "Percona-xtrabackup-84 cannot be installed on Rocky Linux 9.7 with Percona Server 8.4 (missing libmysqlclient.so.21)",
+            "url": "https:\/\/forums.percona.com\/t\/percona-xtrabackup-84-cannot-be-installed-on-rocky-linux-9-7-with-percona-server-8-4-missing-libmysqlclient-so-21\/2",
+            "date": "2026-02-04"
+        },
+        {
+            "topic_title": "PXC configured as async replica can not decrease replication lag",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-configured-as-async-replica-can-not-decrease-replication-lag\/10",
+            "date": "2026-04-02"
+        },
+        {
+            "topic_title": "Percona Patroni EOL Support with Ubuntu Pro for 22.04",
+            "url": "https:\/\/forums.percona.com\/t\/percona-patroni-eol-support-with-ubuntu-pro-for-22-04\/2",
+            "date": "2026-06-16"
+        },
+        {
+            "topic_title": "PGO Builds Available?",
+            "url": "https:\/\/forums.percona.com\/t\/pgo-builds-available\/2",
+            "date": "2026-08-12"
+        },
+        {
+            "topic_title": "Is Jemalloc still recommended to replace glibc?",
+            "url": "https:\/\/forums.percona.com\/t\/is-jemalloc-still-recommended-to-replace-glibc\/5",
+            "date": "2026-08-21"
+        },
+        {
+            "topic_title": "How should GCache size be determined for PXC?",
+            "url": "https:\/\/forums.percona.com\/t\/how-should-gcache-size-be-determined-for-pxc\/3",
+            "date": "2026-09-02"
+        },
+        {
+            "topic_title": "Performance Issue with Hash Calculation in PostgreSQL Triggers",
+            "url": "https:\/\/forums.percona.com\/t\/performance-issue-with-hash-calculation-in-postgresql-triggers\/2",
+            "date": "2026-09-05"
+        },
+        {
+            "topic_title": "Tarball-based Percona SST\/IST failure after upgrading from 8.4.4-4.1 to 8.4.8-8.1",
+            "url": "https:\/\/forums.percona.com\/t\/tarball-based-percona-sst-ist-failure-after-upgrading-from-8-4-4-4-1-to-8-4-8-8-1\/3",
+            "date": "2026-09-22"
+        },
+        {
+            "topic_title": "Tarball-based Percona SST\/IST failure after upgrading from 8.4.4-4.1 to 8.4.8-8.1",
+            "url": "https:\/\/forums.percona.com\/t\/tarball-based-percona-sst-ist-failure-after-upgrading-from-8-4-4-4-1-to-8-4-8-8-1\/6",
+            "date": "2026-09-22"
+        },
+        {
+            "topic_title": "Permissions errors when trying to install mariadb using mariadb-install-db",
+            "url": "https:\/\/forums.percona.com\/t\/permissions-errors-when-trying-to-install-mariadb-using-mariadb-install-db\/2",
+            "date": "2026-10-04"
+        }
+    ],
+    "forum_solutions": []
+}

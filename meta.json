@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-09-21T04:11:54+00:00",
+    "generated_at": "2026-10-05T14:59:33+00:00",
     "default_period": "2026",
     "periods": [
         {
@@ -8,8 +8,8 @@
             "type": "all-time"
         },
         {
-            "key": "2024",
-            "label": "2024",
+            "key": "2026",
+            "label": "2026",
             "type": "year"
         },
         {
@@ -18,33 +18,18 @@
             "type": "year"
         },
         {
-            "key": "2026",
-            "label": "2026",
+            "key": "2024",
+            "label": "2024",
             "type": "year"
         },
         {
-            "key": "2025-Q1",
-            "label": "Q1 2025",
+            "key": "2026-Q4",
+            "label": "Q4 2026",
             "type": "quarter"
         },
         {
-            "key": "2025-Q2",
-            "label": "Q2 2025",
-            "type": "quarter"
-        },
-        {
-            "key": "2025-Q3",
-            "label": "Q3 2025",
-            "type": "quarter"
-        },
-        {
-            "key": "2025-Q4",
-            "label": "Q4 2025",
-            "type": "quarter"
-        },
-        {
-            "key": "2026-Q1",
-            "label": "Q1 2026",
+            "key": "2026-Q3",
+            "label": "Q3 2026",
             "type": "quarter"
         },
         {
@@ -53,9 +38,34 @@
             "type": "quarter"
         },
         {
-            "key": "2026-Q3",
-            "label": "Q3 2026",
+            "key": "2026-Q1",
+            "label": "Q1 2026",
             "type": "quarter"
+        },
+        {
+            "key": "2025-Q4",
+            "label": "Q4 2025",
+            "type": "quarter"
+        },
+        {
+            "key": "2025-Q3",
+            "label": "Q3 2025",
+            "type": "quarter"
+        },
+        {
+            "key": "2025-Q2",
+            "label": "Q2 2025",
+            "type": "quarter"
+        },
+        {
+            "key": "2025-Q1",
+            "label": "Q1 2025",
+            "type": "quarter"
+        },
+        {
+            "key": "2026-10",
+            "label": "October 2026",
+            "type": "month"
         },
         {
             "key": "2026-09",

@@ -7,23 +7,28 @@
     "forum_username": "Peter_Szczepaniak",
     "period": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-03-30T15:50:46+00:00",
-    "points_total": 122,
+    "generated_at": "2026-10-05T14:59:33+00:00",
+    "points_total": 128,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 122,
+    "points_forum": 128,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
-    "replies": 11,
+    "replies": 14,
     "solutions": 2,
     "github_issues": [],
     "github_prs": [],
     "blog_list": [],
     "forum_topics": [],
     "forum_replies": [
+        {
+            "topic_title": "PMM DBaaS for Postgress DB",
+            "url": "https:\/\/forums.percona.com\/t\/pmm-dbaas-for-postgress-db\/4",
+            "date": "2024-07-23"
+        },
         {
             "topic_title": "One Everest to manage multiple Kubernetes\/Rancher Clusters and Namespaces",
             "url": "https:\/\/forums.percona.com\/t\/one-everest-to-manage-multiple-kubernetes-rancher-clusters-and-namespaces\/2",
@@ -38,6 +43,16 @@
             "topic_title": "Adding support for non-AWS S3 Backup Storage Location",
             "url": "https:\/\/forums.percona.com\/t\/adding-support-for-non-aws-s3-backup-storage-location\/4",
             "date": "2024-01-11"
+        },
+        {
+            "topic_title": "Percona mongoDB crash on AKS",
+            "url": "https:\/\/forums.percona.com\/t\/percona-mongodb-crash-on-aks\/10",
+            "date": "2024-04-22"
+        },
+        {
+            "topic_title": "Everest event notifications\/webhooks",
+            "url": "https:\/\/forums.percona.com\/t\/everest-event-notifications-webhooks\/2",
+            "date": "2024-07-10"
         },
         {
             "topic_title": "Everest questions",

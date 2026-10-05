@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-jdwuzhere",
+    "display_name": "jdwuzhere",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/125297023?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=jdwuzhere",
+    "github_login": "jdwuzhere",
+    "forum_username": null,
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-05T14:59:33+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Migration to the latest PMM 3 guide has an issue",
+            "url": "https:\/\/github.com\/percona\/pmm\/issues\/6046",
+            "repo": "percona\/pmm",
+            "date": "2026-10-04",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

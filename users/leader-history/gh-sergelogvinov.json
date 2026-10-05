@@ -1,18 +1,12 @@
 {
     "user_key": "gh-sergelogvinov",
-    "generated_at": "2026-09-21T04:11:54+00:00",
+    "generated_at": "2026-10-05T14:59:33+00:00",
     "summit_periods": [
         {
             "period_key": "all-time",
             "period_label": "All Time",
             "period_type": "all-time",
             "rank": 9
-        },
-        {
-            "period_key": "2024",
-            "period_label": "2024",
-            "period_type": "year",
-            "rank": 4
         }
     ]
 }

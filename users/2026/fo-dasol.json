@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-dasol",
+    "display_name": "dasol",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/ed655f\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dasol",
+    "github_login": null,
+    "forum_username": "dasol",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-10-05T14:59:33+00:00",
+    "points_total": 15,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 15,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 3,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Inquiry About Auditing Behavior and Performance",
+            "url": "https:\/\/forums.percona.com\/t\/inquiry-about-auditing-behavior-and-performance",
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Questions Regarding PBM 2.14 Backup Cleanup and PITR Behavior",
+            "url": "https:\/\/forums.percona.com\/t\/questions-regarding-pbm-2-14-backup-cleanup-and-pitr-behavior",
+            "date": "2026-06-06"
+        },
+        {
+            "title": "Question About PITR Continuity",
+            "url": "https:\/\/forums.percona.com\/t\/question-about-pitr-continuity",
+            "date": "2026-09-17"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

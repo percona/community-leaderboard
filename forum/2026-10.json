@@ -1,0 +1,51 @@
+{
+    "period": "2026-10",
+    "period_type": "month",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-05T14:59:33+00:00",
+    "category": "forum",
+    "top30": [
+        {
+            "rank": 1,
+            "user_key": "fo-xraphael75",
+            "name": "xraphael75",
+            "display_name": "xraphael75",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/x\/76d3ee\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=xraphael75",
+            "github_login": null,
+            "forum_username": "xraphael75",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "fo-dogs_cute",
+            "name": "dogs_Cute",
+            "display_name": "dogs Cute",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dogs_cute\/120\/12754_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=dogs_Cute",
+            "github_login": null,
+            "forum_username": "dogs_Cute",
+            "points_total": 2,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 2,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 1,
+            "solutions": 0
+        }
+    ]
+}
