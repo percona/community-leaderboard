@@ -1,0 +1,40 @@
+{
+    "user_key": "fo-yeruchom",
+    "display_name": "Yeruchom",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/y\/3bc359\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Yeruchom",
+    "github_login": null,
+    "forum_username": "Yeruchom",
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 7,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 7,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Initial-sync clone hangs forever after source primary election",
+            "url": "https:\/\/forums.percona.com\/t\/initial-sync-clone-hangs-forever-after-source-primary-election",
+            "date": "2026-06-07"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "PMM3 + mongodb. 2 questions - about mongodb_mongolog_agent and Query Analytics panel",
+            "url": "https:\/\/forums.percona.com\/t\/pmm3-mongodb-2-questions-about-mongodb-mongolog-agent-and-query-analytics-panel\/4",
+            "date": "2026-06-02"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+    "user_key": "fo-neil_billett",
+    "display_name": "Neil Billett",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/neil_billett\/120\/11626_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Neil_Billett",
+    "github_login": null,
+    "forum_username": "Neil_Billett",
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 4,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 4,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 2,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Tarball-based Percona SST\/IST failure after upgrading from 8.4.4-4.1 to 8.4.8-8.1",
+            "url": "https:\/\/forums.percona.com\/t\/tarball-based-percona-sst-ist-failure-after-upgrading-from-8-4-4-4-1-to-8-4-8-8-1\/5",
+            "date": "2026-09-22"
+        },
+        {
+            "topic_title": "Tarball-based Percona SST\/IST failure after upgrading from 8.4.4-4.1 to 8.4.8-8.1",
+            "url": "https:\/\/forums.percona.com\/t\/tarball-based-percona-sst-ist-failure-after-upgrading-from-8-4-4-4-1-to-8-4-8-8-1\/7",
+            "date": "2026-09-23"
+        }
+    ],
+    "forum_solutions": []
+}

@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-cheng",
+    "display_name": "cheng",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/c\/ecccb3\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=cheng",
+    "github_login": null,
+    "forum_username": "cheng",
+    "period": "2026-05",
+    "period_label": "May 2026",
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": " 45\/5000 When using xtrabackup 8.0.33-27 to back up MySQL 8.0.1, I encountered a long backup time.",
+            "url": "https:\/\/forums.percona.com\/t\/45-5000-when-using-xtrabackup-8-0-33-27-to-back-up-mysql-8-0-1-i-encountered-a-long-backup-time",
+            "date": "2026-05-30"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

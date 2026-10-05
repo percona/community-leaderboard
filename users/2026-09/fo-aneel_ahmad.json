@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-aneel_ahmad",
+    "display_name": "Aneel Ahmad",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/aneel_ahmad\/120\/17218_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Aneel_Ahmad",
+    "github_login": null,
+    "forum_username": "Aneel_Ahmad",
+    "period": "2026-09",
+    "period_label": "September 2026",
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Pt-online-schema-change 3.7.1 exhausts max_user_connections on MySQL 8.4 replica lag checks",
+            "url": "https:\/\/forums.percona.com\/t\/pt-online-schema-change-3-7-1-exhausts-max-user-connections-on-mysql-8-4-replica-lag-checks",
+            "date": "2026-09-30"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

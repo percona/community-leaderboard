@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-dasol",
+    "display_name": "dasol",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/ed655f\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=dasol",
+    "github_login": null,
+    "forum_username": "dasol",
+    "period": "2026-06",
+    "period_label": "June 2026",
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Questions Regarding PBM 2.14 Backup Cleanup and PITR Behavior",
+            "url": "https:\/\/forums.percona.com\/t\/questions-regarding-pbm-2-14-backup-cleanup-and-pitr-behavior",
+            "date": "2026-06-06"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

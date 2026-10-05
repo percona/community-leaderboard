@@ -1,6 +1,6 @@
 {
     "user_key": "gh-myjamong",
-    "generated_at": "2026-10-05T14:59:33+00:00",
+    "generated_at": "2026-10-05T15:22:39+00:00",
     "summit_periods": [
         {
             "period_key": "all-time",
@@ -12,6 +12,30 @@
             "period_key": "2026",
             "period_label": "2026",
             "period_type": "year",
+            "rank": 3
+        },
+        {
+            "period_key": "2026-Q2",
+            "period_label": "Q2 2026",
+            "period_type": "quarter",
+            "rank": 2
+        },
+        {
+            "period_key": "2026-Q1",
+            "period_label": "Q1 2026",
+            "period_type": "quarter",
+            "rank": 2
+        },
+        {
+            "period_key": "2026-06",
+            "period_label": "June 2026",
+            "period_type": "month",
+            "rank": 2
+        },
+        {
+            "period_key": "2026-03",
+            "period_label": "March 2026",
+            "period_type": "month",
             "rank": 3
         }
     ]

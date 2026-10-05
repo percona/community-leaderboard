@@ -2,7 +2,7 @@
     "period": "2026-06",
     "period_type": "month",
     "period_label": "June 2026",
-    "generated_at": "2026-09-21T04:11:54+00:00",
+    "generated_at": "2026-10-05T15:22:39+00:00",
     "category": "forum",
     "top30": [
         {
@@ -49,6 +49,27 @@
         },
         {
             "rank": 3,
+            "user_key": "fo-yeruchom",
+            "name": "Yeruchom",
+            "display_name": "Yeruchom",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/y\/3bc359\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Yeruchom",
+            "github_login": null,
+            "forum_username": "Yeruchom",
+            "points_total": 7,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 7,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 1,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "fo-pshah",
             "name": "pshah",
             "display_name": "pshah",
@@ -69,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "fo-natashalr",
             "name": "NatashaLR",
             "display_name": "Natasha",
@@ -90,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "fo-srinivas",
             "name": "Srinivas",
             "display_name": "Srinivasarao",
@@ -111,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "fo-wasef",
             "name": "Wasef",
             "display_name": "Wasef",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "fo-yash_daga",
             "name": "Yash_Daga",
             "display_name": "Yash Daga",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "fo-p_c",
             "name": "P_C",
             "display_name": "P C",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "fo-christophel",
             "name": "christopheL",
             "display_name": "christopheL",
@@ -195,7 +216,28 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
+            "user_key": "fo-dasol",
+            "name": "dasol",
+            "display_name": "dasol",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/ed655f\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=dasol",
+            "github_login": null,
+            "forum_username": "dasol",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 12,
             "user_key": "fo-abh",
             "name": "abh",
             "display_name": "abh",
@@ -216,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 13,
             "user_key": "fo-acho",
             "name": "acho",
             "display_name": "acho",
@@ -237,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 14,
             "user_key": "fo-raphi79",
             "name": "Raphi79",
             "display_name": "Raphi79",
@@ -258,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 15,
             "user_key": "fo-zubin-parihar-bcgeu",
             "name": "zubin.parihar.bcgeu",
             "display_name": "zubin.parihar.bcgeu",
@@ -279,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 16,
             "user_key": "fo-madhurbhaiya",
             "name": "madhurbhaiya",
             "display_name": "Madhur Bhaiya",
@@ -300,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 17,
             "user_key": "fo-ovidijus_balkauskas",
             "name": "Ovidijus_Balkauskas",
             "display_name": "Ovidijus Balkauskas",
@@ -321,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 18,
             "user_key": "fo-march",
             "name": "MarcH",
             "display_name": "MarcH",
@@ -342,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 19,
             "user_key": "fo-alex_porter",
             "name": "Alex_Porter",
             "display_name": "Alex Porter",
@@ -363,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 20,
             "user_key": "fo-deepak-kv",
             "name": "deepak.kv",
             "display_name": "deepak.kv",
@@ -384,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 21,
             "user_key": "fo-pkm2112",
             "name": "pkm2112",
             "display_name": "pkm2112",
@@ -405,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 22,
             "user_key": "fo-dclark",
             "name": "dclark",
             "display_name": "dclark",
@@ -426,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
             "user_key": "fo-piyush_tiwari",
             "name": "Piyush_Tiwari",
             "display_name": "Piyush Tiwari",
@@ -447,7 +489,28 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 24,
+            "user_key": "fo-alvin_ma",
+            "name": "Alvin_Ma",
+            "display_name": "Alvin Ma",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/alvin_ma\/120\/13742_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Alvin_Ma",
+            "github_login": null,
+            "forum_username": "Alvin_Ma",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 25,
             "user_key": "fo-thomas-liebold_c24",
             "name": "thomas.liebold_c24",
             "display_name": "Thomas",
@@ -468,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 26,
             "user_key": "fo-sachin_japate",
             "name": "sachin_japate",
             "display_name": "sachin japate",
@@ -489,7 +552,28 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 27,
+            "user_key": "fo-svas",
+            "name": "svas",
+            "display_name": "svas",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/s\/d9b06d\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=svas",
+            "github_login": null,
+            "forum_username": "svas",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 28,
             "user_key": "fo-laurynas_biveinis",
             "name": "Laurynas_Biveinis",
             "display_name": "Laurynas Biveinis",
@@ -510,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 29,
             "user_key": "fo-stateros",
             "name": "Stateros",
             "display_name": "Stateros",
@@ -531,14 +615,14 @@
             "solutions": 0
         },
         {
-            "rank": 26,
-            "user_key": "fo-rohit_khurana",
-            "name": "ROHIT_KHURANA",
-            "display_name": "ROHIT KHURANA",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/rohit_khurana\/120\/2760_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=ROHIT_KHURANA",
+            "rank": 30,
+            "user_key": "fo-dafsdfdf",
+            "name": "dafsdfdf",
+            "display_name": "dafsdfdf",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dafsdfdf\/120\/24228_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=dafsdfdf",
             "github_login": null,
-            "forum_username": "ROHIT_KHURANA",
+            "forum_username": "dafsdfdf",
             "points_total": 2,
             "points_github": 0,
             "points_content": 0,

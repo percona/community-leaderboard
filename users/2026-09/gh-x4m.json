@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-09",
     "period_label": "September 2026",
-    "generated_at": "2026-09-21T04:11:54+00:00",
-    "points_total": 25,
-    "points_github": 25,
+    "generated_at": "2026-10-05T15:22:39+00:00",
+    "points_total": 200,
+    "points_github": 200,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 1,
+    "prs_created": 8,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
@@ -21,6 +21,62 @@
     "solutions": 0,
     "github_issues": [],
     "github_prs": [
+        {
+            "title": "InnoDB: restore a torn TRX_SYS page from the doublewrite buffer at startup (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6179",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: restore a torn page from the newest doublewrite copy (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6178",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: recover a torn first page using the space id the caller knows (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6177",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: validate tablespace flags before deriving anything from them (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6176",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: treat a torn redo block with the encryption bit set as log end (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6175",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: fsync the doublewrite file before writing data pages with O_DIRECT (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6174",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "InnoDB: do not lose committed FULLTEXT documents on crash recovery (8.4)",
+            "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6173",
+            "repo": "percona\/percona-server",
+            "date": "2026-09-23",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "InnoDB: prevent phantoms in FULLTEXT locking reads (8.4)",
             "url": "https:\/\/github.com\/percona\/percona-server\/pull\/6164",

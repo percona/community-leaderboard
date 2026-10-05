@@ -2,7 +2,7 @@
     "period": "2026-04",
     "period_type": "month",
     "period_label": "April 2026",
-    "generated_at": "2026-09-21T04:11:54+00:00",
+    "generated_at": "2026-10-05T15:22:39+00:00",
     "category": "forum",
     "top30": [
         {
@@ -322,6 +322,27 @@
         },
         {
             "rank": 16,
+            "user_key": "fo-viswanatha",
+            "name": "viswanatha",
+            "display_name": "viswanath",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/viswanatha\/120\/23477_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=viswanatha",
+            "github_login": null,
+            "forum_username": "viswanatha",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 17,
             "user_key": "fo-christopher",
             "name": "christopher",
             "display_name": "Christopher",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "fo-gurucubano",
             "name": "gurucubano",
             "display_name": "gurucubano",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "fo-woxx",
             "name": "WOXX",
             "display_name": "WOXX",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "fo-michael_shield",
             "name": "Michael_Shield",
             "display_name": "Michael Shield",
@@ -405,7 +426,28 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
+            "user_key": "fo-gorokhov-inc",
+            "name": "gorokhov.inc",
+            "display_name": "Александр Горохов",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/gorokhov.inc\/120\/23548_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=gorokhov.inc",
+            "github_login": null,
+            "forum_username": "gorokhov.inc",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 22,
             "user_key": "fo-rahul93",
             "name": "Rahul93",
             "display_name": "Rahul",
@@ -426,7 +468,28 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
+            "user_key": "fo-ddf",
+            "name": "ddf",
+            "display_name": "test",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/f475e1\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ddf",
+            "github_login": null,
+            "forum_username": "ddf",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 24,
             "user_key": "fo-srinivas",
             "name": "Srinivas",
             "display_name": "Srinivasarao",
@@ -447,7 +510,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 25,
             "user_key": "fo-ks27",
             "name": "ks27",
             "display_name": "ks27",
@@ -468,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 26,
             "user_key": "fo-b-balmon",
             "name": "b.balmon",
             "display_name": "b.balmon",
@@ -489,7 +552,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 27,
             "user_key": "fo-jruffer",
             "name": "jruffer",
             "display_name": "Jeremy Ruffer",
@@ -510,7 +573,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 28,
             "user_key": "fo-chemp",
             "name": "chemp",
             "display_name": "chemp",
@@ -531,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 29,
             "user_key": "fo-naresh9999",
             "name": "Naresh9999",
             "display_name": "Naresh9999",
@@ -552,7 +615,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 30,
             "user_key": "fo-rafaelpastre",
             "name": "rafaelpastre",
             "display_name": "rafaelpastre",
@@ -560,69 +623,6 @@
             "profile_url": "\/web\/leaderboard\/profile?forum=rafaelpastre",
             "github_login": null,
             "forum_username": "rafaelpastre",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 28,
-            "user_key": "fo-cmj_cmj",
-            "name": "cmj_cmj",
-            "display_name": "cmj cmj",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/cmj_cmj\/120\/23616_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=cmj_cmj",
-            "github_login": null,
-            "forum_username": "cmj_cmj",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 29,
-            "user_key": "fo-pravata_dash",
-            "name": "pravata_dash",
-            "display_name": "pravata dash",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/pravata_dash\/120\/12098_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=pravata_dash",
-            "github_login": null,
-            "forum_username": "pravata_dash",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "fo-jay_rafati",
-            "name": "Jay_Rafati",
-            "display_name": "Jay Rafati",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jay_rafati\/120\/7228_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=Jay_Rafati",
-            "github_login": null,
-            "forum_username": "Jay_Rafati",
             "points_total": 5,
             "points_github": 0,
             "points_content": 0,
