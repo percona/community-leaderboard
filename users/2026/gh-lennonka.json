@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-lennonka",
+    "display_name": "Lena Ansorge",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/20555018?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Lennonka",
+    "github_login": "Lennonka",
+    "forum_username": null,
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-10-06T04:13:04+00:00",
+    "points_total": 135,
+    "points_github": 135,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 2,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "DOCS project does not exist in Jira",
+            "url": "https:\/\/github.com\/percona\/community\/issues\/1290",
+            "repo": "percona\/community",
+            "date": "2026-10-02",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "Remove outdated note about llvm packages",
+            "url": "https:\/\/github.com\/percona\/postgresql-docs\/pull\/1053",
+            "repo": "percona\/postgresql-docs",
+            "date": "2026-10-02",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "Fix link to the Style Guide",
+            "url": "https:\/\/github.com\/percona\/community\/pull\/1289",
+            "repo": "percona\/community",
+            "date": "2026-10-02",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

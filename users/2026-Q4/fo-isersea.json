@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-isersea",
+    "display_name": "isersea",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/isersea\/120\/24323_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=isersea",
+    "github_login": null,
+    "forum_username": "isersea",
+    "period": "2026-Q4",
+    "period_label": "Q4 2026",
+    "generated_at": "2026-10-06T04:13:04+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "A Fail-Fast PostgreSQL Migration Preflight for CI | Percona Community",
+            "url": "https:\/\/forums.percona.com\/t\/a-fail-fast-postgresql-migration-preflight-for-ci-percona-community\/2",
+            "date": "2026-10-05"
+        }
+    ],
+    "forum_solutions": []
+}
