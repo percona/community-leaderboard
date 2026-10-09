@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-10-08T04:13:40+00:00",
+    "generated_at": "2026-10-09T04:13:54+00:00",
     "category": "github",
     "top30": [
         {
@@ -364,6 +364,27 @@
         },
         {
             "rank": 18,
+            "user_key": "gh-izzysmith",
+            "name": "IzzySmith",
+            "display_name": "Isobel Smith ",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16936241?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=IzzySmith",
+            "github_login": "IzzySmith",
+            "forum_username": null,
+            "points_total": 300,
+            "points_github": 300,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 3,
+            "prs_merged": 3,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 19,
             "user_key": "gh-t-yrka",
             "name": "t-yrka",
             "display_name": "t-yrka",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-japinli",
             "name": "japinli",
             "display_name": "Japin Li",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-dratushnyy",
             "name": "dratushnyy",
             "display_name": "Dmitry Ratushnyy",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-ebuildy",
             "name": "ebuildy",
             "display_name": "Thomas Decaux",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-dimitrioslisenko",
             "name": "DimitriosLisenko",
             "display_name": "DimitriosLisenko",
@@ -468,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-btriller",
             "name": "btriller",
             "display_name": "Bastian Triller",
@@ -489,7 +510,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-jeffreydwalter",
             "name": "jeffreydwalter",
             "display_name": "Jeffrey Walter",
@@ -510,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -531,34 +552,13 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-vishwas-sharma2480",
             "name": "vishwas-sharma2480",
             "display_name": "Vishwas Sharma",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/135056281?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=vishwas-sharma2480",
             "github_login": "vishwas-sharma2480",
-            "forum_username": null,
-            "points_total": 225,
-            "points_github": 225,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 3,
-            "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 27,
-            "user_key": "gh-izzysmith",
-            "name": "IzzySmith",
-            "display_name": "Isobel Smith ",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16936241?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=IzzySmith",
-            "github_login": "IzzySmith",
             "forum_username": null,
             "points_total": 225,
             "points_github": 225,

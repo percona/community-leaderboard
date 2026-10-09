@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-10-08T04:13:40+00:00",
+    "generated_at": "2026-10-09T04:13:54+00:00",
     "category": "github",
     "top30": [
         {
@@ -322,6 +322,27 @@
         },
         {
             "rank": 16,
+            "user_key": "gh-izzysmith",
+            "name": "IzzySmith",
+            "display_name": "Isobel Smith ",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16936241?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=IzzySmith",
+            "github_login": "IzzySmith",
+            "forum_username": null,
+            "points_total": 200,
+            "points_github": 200,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 2,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 17,
             "user_key": "gh-x4m",
             "name": "x4m",
             "display_name": "Andrey Borodin",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-jackiesre721",
             "name": "jackiesre721",
             "display_name": "richie",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-shajia-deshaw",
             "name": "shajia-deshaw",
             "display_name": "Afeedh Shaji",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-larainema",
             "name": "larainema",
             "display_name": "Dong Ma",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-guanchzhou",
             "name": "guanchzhou",
             "display_name": "Andrey Maltsev",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-chilagrow",
             "name": "chilagrow",
             "display_name": "Chi Fujii",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-lennonka",
             "name": "Lennonka",
             "display_name": "Lena Ansorge",
@@ -468,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-majiayu000",
             "name": "majiayu000",
             "display_name": "lif",
@@ -489,34 +510,13 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-muralimon",
             "name": "MuraliMon",
             "display_name": "Murali",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/89640199?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=MuraliMon",
             "github_login": "MuraliMon",
-            "forum_username": null,
-            "points_total": 125,
-            "points_github": 125,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 2,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 25,
-            "user_key": "gh-izzysmith",
-            "name": "IzzySmith",
-            "display_name": "Isobel Smith ",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16936241?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=IzzySmith",
-            "github_login": "IzzySmith",
             "forum_username": null,
             "points_total": 125,
             "points_github": 125,

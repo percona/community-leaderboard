@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-10-08T04:13:40+00:00",
+    "generated_at": "2026-10-09T04:13:54+00:00",
     "category": "content",
     "top30": [
         {
@@ -12,6 +12,27 @@
             "display_name": "Isobel Smith",
             "avatar_url": null,
             "profile_url": "\/web\/leaderboard\/profile?blog=Isobel+Smith",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 300,
+            "points_github": 0,
+            "points_content": 300,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 3,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "bl-marno-krahmer",
+            "name": "Marno Krahmer",
+            "display_name": "Marno Krahmer",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Marno+Krahmer",
             "github_login": null,
             "forum_username": null,
             "points_total": 200,
@@ -27,7 +48,7 @@
             "solutions": 0
         },
         {
-            "rank": 2,
+            "rank": 3,
             "user_key": "bl-alexandre-vaniachine",
             "name": "Alexandre Vaniachine",
             "display_name": "Alexandre Vaniachine",
@@ -48,7 +69,7 @@
             "solutions": 0
         },
         {
-            "rank": 3,
+            "rank": 4,
             "user_key": "bl-iuliia--julie--slobodian",
             "name": "Iuliia (Julie) Slobodian",
             "display_name": "Iuliia (Julie) Slobodian",
@@ -69,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "bl-roman-agabekov",
             "name": "Roman Agabekov",
             "display_name": "Roman Agabekov",
@@ -90,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "bl-stan-lipinski",
             "name": "Stan Lipinski",
             "display_name": "Stan Lipinski",
@@ -111,33 +132,12 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "bl-andrea-gnemmi",
             "name": "Andrea Gnemmi",
             "display_name": "Andrea Gnemmi",
             "avatar_url": null,
             "profile_url": "\/web\/leaderboard\/profile?blog=Andrea+Gnemmi",
-            "github_login": null,
-            "forum_username": null,
-            "points_total": 100,
-            "points_github": 0,
-            "points_content": 100,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 1,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 7,
-            "user_key": "bl-marno-krahmer",
-            "name": "Marno Krahmer",
-            "display_name": "Marno Krahmer",
-            "avatar_url": null,
-            "profile_url": "\/web\/leaderboard\/profile?blog=Marno+Krahmer",
             "github_login": null,
             "forum_username": null,
             "points_total": 100,
