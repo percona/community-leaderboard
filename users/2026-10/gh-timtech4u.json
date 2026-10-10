@@ -1,9 +1,9 @@
 {
-    "user_key": "gh-daniel-osuntoyinbo",
-    "display_name": "Daniel-Osuntoyinbo",
-    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/214668006?v=4",
-    "profile_url": "\/web\/leaderboard\/profile?github=Daniel-Osuntoyinbo",
-    "github_login": "Daniel-Osuntoyinbo",
+    "user_key": "gh-timtech4u",
+    "display_name": "Timothy Olaleke",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11256481?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Timtech4u",
+    "github_login": "Timtech4u",
     "forum_username": null,
     "period": "2026-10",
     "period_label": "October 2026",
@@ -22,12 +22,12 @@
     "github_issues": [],
     "github_prs": [
         {
-            "title": "Native PITR replay for external restores (--native-pitr)",
-            "url": "https:\/\/github.com\/percona\/percona-backup-mongodb\/pull\/1394",
-            "repo": "percona\/percona-backup-mongodb",
-            "date": "2026-10-06",
+            "title": "Blog: prove PostgreSQL restore before a Kubernetes migration",
+            "url": "https:\/\/github.com\/percona\/community\/pull\/1306",
+            "repo": "percona\/community",
+            "date": "2026-10-09",
             "merged": false,
-            "state": "closed"
+            "state": "open"
         }
     ],
     "blog_list": [],

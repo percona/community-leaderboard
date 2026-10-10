@@ -1,9 +1,9 @@
 {
-    "user_key": "gh-davidstula",
-    "display_name": "davidstula",
-    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/263151840?v=4",
-    "profile_url": "\/web\/leaderboard\/profile?github=davidstula",
-    "github_login": "davidstula",
+    "user_key": "gh-timtech4u",
+    "display_name": "Timothy Olaleke",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/11256481?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=Timtech4u",
+    "github_login": "Timtech4u",
     "forum_username": null,
     "period": "2026-Q4",
     "period_label": "Q4 2026",
@@ -22,10 +22,10 @@
     "github_issues": [],
     "github_prs": [
         {
-            "title": "The expected output did not match the results of the second select query",
-            "url": "https:\/\/github.com\/percona\/postgresql-docs\/pull\/1059",
-            "repo": "percona\/postgresql-docs",
-            "date": "2026-10-06",
+            "title": "Blog: prove PostgreSQL restore before a Kubernetes migration",
+            "url": "https:\/\/github.com\/percona\/community\/pull\/1306",
+            "repo": "percona\/community",
+            "date": "2026-10-09",
             "merged": false,
             "state": "open"
         }
