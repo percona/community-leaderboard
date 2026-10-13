@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-10-12T04:10:31+00:00",
+    "generated_at": "2026-10-13T04:11:39+00:00",
     "category": "global",
     "top30": [
         {
@@ -117,6 +117,28 @@
         },
         {
             "rank": 6,
+            "user_key": "bl-yevhen-patlan",
+            "name": "Yevhen Patlan",
+            "display_name": "Yevhen Patlan",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Yevhen+Patlan",
+            "source": "Blog",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 7,
             "user_key": "gh-muralimon",
             "name": "MuraliMon",
             "display_name": "Murali",
@@ -138,7 +160,29 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
+            "user_key": "gh-bvwells",
+            "name": "bvwells",
+            "display_name": "Ben Wells",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/22873967?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=bvwells",
+            "source": "GitHub",
+            "github_login": "bvwells",
+            "forum_username": null,
+            "points_total": 75,
+            "points_github": 75,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 9,
             "user_key": "gh-therealdwright",
             "name": "therealdwright",
             "display_name": "Daniel Wright",
@@ -160,7 +204,29 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 10,
+            "user_key": "gh-autokctrl-team",
+            "name": "autokctrl-team",
+            "display_name": "Autokctrl",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/270182909?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=autokctrl-team",
+            "source": "GitHub",
+            "github_login": "autokctrl-team",
+            "forum_username": null,
+            "points_total": 55,
+            "points_github": 55,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 3,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 11,
             "user_key": "gh-danielosuntoyinbo",
             "name": "DanielOsuntoyinbo",
             "display_name": "DanielOsuntoyinbo",
@@ -182,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 12,
             "user_key": "gh-pcimring",
             "name": "pcimring",
             "display_name": "Peter Cimring",
@@ -204,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 13,
             "user_key": "gh-mariusleu",
             "name": "mariusleu",
             "display_name": "Marius Leustean",
@@ -226,7 +292,51 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 14,
+            "user_key": "gh-aidiew",
+            "name": "AidieW",
+            "display_name": "AidieW",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/101553366?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=AidieW",
+            "source": "GitHub",
+            "github_login": "AidieW",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 15,
+            "user_key": "gh-aleksamcode",
+            "name": "AleksaMCode",
+            "display_name": "Aleksa Majkić",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/23129943?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=AleksaMCode",
+            "source": "GitHub",
+            "github_login": "AleksaMCode",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
             "user_key": "gh-daniel-osuntoyinbo",
             "name": "Daniel-Osuntoyinbo",
             "display_name": "Daniel-Osuntoyinbo",
@@ -248,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 17,
             "user_key": "gh-timtech4u",
             "name": "Timtech4u",
             "display_name": "Timothy Olaleke",
@@ -270,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 18,
             "user_key": "gh-aslanahmtv",
             "name": "aslanahmtv",
             "display_name": "Aslan Akhmetov",
@@ -292,7 +402,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 19,
             "user_key": "gh-davidstula",
             "name": "davidstula",
             "display_name": "davidstula",
@@ -314,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 20,
             "user_key": "gh-ethanlaj",
             "name": "ethanlaj",
             "display_name": "ethanlaj",
@@ -336,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 21,
             "user_key": "gh-works-on-my-box",
             "name": "works-on-my-box",
             "display_name": "works-on-my-box",
@@ -358,29 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
-            "user_key": "gh-autokctrl-team",
-            "name": "autokctrl-team",
-            "display_name": "Autokctrl",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/270182909?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=autokctrl-team",
-            "source": "GitHub",
-            "github_login": "autokctrl-team",
-            "forum_username": null,
-            "points_total": 20,
-            "points_github": 20,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 2,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 18,
+            "rank": 22,
             "user_key": "gh-drschlaubi",
             "name": "DRSchlaubi",
             "display_name": "Michael Rittmeister",
@@ -402,7 +490,29 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 23,
+            "user_key": "gh-jonnybgod",
+            "name": "JonnyBGod",
+            "display_name": "João Ribeiro",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/405206?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=JonnyBGod",
+            "source": "GitHub",
+            "github_login": "JonnyBGod",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 24,
             "user_key": "gh-gnobiron-myscript",
             "name": "gnobiron-myscript",
             "display_name": "gnobiron-myscript",
@@ -424,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 25,
             "user_key": "gh-jdwuzhere",
             "name": "jdwuzhere",
             "display_name": "jdwuzhere",
@@ -446,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 26,
             "user_key": "gh-thommeo",
             "name": "thommeo",
             "display_name": "Artem Danilov",
@@ -468,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 27,
             "user_key": "fo-rachelwilson",
             "name": "rachelwilson",
             "display_name": "rachelwilson",
@@ -490,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 28,
             "user_key": "fo-alexander_h",
             "name": "Alexander_H",
             "display_name": "Alexander H.",
@@ -512,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 29,
             "user_key": "fo-daniel_osuntoyinbo",
             "name": "Daniel_Osuntoyinbo",
             "display_name": "Daniel Osuntoyinbo",
@@ -534,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 30,
             "user_key": "fo-carlos-mejia-ven",
             "name": "carlos.mejia.ven",
             "display_name": "carlos.mejia.ven",
@@ -553,72 +663,6 @@
             "blog_posts": 0,
             "topics_created": 1,
             "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 26,
-            "user_key": "fo-xraphael75",
-            "name": "xraphael75",
-            "display_name": "xraphael75",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/x\/76d3ee\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=xraphael75",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "xraphael75",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 27,
-            "user_key": "fo-dogs_cute",
-            "name": "dogs_Cute",
-            "display_name": "dogs Cute",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/dogs_cute\/120\/12754_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=dogs_Cute",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "dogs_Cute",
-            "points_total": 4,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 4,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 2,
-            "solutions": 0
-        },
-        {
-            "rank": 28,
-            "user_key": "fo-isersea",
-            "name": "isersea",
-            "display_name": "isersea",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/isersea\/120\/24323_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=isersea",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "isersea",
-            "points_total": 2,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 2,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 1,
             "solutions": 0
         }
     ]

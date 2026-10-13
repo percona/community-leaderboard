@@ -7,19 +7,26 @@
     "forum_username": null,
     "period": "2026-Q4",
     "period_label": "Q4 2026",
-    "generated_at": "2026-10-12T04:10:31+00:00",
-    "points_total": 20,
-    "points_github": 20,
+    "generated_at": "2026-10-13T04:11:39+00:00",
+    "points_total": 55,
+    "points_github": 55,
     "points_content": 0,
     "points_forum": 0,
-    "issues_created": 2,
-    "prs_created": 0,
+    "issues_created": 3,
+    "prs_created": 1,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
     "solutions": 0,
     "github_issues": [
+        {
+            "title": "Wrapped NotYetInitialized errors bypass the liveness initialization exception",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2626",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-12",
+            "state": "open"
+        },
         {
             "title": "Should system-user credential read failures abort initialization?",
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2618",
@@ -35,7 +42,16 @@
             "state": "closed"
         }
     ],
-    "github_prs": [],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1867 Fix replica set member limit boundary check",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2629",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-12",
+            "merged": false,
+            "state": "open"
+        }
+    ],
     "blog_list": [],
     "forum_topics": [],
     "forum_replies": [],
