@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-jin-wen",
+    "display_name": "jin.wen",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/jin.wen\/120\/24374_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=jin.wen",
+    "github_login": null,
+    "forum_username": "jin.wen",
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-15T04:12:52+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "PXC 8.0 to 8.4 on OpenShift 4.14 now, 4.22 later: which operator version and upgrade path?",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-8-0-to-8-4-on-openshift-4-14-now-4-22-later-which-operator-version-and-upgrade-path",
+            "date": "2026-10-14"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}
