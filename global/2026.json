@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-10-15T04:12:52+00:00",
+    "generated_at": "2026-10-16T04:12:41+00:00",
     "category": "global",
     "top30": [
         {
@@ -645,13 +645,13 @@
         },
         {
             "rank": 30,
-            "user_key": "gh-majiayu000",
-            "name": "majiayu000",
-            "display_name": "lif",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/19658300?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=majiayu000",
+            "user_key": "gh-jackvansickle1",
+            "name": "jackvansickle1",
+            "display_name": "Jack VanSickle",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/198672073?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=jackvansickle1",
             "source": "GitHub",
-            "github_login": "majiayu000",
+            "github_login": "jackvansickle1",
             "forum_username": null,
             "points_total": 125,
             "points_github": 125,

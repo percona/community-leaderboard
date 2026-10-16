@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-sidney_cheina",
+    "display_name": "Sidney_Fco",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sidney_cheina\/120\/24375_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Sidney_Cheina",
+    "github_login": null,
+    "forum_username": "Sidney_Cheina",
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-16T04:12:41+00:00",
+    "points_total": 5,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 5,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Amazon RDS MySQL: 99% system CPU, mysqld unexpectedly restarted, repeated failures resolved after Stop\/Start — what could cause this?",
+            "url": "https:\/\/forums.percona.com\/t\/amazon-rds-mysql-99-system-cpu-mysqld-unexpectedly-restarted-repeated-failures-resolved-after-stop-start-what-could-cause-this",
+            "date": "2026-10-15"
+        }
+    ],
+    "forum_replies": [],
+    "forum_solutions": []
+}

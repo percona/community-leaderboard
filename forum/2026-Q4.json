@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-10-15T04:12:52+00:00",
+    "generated_at": "2026-10-16T04:12:41+00:00",
     "category": "forum",
     "top30": [
         {
@@ -196,6 +196,27 @@
         },
         {
             "rank": 10,
+            "user_key": "fo-sidney_cheina",
+            "name": "Sidney_Cheina",
+            "display_name": "Sidney_Fco",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/sidney_cheina\/120\/24375_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Sidney_Cheina",
+            "github_login": null,
+            "forum_username": "Sidney_Cheina",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 11,
             "user_key": "fo-dogs_cute",
             "name": "dogs_Cute",
             "display_name": "dogs Cute",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "fo-isersea",
             "name": "isersea",
             "display_name": "isersea",

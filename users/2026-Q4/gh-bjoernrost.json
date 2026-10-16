@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-bjoernrost",
+    "display_name": "Björn Rost",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/7943578?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=bjoernrost",
+    "github_login": "bjoernrost",
+    "forum_username": null,
+    "period": "2026-Q4",
+    "period_label": "Q4 2026",
+    "generated_at": "2026-10-16T04:12:41+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "attribute Dilip Kumar to Google",
+            "url": "https:\/\/github.com\/Percona-Lab\/percona-pg-activity\/pull\/1",
+            "repo": "Percona-Lab\/percona-pg-activity",
+            "date": "2026-10-15",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
