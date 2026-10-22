@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-monikagreyy",
+    "display_name": "MonikaGreyy ",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/monikagreyy\/120\/24392_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=MonikaGreyy",
+    "github_login": null,
+    "forum_username": "MonikaGreyy",
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-22T04:13:17+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Is Jemalloc still recommended to replace glibc?",
+            "url": "https:\/\/forums.percona.com\/t\/is-jemalloc-still-recommended-to-replace-glibc\/7",
+            "date": "2026-10-21"
+        }
+    ],
+    "forum_solutions": []
+}

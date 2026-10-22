@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-tompson",
+    "display_name": "Thomas Einwaller",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/103224?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=tompson",
+    "github_login": "tompson",
+    "forum_username": null,
+    "period": "2026-Q4",
+    "period_label": "Q4 2026",
+    "generated_at": "2026-10-22T04:13:17+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "PITR collector GTID cache is not invalidated after a node is re-seeded (SST): wrong GTID metadata and rewinds",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2573",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-10-21",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPXC-1866: Throttle PITR last-set writes and use seekable bodies",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2574",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-10-21",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

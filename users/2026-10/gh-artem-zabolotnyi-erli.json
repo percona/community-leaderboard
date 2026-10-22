@@ -1,0 +1,45 @@
+{
+    "user_key": "gh-artem-zabolotnyi-erli",
+    "display_name": "Artem Zabolotnyi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/345277717?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=artem-zabolotnyi-erli",
+    "github_login": "artem-zabolotnyi-erli",
+    "forum_username": null,
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-22T04:13:17+00:00",
+    "points_total": 35,
+    "points_github": 35,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Smart update force-steps-down the primary while secondaries lag, replica set left without a primary",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2645",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-20",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1836: Wait for a caught up secondary before primary step down",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2650",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-21",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
