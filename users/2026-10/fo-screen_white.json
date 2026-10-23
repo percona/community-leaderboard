@@ -1,0 +1,34 @@
+{
+    "user_key": "fo-screen_white",
+    "display_name": "Screen White",
+    "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/screen_white\/120\/24383_2.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=Screen_White",
+    "github_login": null,
+    "forum_username": "Screen_White",
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-23T04:13:25+00:00",
+    "points_total": 2,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 2,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 1,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "Prove your PostgreSQL restore before a Kubernetes migration | Percona Community",
+            "url": "https:\/\/forums.percona.com\/t\/prove-your-postgresql-restore-before-a-kubernetes-migration-percona-community\/2",
+            "date": "2026-10-22"
+        }
+    ],
+    "forum_solutions": []
+}
