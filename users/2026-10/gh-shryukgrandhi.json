@@ -1,0 +1,61 @@
+{
+    "user_key": "gh-shryukgrandhi",
+    "display_name": "ShryukGrandhi",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85529990?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=ShryukGrandhi",
+    "github_login": "ShryukGrandhi",
+    "forum_username": null,
+    "period": "2026-10",
+    "period_label": "October 2026",
+    "generated_at": "2026-10-26T04:11:02+00:00",
+    "points_total": 100,
+    "points_github": 100,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 4,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Show Valkey persistence data without role label",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/6208",
+            "repo": "percona\/pmm",
+            "date": "2026-10-25",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PMM-7 Fix adding Valkey service by socket",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/6207",
+            "repo": "percona\/pmm",
+            "date": "2026-10-25",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PMM-0 Pass --yes to pbm restore for PBM 2.14+",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/6206",
+            "repo": "percona\/pmm",
+            "date": "2026-10-25",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "[DOCS] Follow redirect when downloading get-pmm.sh",
+            "url": "https:\/\/github.com\/percona\/pmm\/pull\/6205",
+            "repo": "percona\/pmm",
+            "date": "2026-10-25",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
