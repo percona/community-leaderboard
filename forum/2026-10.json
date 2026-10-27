@@ -2,7 +2,7 @@
     "period": "2026-10",
     "period_type": "month",
     "period_label": "October 2026",
-    "generated_at": "2026-10-26T04:11:02+00:00",
+    "generated_at": "2026-10-27T04:11:12+00:00",
     "category": "forum",
     "top30": [
         {
@@ -301,6 +301,27 @@
         },
         {
             "rank": 15,
+            "user_key": "fo-akshayrg09",
+            "name": "Akshayrg09",
+            "display_name": "GAR",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/b782af\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Akshayrg09",
+            "github_login": null,
+            "forum_username": "Akshayrg09",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
             "user_key": "fo-dogs_cute",
             "name": "dogs_Cute",
             "display_name": "dogs Cute",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "fo-monikagreyy",
             "name": "MonikaGreyy",
             "display_name": "MonikaGreyy ",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "fo-isersea",
             "name": "isersea",
             "display_name": "isersea",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "fo-screen_white",
             "name": "Screen_White",
             "display_name": "Screen White",
