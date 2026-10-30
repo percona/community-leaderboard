@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-10-29T04:12:06+00:00",
+    "generated_at": "2026-10-30T04:12:47+00:00",
     "category": "global",
     "top30": [
         {
@@ -183,6 +183,28 @@
         },
         {
             "rank": 9,
+            "user_key": "bl-neil-armitage",
+            "name": "Neil Armitage",
+            "display_name": "Neil Armitage",
+            "avatar_url": null,
+            "profile_url": "\/web\/leaderboard\/profile?blog=Neil+Armitage",
+            "source": "Blog",
+            "github_login": null,
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 0,
+            "points_content": 100,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 1,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 10,
             "user_key": "bl-oleg-naryzhnykh",
             "name": "Oleg Naryzhnykh",
             "display_name": "Oleg Naryzhnykh",
@@ -204,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "gh-shryukgrandhi",
             "name": "ShryukGrandhi",
             "display_name": "ShryukGrandhi",
@@ -226,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "bl-timothy-olaleke",
             "name": "Timothy Olaleke",
             "display_name": "Timothy Olaleke",
@@ -248,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "gh-timtech4u",
             "name": "Timtech4u",
             "display_name": "Timothy Olaleke",
@@ -270,7 +292,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "bl-yevhen-patlan",
             "name": "Yevhen Patlan",
             "display_name": "Yevhen Patlan",
@@ -292,7 +314,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-aslanahmtv",
             "name": "aslanahmtv",
             "display_name": "Aslan Akhmetov",
@@ -314,7 +336,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-ethanlaj",
             "name": "ethanlaj",
             "display_name": "ethanlaj",
@@ -336,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-jackvansickle1",
             "name": "jackvansickle1",
             "display_name": "Jack VanSickle",
@@ -358,7 +380,29 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
+            "user_key": "gh-narmitag",
+            "name": "narmitag",
+            "display_name": "Neil Armitage",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
+            "source": "GitHub",
+            "github_login": "narmitag",
+            "forum_username": null,
+            "points_total": 100,
+            "points_github": 100,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 19,
             "user_key": "gh-works-on-my-box",
             "name": "works-on-my-box",
             "display_name": "works-on-my-box",
@@ -380,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 20,
             "user_key": "gh-joncbenderkh",
             "name": "joncbenderkh",
             "display_name": "joncbenderkh",
@@ -402,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 21,
             "user_key": "gh-franzli347",
             "name": "FranzLi347",
             "display_name": "Franz Li",
@@ -424,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 22,
             "user_key": "gh-kyriosgn0",
             "name": "KyriosGN0",
             "display_name": "AvivGuiser",
@@ -446,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 23,
             "user_key": "gh-muralimon",
             "name": "MuraliMon",
             "display_name": "Murali",
@@ -468,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 24,
             "user_key": "gh-rupakveerla",
             "name": "RupakVeerla",
             "display_name": "RupakVeerla",
@@ -490,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 25,
             "user_key": "gh-arpitjain099",
             "name": "arpitjain099",
             "display_name": "Arpit Jain",
@@ -512,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 26,
             "user_key": "gh-bvwells",
             "name": "bvwells",
             "display_name": "Ben Wells",
@@ -534,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 27,
             "user_key": "gh-guanchzhou",
             "name": "guanchzhou",
             "display_name": "Andrey Maltsev",
@@ -556,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 28,
             "user_key": "gh-therealdwright",
             "name": "therealdwright",
             "display_name": "Daniel Wright",
@@ -578,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 29,
             "user_key": "gh-autokctrl-team",
             "name": "autokctrl-team",
             "display_name": "Autokctrl",
@@ -600,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 30,
             "user_key": "gh-danielosuntoyinbo",
             "name": "DanielOsuntoyinbo",
             "display_name": "DanielOsuntoyinbo",
@@ -615,50 +659,6 @@
             "points_forum": 0,
             "issues_created": 0,
             "prs_created": 2,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 29,
-            "user_key": "gh-pcimring",
-            "name": "pcimring",
-            "display_name": "Peter Cimring",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/6210449?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=pcimring",
-            "source": "GitHub",
-            "github_login": "pcimring",
-            "forum_username": null,
-            "points_total": 50,
-            "points_github": 50,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 2,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-artem-zabolotnyi-erli",
-            "name": "artem-zabolotnyi-erli",
-            "display_name": "Artem Zabolotnyi",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/345277717?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=artem-zabolotnyi-erli",
-            "source": "GitHub",
-            "github_login": "artem-zabolotnyi-erli",
-            "forum_username": null,
-            "points_total": 35,
-            "points_github": 35,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 1,
-            "prs_created": 1,
             "prs_merged": 0,
             "blog_posts": 0,
             "topics_created": 0,

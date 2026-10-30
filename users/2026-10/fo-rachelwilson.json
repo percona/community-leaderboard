@@ -7,17 +7,17 @@
     "forum_username": "rachelwilson",
     "period": "2026-10",
     "period_label": "October 2026",
-    "generated_at": "2026-10-29T04:12:06+00:00",
-    "points_total": 6,
+    "generated_at": "2026-10-30T04:12:47+00:00",
+    "points_total": 8,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 6,
+    "points_forum": 8,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
-    "replies": 3,
+    "replies": 4,
     "solutions": 0,
     "github_issues": [],
     "github_prs": [],
@@ -38,6 +38,11 @@
             "topic_title": "Permissions errors when trying to install mariadb using mariadb-install-db",
             "url": "https:\/\/forums.percona.com\/t\/permissions-errors-when-trying-to-install-mariadb-using-mariadb-install-db\/6",
             "date": "2026-10-08"
+        },
+        {
+            "topic_title": "PXC operator 1.20.0: custom user reconcile loops forever (view definer, error 4006) and repeated CREATE DATABASE aborts app transactions",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-operator-1-20-0-custom-user-reconcile-loops-forever-view-definer-error-4006-and-repeated-create-database-aborts-app-transactions\/2",
+            "date": "2026-10-29"
         }
     ],
     "forum_solutions": []
