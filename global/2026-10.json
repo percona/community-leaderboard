@@ -2,7 +2,7 @@
     "period": "2026-10",
     "period_type": "month",
     "period_label": "October 2026",
-    "generated_at": "2026-10-30T04:12:47+00:00",
+    "generated_at": "2026-10-31T04:12:59+00:00",
     "category": "global",
     "top30": [
         {
@@ -51,6 +51,28 @@
         },
         {
             "rank": 3,
+            "user_key": "gh-shryukgrandhi",
+            "name": "ShryukGrandhi",
+            "display_name": "ShryukGrandhi",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85529990?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=ShryukGrandhi",
+            "source": "GitHub",
+            "github_login": "ShryukGrandhi",
+            "forum_username": null,
+            "points_total": 125,
+            "points_github": 125,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 5,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "bl-aslan-akhmetov",
             "name": "Aslan Akhmetov",
             "display_name": "Aslan Akhmetov",
@@ -72,7 +94,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "bl-isobel-smith",
             "name": "Isobel Smith",
             "display_name": "Isobel Smith",
@@ -94,7 +116,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -116,7 +138,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "bl-jack-vansickle",
             "name": "Jack VanSickle",
             "display_name": "Jack VanSickle",
@@ -138,7 +160,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-kr-ravindra",
             "name": "KR-Ravindra",
             "display_name": "KR Ravindra",
@@ -160,7 +182,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "bl-marno-krahmer",
             "name": "Marno Krahmer",
             "display_name": "Marno Krahmer",
@@ -182,7 +204,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "bl-neil-armitage",
             "name": "Neil Armitage",
             "display_name": "Neil Armitage",
@@ -204,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "bl-oleg-naryzhnykh",
             "name": "Oleg Naryzhnykh",
             "display_name": "Oleg Naryzhnykh",
@@ -221,28 +243,6 @@
             "prs_created": 0,
             "prs_merged": 0,
             "blog_posts": 1,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 11,
-            "user_key": "gh-shryukgrandhi",
-            "name": "ShryukGrandhi",
-            "display_name": "ShryukGrandhi",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/85529990?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=ShryukGrandhi",
-            "source": "GitHub",
-            "github_login": "ShryukGrandhi",
-            "forum_username": null,
-            "points_total": 100,
-            "points_github": 100,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 4,
-            "prs_merged": 0,
-            "blog_posts": 0,
             "topics_created": 0,
             "replies": 0,
             "solutions": 0
