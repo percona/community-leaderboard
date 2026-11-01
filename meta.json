@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-31T04:12:59+00:00",
+    "generated_at": "2026-11-01T04:12:11+00:00",
     "default_period": "2026",
     "periods": [
         {
@@ -61,6 +61,11 @@
             "key": "2025-Q1",
             "label": "Q1 2025",
             "type": "quarter"
+        },
+        {
+            "key": "2026-11",
+            "label": "November 2026",
+            "type": "month"
         },
         {
             "key": "2026-10",
