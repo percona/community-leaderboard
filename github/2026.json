@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-11-04T04:12:46+00:00",
+    "generated_at": "2026-11-05T04:12:50+00:00",
     "category": "github",
     "top30": [
         {
@@ -238,6 +238,27 @@
         },
         {
             "rank": 12,
+            "user_key": "gh-tomas-villagesql",
+            "name": "tomas-villagesql",
+            "display_name": "Tomas Ulin",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/247905169?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=tomas-villagesql",
+            "github_login": "tomas-villagesql",
+            "forum_username": null,
+            "points_total": 225,
+            "points_github": 225,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 3,
+            "prs_merged": 2,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 13,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "gh-guanchzhou",
             "name": "guanchzhou",
             "display_name": "Andrey Maltsev",
@@ -279,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "gh-dimitrioslisenko",
             "name": "DimitriosLisenko",
             "display_name": "DimitriosLisenko",
@@ -300,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-rajaie7",
             "name": "rajaie7",
             "display_name": "Rajaie Alkorani",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-aleixab",
             "name": "aleixab",
             "display_name": "Aleix Abengochea",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-adutra",
             "name": "adutra",
             "display_name": "Alexandre Dutra",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-jackvansickle1",
             "name": "jackvansickle1",
             "display_name": "Jack VanSickle",
@@ -405,34 +426,13 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-narmitag",
             "name": "narmitag",
             "display_name": "Neil Armitage",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
             "github_login": "narmitag",
-            "forum_username": null,
-            "points_total": 200,
-            "points_github": 200,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 2,
-            "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 21,
-            "user_key": "gh-tomas-villagesql",
-            "name": "tomas-villagesql",
-            "display_name": "Tomas Ulin",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/247905169?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=tomas-villagesql",
-            "github_login": "tomas-villagesql",
             "forum_username": null,
             "points_total": 200,
             "points_github": 200,
@@ -490,27 +490,6 @@
         },
         {
             "rank": 24,
-            "user_key": "gh-aidiew",
-            "name": "AidieW",
-            "display_name": "AidieW",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/101553366?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=AidieW",
-            "github_login": "AidieW",
-            "forum_username": null,
-            "points_total": 150,
-            "points_github": 150,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 3,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 25,
             "user_key": "gh-shajia-deshaw",
             "name": "shajia-deshaw",
             "display_name": "Afeedh Shaji",
@@ -524,6 +503,27 @@
             "points_forum": 0,
             "issues_created": 5,
             "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 25,
+            "user_key": "gh-aidiew",
+            "name": "AidieW",
+            "display_name": "AidieW",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/101553366?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=AidieW",
+            "github_login": "AidieW",
+            "forum_username": null,
+            "points_total": 150,
+            "points_github": 150,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 3,
             "prs_merged": 1,
             "blog_posts": 0,
             "topics_created": 0,

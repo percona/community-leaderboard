@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-11-04T04:12:46+00:00",
-    "points_total": 200,
-    "points_github": 200,
+    "generated_at": "2026-11-05T04:12:50+00:00",
+    "points_total": 225,
+    "points_github": 225,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 2,
+    "prs_created": 3,
     "prs_merged": 2,
     "blog_posts": 0,
     "topics_created": 0,
@@ -21,6 +21,14 @@
     "solutions": 0,
     "github_issues": [],
     "github_prs": [
+        {
+            "title": "fix: VillageSQL's index was never used, because the extension pinned stores no row reference",
+            "url": "https:\/\/github.com\/Percona-Lab\/vector-bench\/pull\/8",
+            "repo": "Percona-Lab\/vector-bench",
+            "date": "2026-11-04",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "fix: an entrypoint edit did not reach the image until prepare-sources ran again",
             "url": "https:\/\/github.com\/Percona-Lab\/vector-bench\/pull\/2",
