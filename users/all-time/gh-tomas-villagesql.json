@@ -1,0 +1,53 @@
+{
+    "user_key": "gh-tomas-villagesql",
+    "display_name": "Tomas Ulin",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/247905169?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=tomas-villagesql",
+    "github_login": "tomas-villagesql",
+    "forum_username": null,
+    "period": "all-time",
+    "period_label": "All Time",
+    "generated_at": "2026-11-06T04:13:39+00:00",
+    "points_total": 300,
+    "points_github": 300,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 3,
+    "prs_merged": 3,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "fix: VillageSQL's index was never used, because the extension pinned stores no row reference",
+            "url": "https:\/\/github.com\/Percona-Lab\/vector-bench\/pull\/8",
+            "repo": "Percona-Lab\/vector-bench",
+            "date": "2026-11-04",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "fix: an entrypoint edit did not reach the image until prepare-sources ran again",
+            "url": "https:\/\/github.com\/Percona-Lab\/vector-bench\/pull\/2",
+            "repo": "Percona-Lab\/vector-bench",
+            "date": "2026-11-03",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "fix: the ann pass left the previous run's root-owned datadir in place",
+            "url": "https:\/\/github.com\/Percona-Lab\/vector-bench\/pull\/1",
+            "repo": "Percona-Lab\/vector-bench",
+            "date": "2026-11-03",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

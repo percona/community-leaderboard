@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "2026-11",
     "period_label": "November 2026",
-    "generated_at": "2026-11-05T04:12:50+00:00",
+    "generated_at": "2026-11-06T04:13:39+00:00",
     "points_total": 25,
     "points_github": 25,
     "points_content": 0,
@@ -22,7 +22,7 @@
     "github_issues": [],
     "github_prs": [
         {
-            "title": "Make controller cache sync timeout configurable (PXCO_CACHE_SYNC_TIMEOUT)",
+            "title": "K8SPXC-2039 Make controller cache sync timeout configurable (PXCO_CACHE_SYNC_TIMEOUT)",
             "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2603",
             "repo": "percona\/percona-xtradb-cluster-operator",
             "date": "2026-11-03",
