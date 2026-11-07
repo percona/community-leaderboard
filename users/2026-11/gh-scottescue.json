@@ -1,0 +1,36 @@
+{
+    "user_key": "gh-scottescue",
+    "display_name": "Scott Escue",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1189547?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=scottescue",
+    "github_login": "scottescue",
+    "forum_username": null,
+    "period": "2026-11",
+    "period_label": "November 2026",
+    "generated_at": "2026-11-07T04:12:23+00:00",
+    "points_total": 10,
+    "points_github": 10,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 1,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Release plans and how to contribute",
+            "url": "https:\/\/github.com\/percona\/valkey-audit\/issues\/47",
+            "repo": "percona\/valkey-audit",
+            "date": "2026-11-06",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

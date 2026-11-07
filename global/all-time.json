@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-11-06T04:13:39+00:00",
+    "generated_at": "2026-11-07T04:12:23+00:00",
     "category": "global",
     "top30": [
         {
@@ -645,13 +645,13 @@
         },
         {
             "rank": 30,
-            "user_key": "gh-kr-ravindra",
-            "name": "KR-Ravindra",
-            "display_name": "KR Ravindra",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/42912207?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=KR-Ravindra",
+            "user_key": "gh-aidiew",
+            "name": "AidieW",
+            "display_name": "AidieW",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/101553366?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=AidieW",
             "source": "GitHub",
-            "github_login": "KR-Ravindra",
+            "github_login": "AidieW",
             "forum_username": null,
             "points_total": 225,
             "points_github": 225,
