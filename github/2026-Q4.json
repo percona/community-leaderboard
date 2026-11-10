@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-11-09T04:10:47+00:00",
+    "generated_at": "2026-11-10T04:11:42+00:00",
     "category": "github",
     "top30": [
         {
@@ -553,6 +553,27 @@
         },
         {
             "rank": 27,
+            "user_key": "gh-tintinwinata",
+            "name": "TinTinWinata",
+            "display_name": "TinTin",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/86914748?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=TinTinWinata",
+            "github_login": "TinTinWinata",
+            "forum_username": null,
+            "points_total": 75,
+            "points_github": 75,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 28,
             "user_key": "gh-autokctrl-team",
             "name": "autokctrl-team",
             "display_name": "Autokctrl",
@@ -573,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-danielosuntoyinbo",
             "name": "DanielOsuntoyinbo",
             "display_name": "DanielOsuntoyinbo",
@@ -594,7 +615,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-pcimring",
             "name": "pcimring",
             "display_name": "Peter Cimring",
@@ -608,27 +629,6 @@
             "points_forum": 0,
             "issues_created": 0,
             "prs_created": 2,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-mariusleu",
-            "name": "mariusleu",
-            "display_name": "Marius Leustean",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/1437942?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=mariusleu",
-            "github_login": "mariusleu",
-            "forum_username": null,
-            "points_total": 35,
-            "points_github": 35,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 1,
-            "prs_created": 1,
             "prs_merged": 0,
             "blog_posts": 0,
             "topics_created": 0,

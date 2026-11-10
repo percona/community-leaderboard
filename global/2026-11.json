@@ -2,7 +2,7 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-09T04:10:47+00:00",
+    "generated_at": "2026-11-10T04:11:42+00:00",
     "category": "global",
     "top30": [
         {
@@ -95,6 +95,28 @@
         },
         {
             "rank": 5,
+            "user_key": "gh-tintinwinata",
+            "name": "TinTinWinata",
+            "display_name": "TinTin",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/86914748?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=TinTinWinata",
+            "source": "GitHub",
+            "github_login": "TinTinWinata",
+            "forum_username": null,
+            "points_total": 75,
+            "points_github": 75,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 6,
             "user_key": "gh-sarankumar1325",
             "name": "sarankumar1325",
             "display_name": "sarankumar",
@@ -116,7 +138,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "gh-yananai-chiwuta",
             "name": "yananai-chiwuta",
             "display_name": "Yananai A. Chiwuta",
@@ -138,7 +160,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "gh-zykovd",
             "name": "zykovd",
             "display_name": "Dmitry Zykov",
@@ -160,7 +182,29 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
+            "user_key": "gh-busayo-ojo",
+            "name": "Busayo-ojo",
+            "display_name": "Busayo Ojo",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/76451855?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=Busayo-ojo",
+            "source": "GitHub",
+            "github_login": "Busayo-ojo",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 10,
             "user_key": "gh-sled30",
             "name": "sled30",
             "display_name": "sled30",
@@ -182,7 +226,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 11,
             "user_key": "gh-conan912",
             "name": "conan912",
             "display_name": "conan912",
@@ -204,7 +248,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 12,
             "user_key": "gh-ennekein",
             "name": "ennekein",
             "display_name": "ennekein",
@@ -226,7 +270,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 13,
             "user_key": "gh-kuzm1ch",
             "name": "kuzm1ch",
             "display_name": "Mykhailo Kuzmich",
@@ -248,7 +292,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 14,
             "user_key": "gh-olafagbemi",
             "name": "olafagbemi",
             "display_name": "Ola Fagbemi",
@@ -270,7 +314,29 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 15,
+            "user_key": "gh-rgambelli",
+            "name": "rgambelli",
+            "display_name": "Raffaele Gambelli",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/8330015?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=rgambelli",
+            "source": "GitHub",
+            "github_login": "rgambelli",
+            "forum_username": null,
+            "points_total": 10,
+            "points_github": 10,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 16,
             "user_key": "gh-scottescue",
             "name": "scottescue",
             "display_name": "Scott Escue",
@@ -292,7 +358,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 17,
             "user_key": "gh-tkatfastly",
             "name": "tkatfastly",
             "display_name": "tkatfastly",
@@ -314,7 +380,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 18,
             "user_key": "fo-jigisha14",
             "name": "Jigisha14",
             "display_name": "Jigisha14",
