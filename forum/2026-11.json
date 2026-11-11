@@ -2,7 +2,7 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-10T04:11:42+00:00",
+    "generated_at": "2026-11-11T04:12:01+00:00",
     "category": "forum",
     "top30": [
         {
@@ -24,6 +24,48 @@
             "blog_posts": 0,
             "topics_created": 1,
             "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "fo-lauraharris",
+            "name": "lauraharris",
+            "display_name": "lauraharris",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/e19adc\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=lauraharris",
+            "github_login": null,
+            "forum_username": "lauraharris",
+            "points_total": 2,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 2,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 1,
+            "solutions": 0
+        },
+        {
+            "rank": 3,
+            "user_key": "fo-emmaanderson",
+            "name": "emmaanderson",
+            "display_name": "emmaanderson",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/b3f665\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=emmaanderson",
+            "github_login": null,
+            "forum_username": "emmaanderson",
+            "points_total": 2,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 2,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 1,
             "solutions": 0
         }
     ]
