@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-11-11T04:12:01+00:00",
+    "generated_at": "2026-11-12T04:12:22+00:00",
     "category": "global",
     "top30": [
         {
@@ -601,6 +601,28 @@
         },
         {
             "rank": 28,
+            "user_key": "gh-esatakyol",
+            "name": "esatakyol",
+            "display_name": "Esat Akyol",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/38283448?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=esatakyol",
+            "source": "GitHub",
+            "github_login": "esatakyol",
+            "forum_username": null,
+            "points_total": 160,
+            "points_github": 160,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 1,
+            "prs_created": 3,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 29,
             "user_key": "gh-shajia-deshaw",
             "name": "shajia-deshaw",
             "display_name": "Afeedh Shaji",
@@ -622,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-larainema",
             "name": "larainema",
             "display_name": "Dong Ma",
@@ -640,28 +662,6 @@
             "prs_merged": 1,
             "blog_posts": 0,
             "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "u-chi-fujii",
-            "name": "Chi Fujii",
-            "display_name": "Chi Fujii",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/24355139?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?user_id=auto-chi-fujii",
-            "source": "All",
-            "github_login": "chilagrow",
-            "forum_username": "chilagrow",
-            "points_total": 140,
-            "points_github": 135,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 1,
-            "prs_created": 2,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 1,
             "replies": 0,
             "solutions": 0
         }

@@ -1,0 +1,43 @@
+{
+    "user_key": "gh-ericvhileman",
+    "display_name": "Eric Hileman",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/4987539?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=ericvhileman",
+    "github_login": "ericvhileman",
+    "forum_username": null,
+    "period": "2026-11",
+    "period_label": "November 2026",
+    "generated_at": "2026-11-12T04:12:22+00:00",
+    "points_total": 20,
+    "points_github": 20,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 2,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "ps-controller starves initial-list clusters under the default priority queue (5s requeue, ~6s reconcile from waitForCert's ticker)",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/1702",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2026-11-12",
+            "state": "open"
+        },
+        {
+            "title": "1.3.0: PerconaServerMySQLRestore fails on a crVersion 1.2.0 cluster: prepare Job's :1.2.0 init image has no run-prepare-restore.sh",
+            "url": "https:\/\/github.com\/percona\/percona-server-mysql-operator\/issues\/1701",
+            "repo": "percona\/percona-server-mysql-operator",
+            "date": "2026-11-12",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
