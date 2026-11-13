@@ -1,0 +1,37 @@
+{
+    "user_key": "gh-ritojoao",
+    "display_name": "Rito (João Rito)",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/16895040?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=ritojoao",
+    "github_login": "ritojoao",
+    "forum_username": null,
+    "period": "2026-11",
+    "period_label": "November 2026",
+    "generated_at": "2026-11-13T04:13:44+00:00",
+    "points_total": 25,
+    "points_github": 25,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 1,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "Honor s3.prefix for PITR binlog collector and restore",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/pull\/2621",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-12",
+            "merged": false,
+            "state": "open"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
