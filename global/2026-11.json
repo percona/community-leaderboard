@@ -2,7 +2,7 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-14T04:12:58+00:00",
+    "generated_at": "2026-11-15T04:12:06+00:00",
     "category": "global",
     "top30": [
         {
@@ -403,6 +403,28 @@
         },
         {
             "rank": 19,
+            "user_key": "gh-lofoneh",
+            "name": "lofoneh",
+            "display_name": "Jeffery Lofoneh Asamani",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/132576077?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=lofoneh",
+            "source": "GitHub",
+            "github_login": "lofoneh",
+            "forum_username": null,
+            "points_total": 25,
+            "points_github": 25,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 1,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 20,
             "user_key": "gh-ritojoao",
             "name": "ritojoao",
             "display_name": "Rito (João Rito)",
@@ -424,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-sled30",
             "name": "sled30",
             "display_name": "sled30",
@@ -446,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-ericvhileman",
             "name": "ericvhileman",
             "display_name": "Eric Hileman",
@@ -468,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-conan912",
             "name": "conan912",
             "display_name": "conan912",
@@ -490,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-ennekein",
             "name": "ennekein",
             "display_name": "ennekein",
@@ -512,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-kuzm1ch",
             "name": "kuzm1ch",
             "display_name": "Mykhailo Kuzmich",
@@ -534,7 +556,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-olafagbemi",
             "name": "olafagbemi",
             "display_name": "Ola Fagbemi",
@@ -556,7 +578,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-otherchen",
             "name": "otherchen",
             "display_name": "Andrew Chen",
@@ -578,7 +600,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-rgambelli",
             "name": "rgambelli",
             "display_name": "Raffaele Gambelli",
@@ -600,7 +622,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-scottescue",
             "name": "scottescue",
             "display_name": "Scott Escue",
@@ -622,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-tkatfastly",
             "name": "tkatfastly",
             "display_name": "tkatfastly",
@@ -640,28 +662,6 @@
             "prs_merged": 0,
             "blog_posts": 0,
             "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "fo-4goodhosting",
-            "name": "4GoodHosting",
-            "display_name": "4Good Hosting",
-            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/4goodhosting\/120\/24523_2.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=4GoodHosting",
-            "source": "Forum",
-            "github_login": null,
-            "forum_username": "4GoodHosting",
-            "points_total": 5,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 5,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 1,
             "replies": 0,
             "solutions": 0
         }
