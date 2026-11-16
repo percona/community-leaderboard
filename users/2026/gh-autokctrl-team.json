@@ -1,0 +1,87 @@
+{
+    "user_key": "gh-autokctrl-team",
+    "display_name": "Autokctrl",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/270182909?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=autokctrl-team",
+    "github_login": "autokctrl-team",
+    "forum_username": null,
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-11-16T04:12:04+00:00",
+    "points_total": 170,
+    "points_github": 170,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 7,
+    "prs_created": 1,
+    "prs_merged": 1,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "Wrapped NotYetInitialized errors bypass the liveness initialization exception",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2626",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-12",
+            "state": "open"
+        },
+        {
+            "title": "Should system-user credential read failures abort initialization?",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2618",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-12",
+            "state": "open"
+        },
+        {
+            "title": "operator can diverge DB user state and internal secret during system-user rename when admission webhook is unavailable",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2604",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-05",
+            "state": "closed"
+        },
+        {
+            "title": "Switching a custom user's `passwordSecretRef` back to a previous Secret leaves MongoDB using the wrong password",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2580",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-30",
+            "state": "open"
+        },
+        {
+            "title": "Operator does not distinguish the password based on different database",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2571",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-25",
+            "state": "open"
+        },
+        {
+            "title": "Replica-set reconfiguration resets explicit `chainingAllowed=false` to `true`",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2566",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-25",
+            "state": "open"
+        },
+        {
+            "title": "Password rotation cannot recover after internal Secret update failure",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2560",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-09-23",
+            "state": "open"
+        }
+    ],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1867 Fix replica set member limit boundary check",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2629",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-10-12",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

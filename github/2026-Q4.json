@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-11-15T04:12:06+00:00",
+    "generated_at": "2026-11-16T04:12:04+00:00",
     "category": "github",
     "top30": [
         {
@@ -70,6 +70,48 @@
         },
         {
             "rank": 4,
+            "user_key": "gh-autokctrl-team",
+            "name": "autokctrl-team",
+            "display_name": "Autokctrl",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/270182909?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=autokctrl-team",
+            "github_login": "autokctrl-team",
+            "forum_username": null,
+            "points_total": 130,
+            "points_github": 130,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 3,
+            "prs_created": 1,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 5,
+            "user_key": "gh-narmitag",
+            "name": "narmitag",
+            "display_name": "Neil Armitage",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
+            "github_login": "narmitag",
+            "forum_username": null,
+            "points_total": 125,
+            "points_github": 125,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 1,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 6,
             "user_key": "gh-shryukgrandhi",
             "name": "ShryukGrandhi",
             "display_name": "ShryukGrandhi",
@@ -90,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 7,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -111,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 8,
             "user_key": "gh-ethanlaj",
             "name": "ethanlaj",
             "display_name": "ethanlaj",
@@ -132,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 9,
             "user_key": "gh-kr-ravindra",
             "name": "KR-Ravindra",
             "display_name": "KR Ravindra",
@@ -153,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 10,
             "user_key": "gh-works-on-my-box",
             "name": "works-on-my-box",
             "display_name": "works-on-my-box",
@@ -174,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 11,
             "user_key": "gh-aslanahmtv",
             "name": "aslanahmtv",
             "display_name": "Aslan Akhmetov",
@@ -195,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 12,
             "user_key": "gh-timtech4u",
             "name": "Timtech4u",
             "display_name": "Timothy Olaleke",
@@ -216,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 13,
             "user_key": "gh-aidiew",
             "name": "AidieW",
             "display_name": "AidieW",
@@ -237,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 14,
             "user_key": "gh-bjoernrost",
             "name": "bjoernrost",
             "display_name": "Björn Rost",
@@ -258,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 15,
             "user_key": "gh-jackvansickle1",
             "name": "jackvansickle1",
             "display_name": "Jack VanSickle",
@@ -279,28 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
-            "user_key": "gh-narmitag",
-            "name": "narmitag",
-            "display_name": "Neil Armitage",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
-            "github_login": "narmitag",
-            "forum_username": null,
-            "points_total": 100,
-            "points_github": 100,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 15,
+            "rank": 16,
             "user_key": "gh-yananai-chiwuta",
             "name": "yananai-chiwuta",
             "display_name": "Yananai A. Chiwuta",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "gh-fabriziomello",
             "name": "fabriziomello",
             "display_name": "Fabrízio de Royes Mello",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "gh-zykovd",
             "name": "zykovd",
             "display_name": "Dmitry Zykov",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "gh-haifengcheng-chengdu",
             "name": "HaifengCheng-chengdu",
             "display_name": "Haifeng Cheng",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-sarankumar1325",
             "name": "sarankumar1325",
             "display_name": "sarankumar",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "gh-axchadxs",
             "name": "axchadxs",
             "display_name": "Alex",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-joncbenderkh",
             "name": "joncbenderkh",
             "display_name": "joncbenderkh",
@@ -447,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-muralimon",
             "name": "MuraliMon",
             "display_name": "Murali",
@@ -468,7 +489,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-therealdwright",
             "name": "therealdwright",
             "display_name": "Daniel Wright",
@@ -489,7 +510,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-bvwells",
             "name": "bvwells",
             "display_name": "Ben Wells",
@@ -510,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-kyriosgn0",
             "name": "KyriosGN0",
             "display_name": "AvivGuiser",
@@ -531,7 +552,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-franzli347",
             "name": "FranzLi347",
             "display_name": "Franz Li",
@@ -552,7 +573,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-rupakveerla",
             "name": "RupakVeerla",
             "display_name": "RupakVeerla",
@@ -573,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 29,
             "user_key": "gh-guanchzhou",
             "name": "guanchzhou",
             "display_name": "Andrey Maltsev",
@@ -594,34 +615,13 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-arpitjain099",
             "name": "arpitjain099",
             "display_name": "Arpit Jain",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/3242828?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=arpitjain099",
             "github_login": "arpitjain099",
-            "forum_username": null,
-            "points_total": 75,
-            "points_github": 75,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 1,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-tintinwinata",
-            "name": "TinTinWinata",
-            "display_name": "TinTin",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/86914748?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=TinTinWinata",
-            "github_login": "TinTinWinata",
             "forum_username": null,
             "points_total": 75,
             "points_github": 75,
