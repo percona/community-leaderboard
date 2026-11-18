@@ -2,11 +2,32 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-17T04:12:58+00:00",
+    "generated_at": "2026-11-18T04:12:34+00:00",
     "category": "forum",
     "top30": [
         {
             "rank": 1,
+            "user_key": "fo-fassipercona439",
+            "name": "FassiPercona439",
+            "display_name": "FassiPercona439",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/958977\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=FassiPercona439",
+            "github_login": null,
+            "forum_username": "FassiPercona439",
+            "points_total": 6,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 6,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 3,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
             "user_key": "fo-jigisha14",
             "name": "Jigisha14",
             "display_name": "Jigisha14",
@@ -27,7 +48,7 @@
             "solutions": 0
         },
         {
-            "rank": 2,
+            "rank": 3,
             "user_key": "fo-4goodhosting",
             "name": "4GoodHosting",
             "display_name": "4Good Hosting",
@@ -48,7 +69,28 @@
             "solutions": 0
         },
         {
-            "rank": 3,
+            "rank": 4,
+            "user_key": "fo-abhishek_kadam1",
+            "name": "Abhishek_Kadam1",
+            "display_name": "Abhishek Kadam",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/abhishek_kadam1\/120\/24535_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Abhishek_Kadam1",
+            "github_login": null,
+            "forum_username": "Abhishek_Kadam1",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 5,
             "user_key": "fo-lauraharris",
             "name": "lauraharris",
             "display_name": "lauraharris",
@@ -69,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 6,
             "user_key": "fo-emmaanderson",
             "name": "emmaanderson",
             "display_name": "emmaanderson",

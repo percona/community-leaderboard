@@ -1,13 +1,7 @@
 {
     "user_key": "gh-aidiew",
-    "generated_at": "2026-11-17T04:12:58+00:00",
+    "generated_at": "2026-11-18T04:12:34+00:00",
     "summit_periods": [
-        {
-            "period_key": "2026",
-            "period_label": "2026",
-            "period_type": "year",
-            "rank": 10
-        },
         {
             "period_key": "2026-Q4",
             "period_label": "Q4 2026",

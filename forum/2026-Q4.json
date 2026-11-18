@@ -2,7 +2,7 @@
     "period": "2026-Q4",
     "period_type": "quarter",
     "period_label": "Q4 2026",
-    "generated_at": "2026-11-17T04:12:58+00:00",
+    "generated_at": "2026-11-18T04:12:34+00:00",
     "category": "forum",
     "top30": [
         {
@@ -49,6 +49,27 @@
         },
         {
             "rank": 3,
+            "user_key": "fo-fassipercona439",
+            "name": "FassiPercona439",
+            "display_name": "FassiPercona439",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/958977\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=FassiPercona439",
+            "github_login": null,
+            "forum_username": "FassiPercona439",
+            "points_total": 6,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 6,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 3,
+            "solutions": 0
+        },
+        {
+            "rank": 4,
             "user_key": "fo-xraphael75",
             "name": "xraphael75",
             "display_name": "xraphael75",
@@ -69,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 5,
             "user_key": "fo-alexander_h",
             "name": "Alexander_H",
             "display_name": "Alexander H.",
@@ -90,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 6,
             "user_key": "fo-daniel_osuntoyinbo",
             "name": "Daniel_Osuntoyinbo",
             "display_name": "Daniel Osuntoyinbo",
@@ -111,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 7,
             "user_key": "fo-carlos-mejia-ven",
             "name": "carlos.mejia.ven",
             "display_name": "carlos.mejia.ven",
@@ -132,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 8,
             "user_key": "fo-stofa-kenida",
             "name": "stofa.kenida",
             "display_name": "stofa.kenida",
@@ -153,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 9,
             "user_key": "fo-maximo_martinez",
             "name": "Maximo_Martinez",
             "display_name": "Maximo Martinez",
@@ -174,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 9,
+            "rank": 10,
             "user_key": "fo-kase007",
             "name": "kase007",
             "display_name": "kase007",
@@ -195,7 +216,7 @@
             "solutions": 0
         },
         {
-            "rank": 10,
+            "rank": 11,
             "user_key": "fo-jin-wen",
             "name": "jin.wen",
             "display_name": "jin.wen",
@@ -216,7 +237,7 @@
             "solutions": 0
         },
         {
-            "rank": 11,
+            "rank": 12,
             "user_key": "fo-sidney_cheina",
             "name": "Sidney_Cheina",
             "display_name": "Sidney_Fco",
@@ -237,7 +258,7 @@
             "solutions": 0
         },
         {
-            "rank": 12,
+            "rank": 13,
             "user_key": "fo-ysysberserk2",
             "name": "ysysberserk2",
             "display_name": "ysysberserk2",
@@ -258,7 +279,7 @@
             "solutions": 0
         },
         {
-            "rank": 13,
+            "rank": 14,
             "user_key": "fo-zhangxl890207",
             "name": "zhangxl890207",
             "display_name": "小龙 张",
@@ -279,7 +300,7 @@
             "solutions": 0
         },
         {
-            "rank": 14,
+            "rank": 15,
             "user_key": "fo-daniel_muhra",
             "name": "Daniel_Muhra",
             "display_name": "Daniel Muhra",
@@ -300,7 +321,7 @@
             "solutions": 0
         },
         {
-            "rank": 15,
+            "rank": 16,
             "user_key": "fo-akshayrg09",
             "name": "Akshayrg09",
             "display_name": "GAR",
@@ -321,7 +342,7 @@
             "solutions": 0
         },
         {
-            "rank": 16,
+            "rank": 17,
             "user_key": "fo-nick1",
             "name": "nick1",
             "display_name": "nick1",
@@ -342,7 +363,7 @@
             "solutions": 0
         },
         {
-            "rank": 17,
+            "rank": 18,
             "user_key": "fo-vagrawal",
             "name": "vagrawal",
             "display_name": "Vishal Agrawal",
@@ -363,7 +384,7 @@
             "solutions": 0
         },
         {
-            "rank": 18,
+            "rank": 19,
             "user_key": "fo-nevtech",
             "name": "NevTech",
             "display_name": "Neveen Raees",
@@ -384,7 +405,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "fo-burak_a",
             "name": "Burak_A",
             "display_name": "Burak A.",
@@ -405,7 +426,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "fo-jigisha14",
             "name": "Jigisha14",
             "display_name": "Jigisha14",
@@ -426,7 +447,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "fo-4goodhosting",
             "name": "4GoodHosting",
             "display_name": "4Good Hosting",
@@ -447,7 +468,28 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
+            "user_key": "fo-abhishek_kadam1",
+            "name": "Abhishek_Kadam1",
+            "display_name": "Abhishek Kadam",
+            "avatar_url": "https:\/\/forums.percona.com\/user_avatar\/forums.percona.com\/abhishek_kadam1\/120\/24535_2.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=Abhishek_Kadam1",
+            "github_login": null,
+            "forum_username": "Abhishek_Kadam1",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 24,
             "user_key": "fo-dogs_cute",
             "name": "dogs_Cute",
             "display_name": "dogs Cute",
@@ -468,7 +510,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 25,
             "user_key": "fo-lauraharris",
             "name": "lauraharris",
             "display_name": "lauraharris",
@@ -489,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 26,
             "user_key": "fo-monikagreyy",
             "name": "MonikaGreyy",
             "display_name": "MonikaGreyy ",
@@ -510,7 +552,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 27,
             "user_key": "fo-isersea",
             "name": "isersea",
             "display_name": "isersea",
@@ -531,7 +573,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 28,
             "user_key": "fo-screen_white",
             "name": "Screen_White",
             "display_name": "Screen White",
@@ -552,7 +594,7 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 29,
             "user_key": "fo-emmaanderson",
             "name": "emmaanderson",
             "display_name": "emmaanderson",
@@ -573,7 +615,7 @@
             "solutions": 0
         },
         {
-            "rank": 28,
+            "rank": 30,
             "user_key": "fo-hostersale",
             "name": "hostersale",
             "display_name": "hostersale",

@@ -1,0 +1,44 @@
+{
+    "user_key": "fo-fassipercona439",
+    "display_name": "FassiPercona439",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/f\/958977\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=FassiPercona439",
+    "github_login": null,
+    "forum_username": "FassiPercona439",
+    "period": "2026-11",
+    "period_label": "November 2026",
+    "generated_at": "2026-11-18T04:12:34+00:00",
+    "points_total": 6,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 6,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 3,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [
+        {
+            "topic_title": "XtraDB & Kubernetes compatibility matrix",
+            "url": "https:\/\/forums.percona.com\/t\/xtradb-kubernetes-compatibility-matrix\/8",
+            "date": "2026-11-17"
+        },
+        {
+            "topic_title": "XtraDB & Kubernetes compatibility matrix",
+            "url": "https:\/\/forums.percona.com\/t\/xtradb-kubernetes-compatibility-matrix\/9",
+            "date": "2026-11-17"
+        },
+        {
+            "topic_title": "XtraDB & Kubernetes compatibility matrix",
+            "url": "https:\/\/forums.percona.com\/t\/xtradb-kubernetes-compatibility-matrix\/10",
+            "date": "2026-11-17"
+        }
+    ],
+    "forum_solutions": []
+}
