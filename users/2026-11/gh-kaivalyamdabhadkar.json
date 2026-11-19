@@ -7,7 +7,7 @@
     "forum_username": null,
     "period": "2026-11",
     "period_label": "November 2026",
-    "generated_at": "2026-11-18T04:12:34+00:00",
+    "generated_at": "2026-11-19T04:13:32+00:00",
     "points_total": 35,
     "points_github": 35,
     "points_content": 0,
@@ -30,7 +30,7 @@
     ],
     "github_prs": [
         {
-            "title": "Show mongod's output when mongod --version fails in ps-entry.sh",
+            "title": "K8SPSMDB-1945: Show mongod's output when mongod --version fails in ps-entry.sh",
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2719",
             "repo": "percona\/percona-server-mongodb-operator",
             "date": "2026-11-17",

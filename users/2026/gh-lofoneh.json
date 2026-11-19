@@ -1,0 +1,61 @@
+{
+    "user_key": "gh-lofoneh",
+    "display_name": "Jeffery Lofoneh Asamani",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/132576077?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=lofoneh",
+    "github_login": "lofoneh",
+    "forum_username": null,
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-11-19T04:13:32+00:00",
+    "points_total": 250,
+    "points_github": 250,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 0,
+    "prs_created": 4,
+    "prs_merged": 2,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [
+        {
+            "title": "PBM-1713: Support unix socket mongo-uri",
+            "url": "https:\/\/github.com\/percona\/percona-backup-mongodb\/pull\/1420",
+            "repo": "percona\/percona-backup-mongodb",
+            "date": "2026-11-16",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PCSM-398: Restore run options and pauseOnInitialSync after a restart",
+            "url": "https:\/\/github.com\/percona\/percona-clustersync-mongodb\/pull\/302",
+            "repo": "percona\/percona-clustersync-mongodb",
+            "date": "2026-11-16",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "K8SPSMDB-1935: Keep the sharding condition in sync while backups are disabled",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2714",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-16",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "PCSM-339: Retry transient codes in bulk write errors",
+            "url": "https:\/\/github.com\/percona\/percona-clustersync-mongodb\/pull\/300",
+            "repo": "percona\/percona-clustersync-mongodb",
+            "date": "2026-11-14",
+            "merged": true,
+            "state": "closed"
+        }
+    ],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

@@ -7,16 +7,16 @@
     "forum_username": "Yeruchom",
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-11-18T04:12:34+00:00",
-    "points_total": 12,
+    "generated_at": "2026-11-19T04:13:32+00:00",
+    "points_total": 17,
     "points_github": 0,
     "points_content": 0,
-    "points_forum": 12,
+    "points_forum": 17,
     "issues_created": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
-    "topics_created": 2,
+    "topics_created": 3,
     "replies": 1,
     "solutions": 0,
     "github_issues": [],
@@ -32,6 +32,11 @@
             "title": "Initial-sync clone hangs forever after source primary election",
             "url": "https:\/\/forums.percona.com\/t\/initial-sync-clone-hangs-forever-after-source-primary-election",
             "date": "2026-06-07"
+        },
+        {
+            "title": "Plans to certify PSMDB 8.0.38 for the MongoDB operator?",
+            "url": "https:\/\/forums.percona.com\/t\/plans-to-certify-psmdb-8-0-38-for-the-mongodb-operator",
+            "date": "2026-11-18"
         }
     ],
     "forum_replies": [

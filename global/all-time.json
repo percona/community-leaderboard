@@ -2,7 +2,7 @@
     "period": "all-time",
     "period_type": "all-time",
     "period_label": "All Time",
-    "generated_at": "2026-11-18T04:12:34+00:00",
+    "generated_at": "2026-11-19T04:13:32+00:00",
     "category": "global",
     "top30": [
         {
@@ -381,6 +381,28 @@
         },
         {
             "rank": 18,
+            "user_key": "gh-tomas-villagesql",
+            "name": "tomas-villagesql",
+            "display_name": "Tomas Ulin",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/247905169?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=tomas-villagesql",
+            "source": "GitHub",
+            "github_login": "tomas-villagesql",
+            "forum_username": null,
+            "points_total": 325,
+            "points_github": 325,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 4,
+            "prs_merged": 3,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 19,
             "user_key": "gh-yoav-katz",
             "name": "yoav-katz",
             "display_name": "yoav-katz",
@@ -402,7 +424,7 @@
             "solutions": 0
         },
         {
-            "rank": 19,
+            "rank": 20,
             "user_key": "gh-l2dy",
             "name": "l2dy",
             "display_name": "Zero King",
@@ -424,7 +446,7 @@
             "solutions": 0
         },
         {
-            "rank": 20,
+            "rank": 21,
             "user_key": "bl-isobel-smith",
             "name": "Isobel Smith",
             "display_name": "Isobel Smith",
@@ -446,7 +468,7 @@
             "solutions": 0
         },
         {
-            "rank": 21,
+            "rank": 22,
             "user_key": "gh-izzysmith",
             "name": "IzzySmith",
             "display_name": "Isobel Smith ",
@@ -468,7 +490,7 @@
             "solutions": 0
         },
         {
-            "rank": 22,
+            "rank": 23,
             "user_key": "gh-dratushnyy",
             "name": "dratushnyy",
             "display_name": "Dmitry Ratushnyy",
@@ -490,7 +512,7 @@
             "solutions": 0
         },
         {
-            "rank": 23,
+            "rank": 24,
             "user_key": "gh-japinli",
             "name": "japinli",
             "display_name": "Japin Li",
@@ -512,7 +534,7 @@
             "solutions": 0
         },
         {
-            "rank": 24,
+            "rank": 25,
             "user_key": "gh-t-yrka",
             "name": "t-yrka",
             "display_name": "t-yrka",
@@ -520,28 +542,6 @@
             "profile_url": "\/web\/leaderboard\/profile?github=t-yrka",
             "source": "GitHub",
             "github_login": "t-yrka",
-            "forum_username": null,
-            "points_total": 300,
-            "points_github": 300,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 3,
-            "prs_merged": 3,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 25,
-            "user_key": "gh-tomas-villagesql",
-            "name": "tomas-villagesql",
-            "display_name": "Tomas Ulin",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/247905169?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=tomas-villagesql",
-            "source": "GitHub",
-            "github_login": "tomas-villagesql",
             "forum_username": null,
             "points_total": 300,
             "points_github": 300,
@@ -601,6 +601,28 @@
         },
         {
             "rank": 28,
+            "user_key": "gh-lofoneh",
+            "name": "lofoneh",
+            "display_name": "Jeffery Lofoneh Asamani",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/132576077?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=lofoneh",
+            "source": "GitHub",
+            "github_login": "lofoneh",
+            "forum_username": null,
+            "points_total": 250,
+            "points_github": 250,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 4,
+            "prs_merged": 2,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 29,
             "user_key": "gh-devrimgunduz",
             "name": "devrimgunduz",
             "display_name": "Devrim Gündüz",
@@ -622,7 +644,7 @@
             "solutions": 0
         },
         {
-            "rank": 29,
+            "rank": 30,
             "user_key": "gh-jeffreydwalter",
             "name": "jeffreydwalter",
             "display_name": "Jeffrey Walter",
@@ -637,28 +659,6 @@
             "points_forum": 0,
             "issues_created": 4,
             "prs_created": 2,
-            "prs_merged": 2,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 30,
-            "user_key": "gh-aidiew",
-            "name": "AidieW",
-            "display_name": "AidieW",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/101553366?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=AidieW",
-            "source": "GitHub",
-            "github_login": "AidieW",
-            "forum_username": null,
-            "points_total": 225,
-            "points_github": 225,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 3,
             "prs_merged": 2,
             "blog_posts": 0,
             "topics_created": 0,
