@@ -2,11 +2,53 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-19T04:13:32+00:00",
+    "generated_at": "2026-11-20T04:13:57+00:00",
     "category": "forum",
     "top30": [
         {
             "rank": 1,
+            "user_key": "fo-ethantaylor",
+            "name": "ethantaylor",
+            "display_name": "ethantaylor",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/ebca7d\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ethantaylor",
+            "github_login": null,
+            "forum_username": "ethantaylor",
+            "points_total": 8,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 8,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 4,
+            "solutions": 0
+        },
+        {
+            "rank": 2,
+            "user_key": "fo-lauraharris",
+            "name": "lauraharris",
+            "display_name": "lauraharris",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/e19adc\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=lauraharris",
+            "github_login": null,
+            "forum_username": "lauraharris",
+            "points_total": 8,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 8,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 4,
+            "solutions": 0
+        },
+        {
+            "rank": 3,
             "user_key": "fo-fassipercona439",
             "name": "FassiPercona439",
             "display_name": "FassiPercona439",
@@ -27,7 +69,7 @@
             "solutions": 0
         },
         {
-            "rank": 2,
+            "rank": 4,
             "user_key": "fo-jigisha14",
             "name": "Jigisha14",
             "display_name": "Jigisha14",
@@ -48,7 +90,7 @@
             "solutions": 0
         },
         {
-            "rank": 3,
+            "rank": 5,
             "user_key": "fo-4goodhosting",
             "name": "4GoodHosting",
             "display_name": "4Good Hosting",
@@ -69,7 +111,7 @@
             "solutions": 0
         },
         {
-            "rank": 4,
+            "rank": 6,
             "user_key": "fo-abhishek_kadam1",
             "name": "Abhishek_Kadam1",
             "display_name": "Abhishek Kadam",
@@ -90,7 +132,7 @@
             "solutions": 0
         },
         {
-            "rank": 5,
+            "rank": 7,
             "user_key": "fo-afmf",
             "name": "afmf",
             "display_name": "afmf",
@@ -111,7 +153,7 @@
             "solutions": 0
         },
         {
-            "rank": 6,
+            "rank": 8,
             "user_key": "fo-yeruchom",
             "name": "Yeruchom",
             "display_name": "Yeruchom",
@@ -132,7 +174,7 @@
             "solutions": 0
         },
         {
-            "rank": 7,
+            "rank": 9,
             "user_key": "fo-pravata_dash",
             "name": "pravata_dash",
             "display_name": "pravata dash",
@@ -153,7 +195,7 @@
             "solutions": 0
         },
         {
-            "rank": 8,
+            "rank": 10,
             "user_key": "fo-sameer_malve",
             "name": "sameer_malve",
             "display_name": "sameer malve",
@@ -174,49 +216,28 @@
             "solutions": 0
         },
         {
-            "rank": 9,
-            "user_key": "fo-ethantaylor",
-            "name": "ethantaylor",
-            "display_name": "ethantaylor",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/ebca7d\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=ethantaylor",
-            "github_login": null,
-            "forum_username": "ethantaylor",
-            "points_total": 4,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 4,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 2,
-            "solutions": 0
-        },
-        {
-            "rank": 10,
-            "user_key": "fo-lauraharris",
-            "name": "lauraharris",
-            "display_name": "lauraharris",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/l\/e19adc\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=lauraharris",
-            "github_login": null,
-            "forum_username": "lauraharris",
-            "points_total": 4,
-            "points_github": 0,
-            "points_content": 0,
-            "points_forum": 4,
-            "issues_created": 0,
-            "prs_created": 0,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 2,
-            "solutions": 0
-        },
-        {
             "rank": 11,
+            "user_key": "fo-ysysberserk2",
+            "name": "ysysberserk2",
+            "display_name": "ysysberserk2",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/y\/c89c15\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ysysberserk2",
+            "github_login": null,
+            "forum_username": "ysysberserk2",
+            "points_total": 5,
+            "points_github": 0,
+            "points_content": 0,
+            "points_forum": 5,
+            "issues_created": 0,
+            "prs_created": 0,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 1,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 12,
             "user_key": "fo-emmaanderson",
             "name": "emmaanderson",
             "display_name": "emmaanderson",
