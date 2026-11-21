@@ -2,7 +2,7 @@
     "period": "2026",
     "period_type": "year",
     "period_label": "2026",
-    "generated_at": "2026-11-20T04:13:57+00:00",
+    "generated_at": "2026-11-21T04:12:34+00:00",
     "category": "forum",
     "top30": [
         {
@@ -616,23 +616,23 @@
         },
         {
             "rank": 30,
-            "user_key": "fo-acelayir",
-            "name": "acelayir",
-            "display_name": "Akif Celayir",
-            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/a\/e68b1a\/120.png",
-            "profile_url": "\/web\/leaderboard\/profile?forum=acelayir",
+            "user_key": "fo-ethantaylor",
+            "name": "ethantaylor",
+            "display_name": "ethantaylor",
+            "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/ebca7d\/120.png",
+            "profile_url": "\/web\/leaderboard\/profile?forum=ethantaylor",
             "github_login": null,
-            "forum_username": "acelayir",
-            "points_total": 12,
+            "forum_username": "ethantaylor",
+            "points_total": 13,
             "points_github": 0,
             "points_content": 0,
-            "points_forum": 12,
+            "points_forum": 13,
             "issues_created": 0,
             "prs_created": 0,
             "prs_merged": 0,
             "blog_posts": 0,
-            "topics_created": 2,
-            "replies": 1,
+            "topics_created": 1,
+            "replies": 4,
             "solutions": 0
         }
     ]

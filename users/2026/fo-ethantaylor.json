@@ -1,0 +1,55 @@
+{
+    "user_key": "fo-ethantaylor",
+    "display_name": "ethantaylor",
+    "avatar_url": "https:\/\/avatars.discourse-cdn.com\/v4\/letter\/e\/ebca7d\/120.png",
+    "profile_url": "\/web\/leaderboard\/profile?forum=ethantaylor",
+    "github_login": null,
+    "forum_username": "ethantaylor",
+    "period": "2026",
+    "period_label": "2026",
+    "generated_at": "2026-11-21T04:12:34+00:00",
+    "points_total": 13,
+    "points_github": 0,
+    "points_content": 0,
+    "points_forum": 13,
+    "issues_created": 0,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 1,
+    "replies": 4,
+    "solutions": 0,
+    "github_issues": [],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [
+        {
+            "title": "Deciding between Percona XtraBackup and mysqldump for a small production database?",
+            "url": "https:\/\/forums.percona.com\/t\/deciding-between-percona-xtrabackup-and-mysqldump-for-a-small-production-database",
+            "date": "2026-11-20"
+        }
+    ],
+    "forum_replies": [
+        {
+            "topic_title": "Percona MySQL 8.0 migration to Aurora MySQL",
+            "url": "https:\/\/forums.percona.com\/t\/percona-mysql-8-0-migration-to-aurora-mysql\/9",
+            "date": "2026-11-18"
+        },
+        {
+            "topic_title": "PXC operator 1.20.0: custom user reconcile loops forever (view definer, error 4006) and repeated CREATE DATABASE aborts app transactions",
+            "url": "https:\/\/forums.percona.com\/t\/pxc-operator-1-20-0-custom-user-reconcile-loops-forever-view-definer-error-4006-and-repeated-create-database-aborts-app-transactions\/4",
+            "date": "2026-11-19"
+        },
+        {
+            "topic_title": "Running MySQL for Canadian clients: keeping data, binlogs and backups in Canada",
+            "url": "https:\/\/forums.percona.com\/t\/running-mysql-for-canadian-clients-keeping-data-binlogs-and-backups-in-canada\/3",
+            "date": "2026-11-18"
+        },
+        {
+            "topic_title": "Let the PCSM initial clone read from a secondary or hidden member",
+            "url": "https:\/\/forums.percona.com\/t\/let-the-pcsm-initial-clone-read-from-a-secondary-or-hidden-member\/3",
+            "date": "2026-11-19"
+        }
+    ],
+    "forum_solutions": []
+}
