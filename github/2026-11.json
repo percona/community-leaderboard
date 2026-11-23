@@ -2,7 +2,7 @@
     "period": "2026-11",
     "period_type": "month",
     "period_label": "November 2026",
-    "generated_at": "2026-11-22T04:12:11+00:00",
+    "generated_at": "2026-11-23T04:12:20+00:00",
     "category": "github",
     "top30": [
         {
@@ -490,6 +490,27 @@
         },
         {
             "rank": 24,
+            "user_key": "gh-narmitag",
+            "name": "narmitag",
+            "display_name": "Neil Armitage",
+            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
+            "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
+            "github_login": "narmitag",
+            "forum_username": null,
+            "points_total": 50,
+            "points_github": 50,
+            "points_content": 0,
+            "points_forum": 0,
+            "issues_created": 0,
+            "prs_created": 2,
+            "prs_merged": 0,
+            "blog_posts": 0,
+            "topics_created": 0,
+            "replies": 0,
+            "solutions": 0
+        },
+        {
+            "rank": 25,
             "user_key": "gh-kaivalyamdabhadkar",
             "name": "KaivalyaMDabhadkar",
             "display_name": "KaivalyaMDabhadkar",
@@ -510,7 +531,7 @@
             "solutions": 0
         },
         {
-            "rank": 25,
+            "rank": 26,
             "user_key": "gh-sled30",
             "name": "sled30",
             "display_name": "sled30",
@@ -531,7 +552,7 @@
             "solutions": 0
         },
         {
-            "rank": 26,
+            "rank": 27,
             "user_key": "gh-ritojoao",
             "name": "ritojoao",
             "display_name": "Rito (João Rito)",
@@ -552,34 +573,13 @@
             "solutions": 0
         },
         {
-            "rank": 27,
+            "rank": 28,
             "user_key": "gh-kgalieva",
             "name": "kgalieva",
             "display_name": "Kate Galieva",
             "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/553032?v=4",
             "profile_url": "\/web\/leaderboard\/profile?github=kgalieva",
             "github_login": "kgalieva",
-            "forum_username": null,
-            "points_total": 25,
-            "points_github": 25,
-            "points_content": 0,
-            "points_forum": 0,
-            "issues_created": 0,
-            "prs_created": 1,
-            "prs_merged": 0,
-            "blog_posts": 0,
-            "topics_created": 0,
-            "replies": 0,
-            "solutions": 0
-        },
-        {
-            "rank": 28,
-            "user_key": "gh-narmitag",
-            "name": "narmitag",
-            "display_name": "Neil Armitage",
-            "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/206800?v=4",
-            "profile_url": "\/web\/leaderboard\/profile?github=narmitag",
-            "github_login": "narmitag",
             "forum_username": null,
             "points_total": 25,
             "points_github": 25,
