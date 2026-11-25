@@ -1,0 +1,85 @@
+{
+    "user_key": "gh-slackshadow",
+    "display_name": "slackshadow",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/313993390?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=slackshadow",
+    "github_login": "slackshadow",
+    "forum_username": null,
+    "period": "2026-11",
+    "period_label": "November 2026",
+    "generated_at": "2026-11-25T04:15:18+00:00",
+    "points_total": 80,
+    "points_github": 80,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 8,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "appStatus reads container logs of foreign Pods matching PXC labels and puts healthy cluster into error state",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2631",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Full cluster crash recovery status patch wipes in-memory CheckNSetDefaults fields, causing nil-pointer panic or empty SSL secret errors",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2630",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Custom user with dbs and empty grants is re-created\/updated on every reconcile",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2629",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Custom mongos exec readinessProbe\/livenessProbe Command[0] is overwritten with \/opt\/percona\/mongodb-healthcheck",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2751",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Reverting a paused replica-set replacement wedges Reconcile in checkIfUserDataExistInRS before recreating the original StatefulSet",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2750",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Disabling Search deletes the mongod ConfigMap while existing Pods still launch with --config",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2749",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Enabling spec.search on an unsupported PSMDB image injects useGrpcForSearch and crash-loops mongod",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2748",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Removing configured PVC annotations or labels from CR leaves stale keys on existing PVCs",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2741",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-23",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}

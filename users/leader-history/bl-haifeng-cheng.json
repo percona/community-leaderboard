@@ -1,12 +1,12 @@
 {
     "user_key": "bl-haifeng-cheng",
-    "generated_at": "2026-11-24T04:14:31+00:00",
+    "generated_at": "2026-11-25T04:15:18+00:00",
     "summit_periods": [
         {
             "period_key": "2026-11",
             "period_label": "November 2026",
             "period_type": "month",
-            "rank": 6
+            "rank": 8
         }
     ]
 }
