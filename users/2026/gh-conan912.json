@@ -7,20 +7,44 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-09-11T04:12:41+00:00",
-    "points_total": 100,
-    "points_github": 100,
+    "generated_at": "2026-11-26T04:13:55+00:00",
+    "points_total": 160,
+    "points_github": 160,
     "points_content": 0,
     "points_forum": 0,
-    "issues_created": 0,
-    "prs_created": 1,
+    "issues_created": 1,
+    "prs_created": 3,
     "prs_merged": 1,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
     "solutions": 0,
-    "github_issues": [],
+    "github_issues": [
+        {
+            "title": "When search is enabled, the restore controller does not reset mongot.",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2692",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-05",
+            "state": "open"
+        }
+    ],
     "github_prs": [
+        {
+            "title": "K8SPSMDB-1951: Bring mongot back after a snapshot restore",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2755",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "K8SPSMDB-1950: Delete mongot PVCs after a physical restore",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2754",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "open"
+        },
         {
             "title": "K8SPSMDB-1553 fixed by preserving restartedAt annotation during StatefulSet recreate",
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2182",

@@ -7,13 +7,13 @@
     "forum_username": null,
     "period": "2026-11",
     "period_label": "November 2026",
-    "generated_at": "2026-11-17T04:12:58+00:00",
-    "points_total": 10,
-    "points_github": 10,
+    "generated_at": "2026-11-26T04:13:55+00:00",
+    "points_total": 60,
+    "points_github": 60,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 1,
-    "prs_created": 0,
+    "prs_created": 2,
     "prs_merged": 0,
     "blog_posts": 0,
     "topics_created": 0,
@@ -28,7 +28,24 @@
             "state": "open"
         }
     ],
-    "github_prs": [],
+    "github_prs": [
+        {
+            "title": "K8SPSMDB-1951: Bring mongot back after a snapshot restore",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2755",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "open"
+        },
+        {
+            "title": "K8SPSMDB-1950: Delete mongot PVCs after a physical restore",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/pull\/2754",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "open"
+        }
+    ],
     "blog_list": [],
     "forum_topics": [],
     "forum_replies": [],
