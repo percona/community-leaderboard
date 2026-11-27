@@ -7,14 +7,14 @@
     "forum_username": null,
     "period": "2026-11",
     "period_label": "November 2026",
-    "generated_at": "2026-11-26T04:13:55+00:00",
-    "points_total": 125,
-    "points_github": 125,
+    "generated_at": "2026-11-27T04:14:00+00:00",
+    "points_total": 950,
+    "points_github": 950,
     "points_content": 0,
     "points_forum": 0,
     "issues_created": 0,
-    "prs_created": 5,
-    "prs_merged": 0,
+    "prs_created": 14,
+    "prs_merged": 8,
     "blog_posts": 0,
     "topics_created": 0,
     "replies": 0,
@@ -22,20 +22,92 @@
     "github_issues": [],
     "github_prs": [
         {
+            "title": "Release common-upgrade-3",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/354",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Release 19.0-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/353",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Release 18.7-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/352",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Release 17.12-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/351",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Release 19.0-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/349",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Release 18.7-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/348",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Release 17.12-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/347",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": false,
+            "state": "closed"
+        },
+        {
+            "title": "Release common-tools-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/346",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
+            "title": "Release 14.25-2",
+            "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/345",
+            "repo": "percona\/obs-packaging",
+            "date": "2026-11-26",
+            "merged": true,
+            "state": "closed"
+        },
+        {
             "title": "Release 15.20-2",
             "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/344",
             "repo": "percona\/obs-packaging",
             "date": "2026-11-26",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "Release 16.16-2",
             "url": "https:\/\/github.com\/percona\/obs-packaging\/pull\/343",
             "repo": "percona\/obs-packaging",
             "date": "2026-11-25",
-            "merged": false,
-            "state": "open"
+            "merged": true,
+            "state": "closed"
         },
         {
             "title": "Release 14.25-2",

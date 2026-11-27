@@ -7,12 +7,12 @@
     "forum_username": null,
     "period": "2026",
     "period_label": "2026",
-    "generated_at": "2026-11-26T04:13:55+00:00",
-    "points_total": 170,
-    "points_github": 170,
+    "generated_at": "2026-11-27T04:14:00+00:00",
+    "points_total": 210,
+    "points_github": 210,
     "points_content": 0,
     "points_forum": 0,
-    "issues_created": 7,
+    "issues_created": 11,
     "prs_created": 1,
     "prs_merged": 1,
     "blog_posts": 0,
@@ -20,6 +20,34 @@
     "replies": 0,
     "solutions": 0,
     "github_issues": [
+        {
+            "title": "Adding an arbiter to a 7-voter replica set fails with `NewReplicaSetConfigurationIncompatible` before voter adjustment can run",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2765",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Setting the current primary's `replsetOverrides` priority to `0` fails with `NodeNotElectable` without stepping down the primary",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2764",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Expired PBM locks in MongoDB are treated as active jobs and block backups indefinitely",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2763",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "state": "open"
+        },
+        {
+            "title": "Restore CR hangs in requested or running when PBM ends in partlyDone or fails before copyReady",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2762",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-26",
+            "state": "open"
+        },
         {
             "title": "Wrapped NotYetInitialized errors bypass the liveness initialization exception",
             "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2626",

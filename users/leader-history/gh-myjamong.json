@@ -1,18 +1,12 @@
 {
     "user_key": "gh-myjamong",
-    "generated_at": "2026-11-26T04:13:55+00:00",
+    "generated_at": "2026-11-27T04:14:00+00:00",
     "summit_periods": [
-        {
-            "period_key": "all-time",
-            "period_label": "All Time",
-            "period_type": "all-time",
-            "rank": 10
-        },
         {
             "period_key": "2026",
             "period_label": "2026",
             "period_type": "year",
-            "rank": 3
+            "rank": 4
         }
     ]
 }
