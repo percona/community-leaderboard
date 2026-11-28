@@ -7,12 +7,12 @@
     "forum_username": null,
     "period": "2026-11",
     "period_label": "November 2026",
-    "generated_at": "2026-11-27T04:14:00+00:00",
-    "points_total": 80,
-    "points_github": 80,
+    "generated_at": "2026-11-28T04:13:29+00:00",
+    "points_total": 140,
+    "points_github": 140,
     "points_content": 0,
     "points_forum": 0,
-    "issues_created": 8,
+    "issues_created": 14,
     "prs_created": 0,
     "prs_merged": 0,
     "blog_posts": 0,
@@ -20,6 +20,48 @@
     "replies": 0,
     "solutions": 0,
     "github_issues": [
+        {
+            "title": "SmartUpdate blocks newer CR generations in waitPodRestart while waiting up to 2 hours on a stale rollout",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2638",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "reconcileUsers error returns before deploy\/updatePod, preventing configuration rollback that would remove the password policy",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2637",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "SmartUpdate deadlocks when HAProxy is unready because outdated unready PXC pods are never replaced",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2636",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Setting spec.pxc.readinessProbes.tcpSocket fails StatefulSet update with \"may not specify more than 1 handler type\"",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2635",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Auto-generated system user passwords can omit digits or letter cases required by MySQL validate_password",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2634",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "pxcbackup-controller panics on nil cluster.Spec.Backup when spec.backup is removed while a backup is in progress",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2633",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
         {
             "title": "appStatus reads container logs of foreign Pods matching PXC labels and puts healthy cluster into error state",
             "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2631",

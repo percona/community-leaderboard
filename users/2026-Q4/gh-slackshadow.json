@@ -1,0 +1,127 @@
+{
+    "user_key": "gh-slackshadow",
+    "display_name": "slackshadow",
+    "avatar_url": "https:\/\/avatars.githubusercontent.com\/u\/313993390?v=4",
+    "profile_url": "\/web\/leaderboard\/profile?github=slackshadow",
+    "github_login": "slackshadow",
+    "forum_username": null,
+    "period": "2026-Q4",
+    "period_label": "Q4 2026",
+    "generated_at": "2026-11-28T04:13:29+00:00",
+    "points_total": 140,
+    "points_github": 140,
+    "points_content": 0,
+    "points_forum": 0,
+    "issues_created": 14,
+    "prs_created": 0,
+    "prs_merged": 0,
+    "blog_posts": 0,
+    "topics_created": 0,
+    "replies": 0,
+    "solutions": 0,
+    "github_issues": [
+        {
+            "title": "SmartUpdate blocks newer CR generations in waitPodRestart while waiting up to 2 hours on a stale rollout",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2638",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "reconcileUsers error returns before deploy\/updatePod, preventing configuration rollback that would remove the password policy",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2637",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "SmartUpdate deadlocks when HAProxy is unready because outdated unready PXC pods are never replaced",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2636",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Setting spec.pxc.readinessProbes.tcpSocket fails StatefulSet update with \"may not specify more than 1 handler type\"",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2635",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "Auto-generated system user passwords can omit digits or letter cases required by MySQL validate_password",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2634",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "pxcbackup-controller panics on nil cluster.Spec.Backup when spec.backup is removed while a backup is in progress",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2633",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-27",
+            "state": "open"
+        },
+        {
+            "title": "appStatus reads container logs of foreign Pods matching PXC labels and puts healthy cluster into error state",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2631",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Full cluster crash recovery status patch wipes in-memory CheckNSetDefaults fields, causing nil-pointer panic or empty SSL secret errors",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2630",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Custom user with dbs and empty grants is re-created\/updated on every reconcile",
+            "url": "https:\/\/github.com\/percona\/percona-xtradb-cluster-operator\/issues\/2629",
+            "repo": "percona\/percona-xtradb-cluster-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Custom mongos exec readinessProbe\/livenessProbe Command[0] is overwritten with \/opt\/percona\/mongodb-healthcheck",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2751",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Reverting a paused replica-set replacement wedges Reconcile in checkIfUserDataExistInRS before recreating the original StatefulSet",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2750",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Disabling Search deletes the mongod ConfigMap while existing Pods still launch with --config",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2749",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Enabling spec.search on an unsupported PSMDB image injects useGrpcForSearch and crash-loops mongod",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2748",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-24",
+            "state": "open"
+        },
+        {
+            "title": "Removing configured PVC annotations or labels from CR leaves stale keys on existing PVCs",
+            "url": "https:\/\/github.com\/percona\/percona-server-mongodb-operator\/issues\/2741",
+            "repo": "percona\/percona-server-mongodb-operator",
+            "date": "2026-11-23",
+            "state": "open"
+        }
+    ],
+    "github_prs": [],
+    "blog_list": [],
+    "forum_topics": [],
+    "forum_replies": [],
+    "forum_solutions": []
+}
